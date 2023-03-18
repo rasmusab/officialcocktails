@@ -8,9 +8,12 @@ openai_api_key <- Sys.getenv("OPENAI_API_KEY")
 
 # Create the cocktail-descriptions.yaml if it doesn't already exist
 cocktails <- read_json("iba-cocktails-wiki.json")[1:5]
-if(!file.exists("cocktail-descriptions.yaml")) {
+if(!file.exists("cocktail-descriptions2.yaml")) {
   placeholder_cocktail_descriptions <- map(cocktails, \(cocktail) {
-    c(cocktail, list( 
+    c(cocktail, list(
+      base_fname = fname <- cocktail$name |>
+        tolower() |> 
+        str_replace_all("[^a-z0-9]", "_"),
       image_path = NULL,
       hook = NULL,
       extended_method = NULL,
@@ -20,7 +23,7 @@ if(!file.exists("cocktail-descriptions.yaml")) {
       alcohol_free_alternative = NULL
     ))
   }) 
-  write_yaml(placeholder_cocktail_descriptions, "cocktail-descriptions.yaml")  
+  write_yaml(placeholder_cocktail_descriptions, "cocktail-descriptions2.yaml")  
 }
 cocktail_descriptions <- read_yaml("cocktail-descriptions.yaml")
 dir.create("cocktail-images", showWarnings = FALSE)
@@ -76,11 +79,7 @@ gen_text_func <- function(...) {
 
 generators <- list( 
   image_path = \(cocktail) {
-    fname <- cocktail$name |>
-      tolower() |> 
-      str_replace_all("[^a-z0-9]", "_") |> 
-      paste0(".jpeg")
-    path = file.path("cocktail-images", fname)
+    path = file.path("cocktail-images",  paste0(cocktail$base_path, ".jpeg"))
     prompt = glue("A well-lit photo of a {name} drink served in a {standard_drinkware} standing on a bartop, professional food photography, 15mm", .envir = cocktail)
     generate_and_save_image(prompt, path)
     path

@@ -1,5 +1,6 @@
 - category: Contemporary classics
   name: Bellini
+  base_fname: bellini
   type: Wine cocktail
   served: 'Straight up: chilled, without ice'
   standard_drinkware: Champagne flute
@@ -71,6 +72,7 @@
     of a Bellini without any alcohol.
 - category: Contemporary classics
   name: Black Russian
+  base_fname: black_russian
   type: Cocktail
   served: 'On the rocks: poured over ice'
   standard_drinkware: Old fashioned glass
@@ -152,6 +154,7 @@
   - Celery salt
   - Black pepper
   image_path: cocktail-images/bloody_mary.jpeg
+  base_fname: bloody_mary
   hook: Bloody Mary is a popular cocktail made with vodka, tomato juice, and various
     spices and flavorings. It is often garnished with celery, olives, and other vegetables.
   extended_method: |-
@@ -249,6 +252,7 @@
   - 60 ml cachaça
   - 1 lime cut into small wedges
   - 4 teaspoons white cane sugar
+  base_fname: caipirinha
   image_path: cocktail-images/caipirinha.jpeg
   hook: Caipirinha is a traditional cocktail from Brazil made with cachaça, lime,
     and sugar. It is refreshing, citrusy, and packs a punch.
@@ -322,6 +326,7 @@
     Serve immediately and enjoy your alcohol-free Caipirinha!"
 - category: Contemporary classics
   name: Champagne cocktail
+  base_fname: champagne_cocktail
   type: Cocktail
   served: 'Straight up: chilled, without ice'
   standard_drinkware: Champagne flute
