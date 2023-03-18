@@ -8,7 +8,7 @@
   ingredients:
   - 10 cl (2 parts) Prosecco
   - 5 cl (1 part) fresh peach purée
-  image_path: cocktail_images/bellini.jpeg
+  image_path: cocktail-images/bellini.jpeg
   hook: Bellini is a classic Italian cocktail made with peach puree and Prosecco.
     It is sweet, refreshing, and perfect for brunch or a summer day.
   extended_method: |-
@@ -79,7 +79,7 @@
   ingredients:
   - 50 ml Vodka
   - 20 ml Coffee liqueur
-  image_path: cocktail_images/black_russian.jpeg
+  image_path: cocktail-images/black_russian.jpeg
   hook: Black Russian is a classic cocktail made by combining vodka and coffee liqueur.
     It is a rich, dark and smooth drink with a slight sweetness.
   extended_method: |-
@@ -151,7 +151,7 @@
   - Tabasco sauce
   - Celery salt
   - Black pepper
-  image_path: cocktail_images/bloody_mary.jpeg
+  image_path: cocktail-images/bloody_mary.jpeg
   hook: Bloody Mary is a popular cocktail made with vodka, tomato juice, and various
     spices and flavorings. It is often garnished with celery, olives, and other vegetables.
   extended_method: |-
@@ -249,7 +249,7 @@
   - 60 ml cachaça
   - 1 lime cut into small wedges
   - 4 teaspoons white cane sugar
-  image_path: cocktail_images/caipirinha.jpeg
+  image_path: cocktail-images/caipirinha.jpeg
   hook: Caipirinha is a traditional cocktail from Brazil made with cachaça, lime,
     and sugar. It is refreshing, citrusy, and packs a punch.
   extended_method: |-
@@ -333,7 +333,7 @@
   - 1cl Cognac
   - 2 dashes Angostura bitters
   - 1 Sugar cube
-  image_path: cocktail_images/champagne_cocktail.jpeg
+  image_path: cocktail-images/champagne_cocktail.jpeg
   hook: A Champagne Cocktail is made from mixing Champagne or sparkling wine with
     sugar and bitters with a twist of lemon peel. It is a refreshing and simple cocktail
     that is perfect for celebrations or any time of the year.

@@ -23,7 +23,7 @@ if(!file.exists("cocktail-descriptions.yaml")) {
   write_yaml(placeholder_cocktail_descriptions, "cocktail-descriptions.yaml")  
 }
 cocktail_descriptions <- read_yaml("cocktail-descriptions.yaml")
-dir.create("cocktail_images", showWarnings = FALSE)
+dir.create("cocktail-images", showWarnings = FALSE)
 
 
 # Calls the ChatGPT API with the given prompt and returns the answer
@@ -53,7 +53,7 @@ generate_image <- function(prompt) {
     body = list(
       prompt = prompt, 
       n = 1,
-      size = "256x256", # "1024x1024"
+      size = "512x512", # "1024x1024"
       response_format = "url"
       )
     )
@@ -65,11 +65,6 @@ generate_and_save_image <- function(prompt, path) {
   download.file(image_url, path)
   path
 }
-
-image_url <- generate_image("A well-lit photo of a Cuba Libre drink served a Highball glass, trending on artstation")
-browseURL(image_url)
-
-generate_and_save_image("A colorful 80s manga cartoon of a Cuba Libre drink served in a Highball glass", "test.jpeg")
 
 gen_text_func <- function(...) {
   function(cocktail) {
@@ -85,12 +80,12 @@ generators <- list(
       tolower() |> 
       str_replace_all("[^a-z0-9]", "_") |> 
       paste0(".jpeg")
-    path = file.path("cocktail_images", fname)
-    prompt = glue("A well-lit photo of a {name} drink served in a {standard_drinkware}", .envir = cocktail)
+    path = file.path("cocktail-images", fname)
+    prompt = glue("A well-lit photo of a {name} drink served in a {standard_drinkware} standing on a bartop, professional food photography, 15mm", .envir = cocktail)
     generate_and_save_image(prompt, path)
     path
   },
-  hook = gen_text_func("Introduce the drink {name} in two short sentences."),
+  hook = gen_text_func("Introduce the drink {name} in two short sentences. Sound like a pirate."),
   extended_method = gen_text_func(
     "The drink {name} is made with the following ingredients:\n{as.yaml(cocktail$ingredients)}",
     "The drink {name} is often served in a {standard_drinkware} and made with the following method: {method}",
@@ -104,6 +99,9 @@ generators <- list(
 
 
 completed_cocktail_descriptions <- map(cocktail_descriptions, \(cocktail) {
+  if(! is.null(cocktail$image_path) && ! file.exists(cocktail$image_path)) {
+    cocktail["image_path"] <- list(NULL)
+  }
   items_to_fill <- cocktail |>  keep(is.null) |> names()
   for(item in items_to_fill) {
     cocktail[item] <- generators[[item]](cocktail)
