@@ -13,17 +13,19 @@ unlink("officialcocktails.com/static/cocktail-images", recursive = TRUE)
 file.copy("cocktail-images/", "officialcocktails.com/static/", recursive = TRUE)
 
 cocktail_page_template <- r"-(
-+++
-title = "{name}"
-draft = false
-image = "/{image_path}"
-showonlyimage = false
-weight = 1
-+++
+---
+title: "{name}"
+draft: false
+image: "/{image_path}"
+showonlyimage: false
+weight: 1
+---
 
 {hook}
 
 <!--more-->
+
+**{name} recipe**
 
 {as.yaml(ingredients)}
 
@@ -31,11 +33,16 @@ weight = 1
 
 ![](/{image_path})
 
+
+## Directions for how to make a {name}
+
 {extended_method}
+
+## Tips for how to make the perfect {name}
 
 {tips}
 
-## Alcohol-free alternative
+## Alcohol-free alternative to a {name}
 
 {alcohol_free_alternative}
 
