@@ -1,0 +1,19 @@
+baseurl: 'https://officialcocktails.com'
+title: Official Cocktails
+languageCode: en-us
+params:
+  style: default
+  description: Describe your website
+  copyright: >-
+    All text and images here are under the 
+    <a href='https://creativecommons.org/licenses/by-sa/3.0/'>
+    Attribution-ShareAlike 3.0 Unported </a> licence |
+    Tinkered together by <a href='https://www.sumsar.net'> Rasmus Bååth </a>
+  sidebarAbout:
+    - All the official IBA cocktails. With descriptions by ChatGPT.
+  navlinks:
+    - name: Cocktails
+      url: 
+      home: true
+    - name: About
+      url: about/
