@@ -325,82 +325,685 @@
     ice and stir gently.\n4. Garnish with lime wedges and mint sprigs, if desired.\n5.
     Serve immediately and enjoy your alcohol-free Caipirinha!"
 - category: Contemporary classics
-  name: Champagne cocktail
-  base_fname: champagne_cocktail
+  name: Caipirinha
+  type: Cocktail
+  served: 'On the rocks: poured over ice'
+  standard_drinkware: Old fashioned glass
+  method: Place lime and sugar into a double old fashioned glass and muddle gently.
+    Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.
+  notes: Caipiroska - instead of cachaça use vodka
+  ingredients:
+  - 60 ml cachaça
+  - 1 lime cut into small wedges
+  - 4 teaspoons white cane sugar
+  base_fname: caipirinha
+  image_path: cocktail-images/caipirinha.jpeg
+  hook: Caipirinha is a traditional cocktail from Brazil made with cachaça, lime,
+    and sugar. It is refreshing, citrusy, and packs a punch.
+  extended_method: |-
+    To make a Caipirinha, you will need the following ingredients:
+
+    - 1 lime, cut into wedges
+    - 2 teaspoons of sugar
+    - 2 oz. of Cachaça
+    - Ice cubes
+
+    Instructions:
+
+    1. In an old fashioned glass, place the lime wedges and sugar.
+    2. Use a muddler or a wooden spoon to gently muddle the lime and sugar until the lime releases its juices.
+    3. Fill the glass with ice cubes.
+    4. Add the Cachaça and stir gently to combine all ingredients.
+    5. Garnish with a lime wedge and enjoy your delicious Caipirinha!
+  tips: |-
+    ### Tips for Making the Perfect Caipirinha Drink:
+
+    1. Use fresh limes: Cut the limes into small pieces and muddle them with sugar to release the juices, which will fully infuse the cocktail with the lime flavor.
+
+    2. Choose a good Cachaça: Cachaça is the spirit that gives Caipirinha its unique flavor. Choose a premium Cachaça, preferably aged, for a smooth and delicious cocktail.
+
+    3. Add ice carefully: Too much ice will water down the cocktail, so add a few large cubes instead of crushed ice. This will keep the drink cold without diluting it too much.
+
+    4. Balance the sweetness: The amount of sugar added to the cocktail should be balanced depending on the tartness of the limes. Add sugar gradually, tasting as you go, until you achieve the desired sweetness.
+
+    5. Garnish with a lime wedge: A lime wedge on the rim of the glass adds a pop of color and makes the drink look even more inviting. Plus, it's a nice little hint to the limey goodness inside.
+  history: "The origin of Caipirinha drink can be traced back to Brazil during the
+    16th century. During that period, sugarcane was the primary crop cultivated in
+    large quantities in Brazil. The drink was initially known as \"Capi-Pira\" or
+    \"Capiroshka,\" and it was commonly consumed by the African slaves working in
+    the sugarcane fields.  The drink was made from sugarcane juice, lime, and cachaça,
+    which is a distilled spirit made from fermented sugarcane juice.\n\nIn the 19th
+    century, Caipirinha became popular among the urban population of Brazil, and it
+    was served in bars and restaurants, making it a cultural icon of Brazil. Its popularity
+    grew even more when the government launched a promotional campaign in the 20th
+    century that made the drink an essential Brazilian export. The drink was also
+    popular among the local farmers, who would consume it during their break time
+    to gain energy and regain strength.\n\nIn the early 20th century, Caipirinha was
+    considered a lower-class drink, but its status began to change in the mid-20th
+    century, when it became an essential drink during parties and social events. The
+    drink's popularity grew worldwide after its introduction to international markets
+    in the 20th century, and it is now commonly served in bars and restaurants worldwide.
+    \n\nToday, Caipirinha serves as a symbol of Brazilian culture and is the national
+    cocktail of Brazil. It is an essential drink to try for tourists visiting Brazil
+    and a popular drink served during festivals and celebrations."
+  fun_facts: "1. Caipirinha is the national drink of Brazil. \n\n2. The drink was
+    originally made with rum, but later replaced by cachaça, which is made from fermented
+    sugarcane juice. \n\n3. The word \"caipirinha\" means \"little countryside drink\"
+    in Portuguese. \n\n4. The cocktail was first created in the Brazilian state of
+    São Paulo in the early 20th century. \n\n5. The drink became popular in the 1950s
+    and 60s, when tourists in Brazil began to discover it. \n\n6. The traditional
+    recipe for caipirinha uses lime, sugar, and cachaça, but other fruits such as
+    kiwi, pineapple, and passionfruit are popular variations. \n\n7. The caipirinha
+    is often served with a wooden pestle or muddler, which is used to crush the limes
+    and release their juice. \n\n8. A caipirinha made with high-quality cachaça can
+    cost up to $15 in some bars in the United States. \n\n9. Caipirinha is a strong
+    cocktail with a high alcohol content, so it is recommended to drink it in moderation.
+    \n\n10. Caipirinha is part of the trio of classic Latin American cocktails, alongside
+    the Margarita and the Mojito."
+  alcohol_free_alternative: "A popular alcohol-free alternative to Caipirinha is a
+    mocktail called Virgin Caipirinha. It uses all the same ingredients but omitting
+    the alcohol. \n\nIngredients:\n- 1 lime, cut into small wedges\n- 2 teaspoons
+    sugar\n- ice\n- 1/4 cup soda water\n- lime wedges and mint sprigs for garnish\n\nInstructions:\n1.
+    In a glass, add the lime wedges and sugar, and muddle together until the lime
+    juice is released.\n2. Fill the glass with ice.\n3. Pour the soda water over the
+    ice and stir gently.\n4. Garnish with lime wedges and mint sprigs, if desired.\n5.
+    Serve immediately and enjoy your alcohol-free Caipirinha!"
+- category: Contemporary classics
+  name: 'Corpse reviver #2'
   type: Cocktail
   served: 'Straight up: chilled, without ice'
-  standard_drinkware: Champagne flute
-  method: Add dash of Angostura bitter onto sugar cube and drop it into champagne
-    flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange
-    slice and maraschino cherry.
+  standard_drinkware: Cocktail glass
+  method: Shake ingredients together in a mixer with ice. Strain into chilled glass.
+    Garnish with orange zest.
   ingredients:
-  - 9cl Champagne
-  - 1cl Cognac
-  - 2 dashes Angostura bitters
-  - 1 Sugar cube
-  image_path: cocktail-images/champagne_cocktail.jpeg
-  hook: A Champagne Cocktail is made from mixing Champagne or sparkling wine with
-    sugar and bitters with a twist of lemon peel. It is a refreshing and simple cocktail
-    that is perfect for celebrations or any time of the year.
+  - 3 cl gin
+  - 3 cl lemon juice
+  - 3 cl Cointreau
+  - 3 cl Lillet Blanc
+  - 1 dash absinthe
+  base_fname: corpse_reviver__2
+  image_path: cocktail-images/corpse_reviver__2.jpeg
+  hook: 'Corpse reviver #2 is a classic cocktail that is known for its bright, citrusy
+    flavor and refreshing finish. Made with gin, Cointreau, Lillet Blanc, lemon juice,
+    and a dash of absinthe, this drink has a reputation for curing even the worst
+    hangovers.'
   extended_method: |-
-    To make a Champagne cocktail, follow these steps:
+    To make a Corpse reviver #2, you will need:
+    - 3 cl gin
+    - 3 cl lemon juice
+    - 3 cl Cointreau
+    - 3 cl Lillet Blanc
+    - 1 dash absinthe
 
-    1. Drop a sugar cube into a champagne flute.
-    2. Add a dash of Angostura bitter on top of the sugar cube.
-    3. Pour 5 cl (1 part) of fresh peach purée into the champagne flute.
-    4. Add 10 cl (2 parts) of Prosecco to the champagne flute.
-    5. Gently pour cognac into the champagne flute.
-    6. Garnish with an orange slice and a maraschino cherry.
-
-    Enjoy!
+    Instructions:
+    1. Fill a cocktail shaker with ice.
+    2. Add the gin, lemon juice, Cointreau, Lillet Blanc, and a dash of absinthe to the shaker.
+    3. Shake the ingredients together vigorously for about 10 seconds.
+    4. Strain the cocktail into a chilled cocktail glass.
+    5. Garnish the cocktail with a twist of orange zest.
+    6. Serve and enjoy!
   tips: |-
-    Here are some tips for making the perfect Champagne cocktail:
+    ## Tips for making the perfect Corpse Reviver #2
 
-    1. Choose the right Champagne: You don't need to go for the most expensive Champagne, but make sure it's a good quality one. A dry or brut Champagne works best for cocktails.
+    1. Use high-quality ingredients: The Corpse Reviver #2 is a classic cocktail that is made with gin, Cointreau, Lillet Blanc, and lemon juice. To make a perfect drink, it’s essential to use high-quality ingredients. Choose a premium gin like Tanqueray, Bombay Sapphire or Hendricks, and use fresh-squeezed lemon juice.
 
-    2. Use fresh ingredients: When making Champagne cocktail, always use fresh ingredients. High-quality fruit, fresh herbs and freshly squeezed juice can make a huge difference in the taste of the drink.
+    2. Balance the ingredients properly: The Corpse Reviver #2 is a complex cocktail that requires a balanced blend of ingredients. The gin should be the star of the show, while the Cointreau and Lillet Blanc should provide a subtle sweetness and herbal notes. The lemon juice should bring a bright acidity to the drink that balances everything out.
 
-    3. Experiment with different flavors: Champagne cocktails can be made with a variety of flavors such as dried lavender, rose water or elderflower. Experiment with different flavors and ingredients to give your drink a unique taste.
+    3. Use a shaker and strain it properly: The Corpse Reviver #2 should be shaken vigorously with ice and then strained into a chilled cocktail glass. Be sure to shake the cocktail thoroughly for at least 10-15 seconds to properly combine the ingredients and dilute the alcohol. Straining the cocktail will ensure that any ice shards or pulp don’t end up in the final drink.
 
-    4. Use the right glass: The perfect glass for a Champagne cocktail is a flute or a coupe glass. These glasses enhance the drink's aroma, temperature and bubbles.
-
-    5. Add the Champagne last: To ensure your Champagne cocktail maintains its fizz, add the Champagne last. Pour it slowly into the glass and gently stir the drink to mix everything together.
-
-    6. Garnish with style: A Champagne cocktail looks and tastes great with a well-chosen garnish. Try adding a twist of citrus peel, fresh berries or even edible flowers for a glamorous and sophisticated finish.
+    4. Garnish with a lemon twist: A perfect Corpse Reviver #2 should be garnished with a lemon twist. Cut a wide swath of lemon peel and express the oils over the cocktail, then gently rub the rim of the glass with the peel to impart some of the lemon’s aroma.  This adds an extra layer of complexity to the cocktail and gives it a visually appealing finish.
   history: |-
-    Champagne cocktail is a mixed drink that typically consists of Champagne, a sugar cube, a dash of Angostura bitters, and a twist of lemon. The origin of this drink is not entirely clear, but it is believed to have arisen in the mid-19th century in the United States.
+    The Corpse Reviver #2 is a classic cocktail with a storied history, dating back to the early 20th century. Its origins are unclear, but many believe it was first concocted as a hangover remedy, hence the name "Corpse Reviver." The drink was meant to bring back the dead - or more specifically, cure a killer hangover.
 
-    Historians believe that the Champagne cocktail was first mentioned in print in 1855 by the famous bartender Jerry Thomas in his book "The Bon Vivant's Companion." According to Thomas, the Champagne cocktail was a popular cocktail among the American elite during this time. It was often served as an aperitif or a post-meal drink.
+    The recipe for the Corpse Reviver #2 was first published in Harry Craddock's Savoy Cocktail Book in 1930. Craddock was the head bartender at the Savoy Hotel in London, which was renowned for its cocktail culture in the 1920s and 1930s. The book included many classic cocktail recipes, but the Corpse Reviver #2 quickly became one of the most popular.
 
-    The drink quickly gained popularity and spread to Europe, where it became fashionable among the aristocracy. It was particularly popular in France, where it became a staple of the Parisian bar scene.
+    The cocktail's ingredients include gin, Lillet Blanc (a French aperitif), Cointreau (an orange-flavored liqueur), and lemon juice, with a dash of absinthe for flavor. The combination of these ingredients creates a refreshing and zesty flavor, with a slight anise flavor from the absinthe.
 
-    Over the years, the recipe for the Champagne cocktail has evolved, and bartenders have added their own twists on the classic drink. Some versions include additional liqueurs or fruit juices, while others use sparkling wine or other types of bubbly in place of Champagne. However, the basic ingredients of sugar, bitters, and Champagne have remained a constant throughout the drink’s long history.
+    During the cocktail's heyday, it was often served as a pre-dinner drink, rather than as a hangover cure. It became a favorite of many famous patrons of the Savoy Hotel, including Prince Albert (the future King George VI) and his wife, Queen Elizabeth.
 
-    Today, the Champagne cocktail remains a popular and festive drink that is often served on special occasions or celebrations. Its simple yet elegant flavor makes it a favorite among cocktail enthusiasts and casual drinkers alike.
+    Despite its popularity in the early 20th century, the Corpse Reviver #2 fell out of fashion for many years. However, with the resurgence of classic cocktails and the popularity of gin-based drinks, it has once again become a staple of cocktail menus around the world.
   fun_facts: |-
-    1) Champagne cocktail is a classic cocktail that has been around for over 150 years.
+    1. The Corpse Reviver #2 was first mentioned in a bartending manual in 1930.
+    2. The drink's name comes from the idea that it can revive someone from a hangover.
+    3. The Corpse Reviver #2 contains equal parts gin, Cointreau, Lillet Blanc, and lemon juice, and a dash of absinthe.
+    4. The drink has been featured in several classic cocktail books, including Harry Craddock's "The Savoy Cocktail Book."
+    5. The Corpse Reviver #2 is part of a family of Corpse Reviver cocktails that were once served as a morning hangover cure.
+    6. Some modern bartenders have added their own twists to the recipe, including using mezcal instead of gin or adding celery bitters.
+    7. The drink's popularity has surged in recent years thanks to the craft cocktail revival.
+    8. The Corpse Reviver #2 is sometimes served as a "hair of the dog" to cure a hangover, but it's also just an enjoyable cocktail on its own.
+  alcohol_free_alternative: |-
+    One alcohol-free alternative to a Corpse Reviver #2 is a mocktail called the "Rejuvenator". To make this drink, you will need:
 
-    2) This cocktail is typically made with a combination of champagne, sugar, bitters, and brandy.
+    - 1 ½ oz freshly squeezed lemon juice
+    - 1 oz elderflower syrup
+    - 1 oz freshly squeezed orange juice
+    - 1 oz unsweetened cranberry juice
+    - Club soda
+    - Ice
 
-    3) The drink has been enjoyed by many famous people throughout history, including Winston Churchill, James Bond, and Ernest Hemingway.
+    To prepare, fill a cocktail shaker with ice, lemon juice, elderflower syrup, orange juice, and cranberry juice. Shake well and strain into a tall glass filled with ice. Top with club soda and garnish with an orange slice or a sprig of fresh mint. This refreshing drink has a tart and zesty flavor and is perfect for those who want a non-alcoholic option.
+- category: Contemporary classics
+  name: Cosmopolitan
+  type: Cocktail
+  served: 'Straight up: chilled, without ice'
+  standard_drinkware: Cocktail glass
+  method: Shake all ingredients in cocktail shaker filled with ice. Strain into a
+    large cocktail glass. Garnish with lime slice.
+  notes: The drink should be a frothy bright pink color
+  ingredients:
+  - 4 cl Vodka Citron
+  - 1.5 cl Cointreau
+  - 1.5 cl Fresh lime juice
+  - 3 cl Cranberry juice
+  base_fname: cosmopolitan
+  image_path: cocktail-images/cosmopolitan.jpeg
+  hook: Cosmopolitan is a popular cocktail made with vodka, lime juice, cranberry
+    juice, and triple sec. It is typically served in a martini glass with a citrus
+    twist.
+  extended_method: |-
+    To make a Cosmopolitan, you will need:
 
-    4) In the 19th century, Champagne cocktails were considered a popular "morning after" drink to help cure hangovers.
+    - 4 cl Vodka Citron
+    - 1.5 cl Cointreau
+    - 1.5 cl Fresh lime juice
+    - 3 cl Cranberry juice
+    - Ice
+    - Lime slice for garnish
+    - Cocktail shaker
+    - Large cocktail glass
 
-    5) Champagne is actually a type of sparkling wine that is made in the Champagne region of France.
+    Here are the steps to make the Cosmopolitan:
 
-    6) The name "champagne" is protected by law and can only be used for sparkling wine produced in the Champagne region.
+    1. Fill the cocktail shaker with ice.
+    2. Pour 4 cl of Vodka Citron, 1.5 cl of Cointreau, 1.5 cl of fresh lime juice, and 3 cl of cranberry juice into the shaker.
+    3. Shake the ingredients together in the shaker.
+    4. Strain the mixture into the large cocktail glass.
+    5. Garnish the drink with a slice of lime.
+    6. Serve and enjoy!
+  tips: "## Tips for making the perfect Cosmopolitan drink:\n\n1. Use high-quality
+    ingredients: Using fresh-squeezed lime juice, top-shelf vodka, and triple sec
+    will make a huge difference in the taste of your Cosmopolitan. \n\n2. Shake well:
+    Make sure to shake the drink vigorously to muddle the flavors together and create
+    a frothy texture on top. \n\n3. Balance the sweetness: To balance the sweetness,
+    start with less cranberry juice than you think you need and add more as desired.
+    \n\n4. Serve chilled: Fill your cocktail shaker with ice before mixing and strain
+    the drink into a chilled glass to ensure it's nice and cold. \n\n5. Garnish creatively:
+    Add a twist of lime, a wheel of orange, or even edible flowers to make your Cosmopolitan
+    look just as good as it tastes."
+  history: |-
+    The cosmopolitan is a cocktail that has grown in popularity since its creation in the 1990s. The origins of the drink are somewhat unclear, but it is generally believed to have been created in either South Beach or San Francisco in the late 1980s or early 1990s.
 
-    7) Champagne is typically made from a blend of three grape varieties: Chardonnay, Pinot Noir, and Pinot Meunier.
+    The most popular story about the creation of the cosmopolitan involves bartender Cheryl Cook, who was working at the Strand and Bistro West in Miami Beach. Cook reportedly created the drink in 1987 or 1988, combining ingredients like vodka, triple sec, cranberry juice, and lime juice.
 
-    8) The bubbles in champagne are formed by a second fermentation process that takes place in the bottle.
+    Another theory suggests that the cosmopolitan was created by Toby Cecchini, a bartender in New York City, in the early 1990s. Cecchini reportedly invented the drink while experimenting with different recipes in his bar, the Odeon.
 
-    9) Champagne is considered to be very high in quality and is often associated with luxury and celebration.
+    Regardless of its true origins, the cosmopolitan quickly gained a following and became a staple of cocktail menus in the 1990s. Its popularity was fueled in part by its appearances on popular television shows like Sex and the City, where it was often enjoyed by the main characters.
 
-    10) The "pop" sound that is associated with opening a bottle of champagne is actually the sound of air rushing into the bottle as the cork is released.
-  alcohol_free_alternative: An alcohol-free alternative to Champagne cocktail can
-    be a Mocktail version made with some non-alcoholic sparkling wine or soda, mixed
-    with fruit juice or syrup, and garnished with fresh fruits such as strawberries,
-    blueberries, or raspberries. You can also add some lemon or lime juice for a tangy
-    flavor, or some honey or agave syrup for sweetness. This alternative can be a
-    refreshing and healthier option for those who do not drink alcohol but still want
-    to enjoy a sparkling, celebratory drink.
+    Today, the cosmopolitan remains a popular cocktail and is generally considered a classic drink. It has inspired dozens of variations and has helped to popularize vodka-based cocktails around the world.
+  fun_facts: |-
+    1. The Cosmopolitan was originally created in South Beach, Florida in 1985.
+
+    2. The drink is made up of vodka, triple sec, lime juice, and cranberry juice.
+
+    3. The drink's popularity skyrocketed after it was featured on the HBO hit series Sex and the City.
+
+    4. The drink is typically served in a martini glass with a lime wedge for garnish.
+
+    5. The drink has been referred to as the "pink drink" or the "cosmo" by many people.
+
+    6. The drink is traditionally pink due to the cranberry juice that gives it its color.
+
+    7. The drink was originally created as a way to make vodka more palatable to American drinkers.
+
+    8. The drink has been known to be a favorite of many celebrities, including Madonna and Jennifer Aniston.
+
+    9. Cosmopolitan is the official drink of the Association of Professional Flight Attendants.
+
+    10. In 1998, the New York Times declared the Cosmopolitan the "it" drink of the moment.
+  alcohol_free_alternative: One alcohol-free alternative to a Cosmopolitan is a Cranberry
+    and Lime Mocktail. To make this, mix cranberry juice, lime juice, and simple syrup
+    in a shaker with ice. Shake well and strain into a glass. Top with soda water
+    and garnish with a lime wedge. This refreshing drink has the tartness of the cranberry
+    juice and lime juice, balanced with the sweetness of the simple syrup, and the
+    fizziness of soda water. It's a perfect option for someone who wants a fruity
+    and flavorful mocktail without the alcohol.
+- category: Contemporary classics
+  name: Cuba libre
+  type: Cocktail
+  served: 'On the rocks: poured over ice'
+  standard_drinkware: Highball glass
+  method: Build all ingredients in a highball glass filled with ice. Garnish with
+    lime wedge.
+  ingredients:
+  - 120 ml cola
+  - 50 ml white rum
+  - 10 ml Fresh lime juice
+  base_fname: cuba_libre
+  image_path: cocktail-images/cuba_libre.jpeg
+  hook: A Cuba libre is a popular cocktail made with rum, Coca-Cola, and lime juice.
+    It is often garnished with a wedge of lime and served over ice.
+  extended_method: |-
+    To make a Cuba libre, follow these steps:
+
+    1. Gather the following ingredients:
+      - 120 ml cola
+      - 50 ml white rum
+      - 10 ml fresh lime juice
+
+    2. Fill a highball glass with ice.
+
+    3. Add the white rum to the glass.
+
+    4. Pour the cola over the rum.
+
+    5. Squeeze the fresh lime juice into the glass.
+
+    6. Stir all of the ingredients together.
+
+    7. Garnish the glass with a lime wedge.
+
+    8. Serve and enjoy!
+  tips: |-
+    ## Tips for making the perfect Cuba Libre drink
+
+    1. Use quality ingredients: Start with a high-quality rum and a good brand of cola.
+    2. Use fresh lime juice: Cut a lime into wedges and squeeze them into the drink, rather than using bottled lime juice.
+    3. Use plenty of ice: A Cuba Libre is best served cold, so fill your glass with plenty of ice.
+    4. Finish with a lime wedge: Add a lime wedge to the edge of the glass as a garnish for a refreshing citrus aroma.
+    5. Experiment with different rums: While a traditional Cuba Libre is made with light rum, try experimenting with dark rums for a richer flavor.
+  history: |-
+    Cuba Libre is a popular cocktail made with rum, cola, and lime. The drink has a long history that dates back to the late 19th century.
+
+    The origin of Cuba Libre is often associated with the Spanish-American War in 1898, which led to the liberation of Cuba from Spanish rule. During this time, American soldiers stationed in Cuba mixed Coca-Cola with local rum to make a refreshing and flavorful drink. The addition of lime juice helped to mask the bitter taste of the rum.
+
+    The cocktail became known as a “Cuba Libre,” which translates to “Free Cuba” in Spanish. The drink quickly spread to other parts of the world, becoming a symbol of Cuba’s fight for independence.
+
+    Over the years, Cuba Libre has become one of the most popular cocktails in the world. It is served in bars and restaurants all over the globe, and has been featured in countless movies and TV shows.
+
+    Today, there are many variations of the classic Cuba Libre recipe. Some people use different types of rum, while others add other ingredients like bitters or fruit juice. Despite its many variations, the basic recipe remains the same: rum, cola, and lime, served over ice in a highball glass.
+  fun_facts: |-
+    1. Cuba Libre was created in Havana, Cuba in the early 1900s.
+    2. Its name means "Free Cuba" in Spanish.
+    3. The drink was invented to celebrate Cuba's independence from Spain.
+    4. Its main ingredients are rum, cola, and lime juice.
+    5. The ratio of ingredients can differ depending on the region and personal preferences.
+    6. Cuba Libre is often served in a highball glass with ice and a lime wedge.
+    7. The drink became popular in the United States during World War II, when it was seen as patriotic to drink something associated with Cuba.
+    8. It is sometimes made with different types of rum, such as spiced or dark rum, which can add different flavors.
+    9. In some Latin American countries, the drink is known as a "rum and cola" or "Ron con Cola."
+    10. Cuba Libre is a versatile drink that can be enjoyed at any time of year, but it is especially popular during the summer months.
+  alcohol_free_alternative: One alternative to a Cuba libre that is alcohol free is
+    the mocktail version of the drink, called the "Cuba Dawn". This drink is made
+    with ginger beer, lime juice, and a splash of cola. It takes the classic flavors
+    of the Cuba libre and replaces the rum with ginger beer, which gives it a similar
+    spicy kick. The lime juice adds a refreshing citrus note, while the cola gives
+    it a touch of sweetness. It can be served over ice and garnished with a lime wedge
+    for a refreshing and alcohol-free alternative.
+- category: Contemporary classics
+  name: French 75
+  type: Wine cocktail
+  served: 'Straight up: chilled, without ice'
+  standard_drinkware: Champagne flute
+  method: Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice.
+    Shake vigorously and strain into a chilled champagne glass. Top up with champagne.
+    Stir gently.
+  ingredients:
+  - 30 ml (1.0 US fl oz) gin
+  - 15 ml (0.51 US fl oz) lemon juice
+  - 15 ml (0.51 US fl oz) simple syrup
+  - 60 ml (2.0 US fl oz) Champagne
+  base_fname: french_75
+  image_path: cocktail-images/french_75.jpeg
+  hook: French 75 is a classic cocktail made with gin, lemon juice, syrup, and champagne
+    that originated during World War I. It is named after an artillery gun and has
+    a strong, refreshing taste.
+  extended_method: |-
+    To make a French 75, you will need:
+
+    - 30 ml (1.0 US fl oz) gin
+    - 15 ml (0.51 US fl oz) lemon juice
+    - 15 ml (0.51 US fl oz) simple syrup
+    - 60 ml (2.0 US fl oz) Champagne
+    - Ice
+
+    Here are the steps to make this classic cocktail:
+
+    1. Combine gin, simple syrup, and lemon juice in a cocktail shaker filled with ice.
+    2. Shake the mixture vigorously for 10-15 seconds.
+    3. Strain the mixture into a chilled champagne flute.
+    4. Top up with Champagne.
+    5. Stir gently.
+    6. Garnish as desired, with a lemon twist or a cherry.
+
+    Enjoy your refreshing and elegant French 75!
+  tips: |-
+    #### Tips for making the perfect French 75:
+
+    1. Use fresh ingredients: Squeeze fresh lemon juice and use freshly squeezed orange juice instead of store-bought juices.
+
+    2. Use gin and not vodka: The original recipe calls for gin, and using vodka will give the drink a different taste.
+
+    3. Use the right glass: Make sure to serve the French 75 in a champagne flute or a Collins glass.
+
+    4. Chill the glass: Place the glass in the freezer for a few minutes before serving to ensure the drink stays cold.
+
+    5. Use the right proportions: The classic French 75 recipe uses 2 oz of gin, ¾ oz of lemon juice, ½ oz of simple syrup, and 2 oz of champagne.
+
+    6. Don't forget the garnish: Add a lemon twist or a cherry on top for an extra touch of elegance.
+
+    7. Be careful with the champagne: Add the chilled champagne last, and pour slowly to avoid the drink fizzing over.
+  history: |-
+    The French 75 cocktail is a classic cocktail that originated during World War I, named after the French 75mm artillery gun. The cocktail was created at the New York Bar in Paris in 1915 by Harry MacElhone, who was the proprietor of the bar.
+
+    Initially, the drink was made with gin, champagne, lemon juice, and sugar syrup in equal parts, and served over ice. After the Prohibition era began in the United States, the recipe for the French 75 was modified to include cognac in place of gin, as it was easier to obtain during the Dry Law.
+
+    Over the years, the recipe for the French 75 has undergone several variations, with some versions using different spirits such as vodka, rum, or sparkling wine instead of champagne. However, the classic recipe for the French 75 remains gin, champagne, lemon juice, and sugar syrup.
+
+    Today, the French 75 is considered one of the quintessential champagne cocktails and is served in bars and restaurants around the world. It continues to be enjoyed for its light and refreshing taste, elegant presentation, and its historical significance.
+  fun_facts: "1. French 75 is named after a World War I artillery piece.\n\n2. The
+    drink was invented in Paris during World War I.\n\n3. It was created by a barman
+    working at the New York Bar in Paris. \n\n4. The cocktail is traditionally made
+    with gin, Champagne, lemon juice, and sugar syrup.\n\n5. French 75 was a favorite
+    drink of writer Ernest Hemingway.\n\n6. The cocktail has a history of being used
+    as a celebratory drink for events such as weddings and New Year's Eve.\n\n7. French
+    75 is often served in a champagne flute but can also be served in a coupe glass
+    or highball glass.\n\n8. The drink is believed to have originated at Harry's New
+    York Bar, a famous American bar in Paris.\n\n9. The original recipe called for
+    cognac instead of gin.\n\n10. The French 75 is a popular drink to serve during
+    brunch."
+  alcohol_free_alternative: "A great alcohol-free alternative to French 75, a classic
+    cocktail made with gin, simple syrup, lemon juice, and champagne, is the \"French
+    0\". \n\nTo make this refreshing mocktail, you'll need:\n\n- 1/2 oz. fresh lemon
+    juice\n- 1/2 oz. simple syrup\n- 2 oz. sparkling water\n- Lemon wheel or twist,
+    for garnish\n\nInstructions:\n\n1. In a shaker filled with ice, add the lemon
+    juice and simple syrup.\n\n2. Shake for 10-15 seconds, then strain into a chilled
+    cocktail glass.\n\n3. Top with chilled sparkling water and stir gently.\n\n4.
+    Garnish with a lemon wheel or twist, and enjoy your alcohol-free version of the
+    French 75."
+- category: Contemporary classics
+  name: French Connection
+  type: Cocktail
+  served: 'On the rocks: poured over ice'
+  standard_drinkware: Old fashioned glass
+  method: Pour all ingredients directly into old fashioned glass filled with ice cubes.
+    Stir gently.
+  ingredients:
+  - 3.5cl Cognac
+  - 3.5cl Amaretto liqueur
+  base_fname: french_connection
+  image_path: cocktail-images/french_connection.jpeg
+  hook: The French Connection is a decadent after-dinner drink made with cognac and
+    amaretto. It is a perfect choice for those who enjoy a smooth and sweet cocktail.
+  extended_method: |-
+    To make a French Connection, follow these steps:
+
+    1. Gather the required ingredients:
+    - 3.5cl Cognac
+    - 3.5cl Amaretto liqueur
+
+    2. Fill an old fashioned glass with ice cubes.
+
+    3. Pour the Cognac and Amaretto liqueur directly into the glass.
+
+    4. Stir the ingredients gently with a spoon or cocktail stirrer.
+
+    5. Garnish the drink with a wedge of orange or a twist of lemon (optional).
+
+    6. Serve and enjoy your French Connection!
+  tips: |-
+    **Ingredients:**
+    - 1 1/2 oz. cognac
+    - 3/4 oz. amaretto liqueur
+    - Ice cubes
+    - Orange twist for garnish
+
+    **Steps:**
+    1. Fill a cocktail shaker with ice cubes.
+    2. Pour in the cognac and amaretto liqueur, in that order.
+    3. Shake the cocktail shaker vigorously for about 10 seconds to chill the drink and mix the ingredients.
+    4. Strain the drink into a chilled rocks glass filled with ice cubes.
+    5. Garnish the drink with an orange twist by twisting a piece of orange peel over the drink to express the oils and placing it on the rim of the glass.
+
+    **Tips:**
+    - Use high-quality cognac for a smoother and more sophisticated taste.
+    - To chill the glass before serving, fill it with ice cubes and let it sit for a few minutes before pouring the drink.
+    - Experiment with the ratios of cognac to amaretto to find your perfect balance of flavors.
+    - Serve the drink with a cocktail stirrer to allow guests to mix the drink to their liking.
+  history: |-
+    The French Connection is a popular cocktail that consists of equal parts of cognac and amaretto. Its origin dates back to the 1970s and is said to have been named after the crime drama film of the same name, which was released in 1971.
+
+    The drink was first created at a New York City bar called "Annabel's," located on the Upper East Side. It quickly gained popularity and became a signature drink at many cocktail bars around the city in the 1970s.
+
+    The French Connection was also featured in the popular TV show, "The Wire," and it continued to be a popular drink in the 21st century, enjoyed by people all over the world.
+
+    The drink's name and ingredients reflect its French and Italian origins. Cognac is a type of brandy produced in the Cognac region of France, while the amaretto liqueur is made from almonds and originated in Italy.
+
+    In summary, the French Connection drink first appeared in the 1970s and was named after a crime drama movie of the same era. It was first created at a bar in New York City called Annabel's, and its ingredients reflect its French and Italian origins. Today, it is still enjoyed globally at cocktail bars and by many people.
+  fun_facts: |-
+    - The French Connection is a classic cocktail made with equal parts cognac and amaretto liqueur.
+    - The cocktail is named after the 1971 crime drama film called The French Connection, which was based on a true story of a drug bust in New York City.
+    - The original recipe of the French Connection was first created in the late 1960s by the bartender named Clement Goddet at a bar in New York City.
+    - The French Connection became popular among the club and disco scene in the 1970s and 1980s as a sophisticated and sweet cocktail.
+    - The cocktail is often served on the rocks and garnished with a lemon twist or a slice of orange.
+    - The French Connection is a relatively low-alcohol cocktail with an ABV (alcohol by volume) of about 25%, making it a suitable choice for a light but flavorful drink.
+    - The flavor of the cocktail is described as nutty, sweet, and smooth, with a hint of vanilla and oak from the cognac and amaretto.
+    - Some variations of the French Connection add a splash of lemon or lime juice or replace the cognac with brandy or whiskey.
+    - The French Connection is often served as an after-dinner drink or a nightcap, but it can also be enjoyed at any time of the day as a relaxing and flavorful sipper.
+    - The French Connection is a classic cocktail that has stood the test of time and remains a beloved choice for cocktail enthusiasts all over the world.
+  alcohol_free_alternative: As an AI language model, I cannot consume alcohol or recommend
+    the same, but I can suggest an alternative to the drink French Connection. One
+    alternative could be a mocktail called "Peachy Sunrise." This mocktail can be
+    made by combining peach nectar, orange juice, and grenadine syrup. It can be garnished
+    with a slice of peach or a slice of orange. This mocktail is sweet, fruity, and
+    refreshing, making it a perfect option for anyone looking for a non-alcoholic
+    alternative to French Connection.
+- category: Contemporary classics
+  name: Golden dream
+  type: Cocktail
+  served: 'Straight up: chilled, without ice'
+  standard_drinkware: Cocktail glass
+  method: Shake with cracked ice.  Strain into glass and serve.
+  notes: Should be quite fluffy
+  ingredients:
+  - 2 cl (2 parts) Galliano
+  - 2 cl (2 parts) Triple Sec
+  - 2 cl (2 parts) Fresh orange juice
+  - 1 cl (1 part) Fresh cream
+  base_fname: golden_dream
+  image_path: cocktail-images/golden_dream.jpeg
+  hook: Golden dream is a creamy cocktail made with orange juice, Galliano and triple
+    sec. It has a sweet and fruity flavor with a hint of vanilla.
+  extended_method: "To make a Golden Dream, follow the given steps:\n\n- Add 2 parts
+    Galliano, 2 parts Triple Sec, 2 parts fresh orange juice, and 1 part fresh cream
+    to a cocktail shaker.\n- Add cracked ice to the shaker.\n- Shake the mixture vigorously
+    for around 10-15 seconds to chill the drink and mix the ingredients.\n- Strain
+    the mixture into a cocktail glass.\n- Garnish with a slice of orange and serve
+    chilled. \n\nEnjoy your delicious Golden Dream cocktail!"
+  tips: |-
+    ## Tips for making the perfect Golden Dream drink:
+
+    1. Use fresh and high-quality ingredients - this will make a huge difference in the final taste of your drink.
+
+    2. Experiment with the ratios of ingredients until you find the perfect balance. The classic recipe calls for equal parts orange juice, cream and Galliano liqueur, but you may want to adjust this to your liking.
+
+    3. Shake the ingredients well with ice to ensure that the drink is properly mixed and chilled.
+
+    4. Serve the drink in a chilled glass to keep it nice and cool.
+
+    5. Consider adding a garnish to give your drink an extra touch of elegance. A small slice of orange or a sprig of mint are both great options.
+  history: |-
+    Golden dream is a delicious cocktail that is made up of several ingredients including Galliano, triple sec, orange juice, and cream. The drink was invented in the mid-1960s by a bartender named Raffaele Palladino who was working at the famous Harry's Bar in Venice, Italy.
+
+    According to legend, the drink was created for a customer who was celebrating the launch of his new boat. Palladino wanted to create a drink that was elegant and sophisticated, and that would capture the essence of Venice itself. He experimented with different ingredients until he came up with the perfect blend of Galliano, triple sec, orange juice, and cream.
+
+    The drink quickly became popular among visitors to Harry's Bar, and soon it was being served in bars and restaurants all over the world. Today, Golden dream remains a beloved cocktail, and it is still a popular choice among those who appreciate its rich, creamy flavor and elegant presentation.
+  fun_facts: |-
+    1. Golden Dream is a cocktail drink that originated in the 1950s.
+
+    2. The drink was created by one of the most famous bartenders in the world, Salvatore Calabrese.
+
+    3. The drink is made with Galliano liqueur, triple sec, orange juice, and cream.
+
+    4. The drink is known for its bright yellow color, reminiscent of the golden sun.
+
+    5. Golden Dream is often served in a traditional Martini glass, with a slice of orange for garnish.
+
+    6. The drink has a sweet and creamy taste, with notes of vanilla, citrus, and herbs.
+
+    7. The drink was very popular in the 1960s and 1970s, especially in the United Kingdom.
+
+    8. Golden Dream is often included on cocktail menus at bars and restaurants across the world.
+
+    9. The drink is a popular choice for special occasions and celebrations, such as weddings and parties.
+
+    10. Golden Dream is a great choice for those who enjoy sweet, creamy cocktails with a rich, luxurious taste.
+  alcohol_free_alternative: An alcohol-free alternative to Golden Dream might be a
+    mocktail made with orange juice, coconut cream, and vanilla syrup. This refreshing
+    drink is reminiscent of the flavors of Golden Dream but without the alcoholic
+    kick. To make this delicious mocktail, simply combine 1 cup of freshly squeezed
+    orange juice with 1/4 cup of coconut cream and 1 tablespoon of vanilla syrup in
+    a shaker. Add ice and shake well. Strain the mixture into a glass and garnish
+    with a slice of orange or pineapple to add a tropical touch. Enjoy your alcohol-free
+    Golden Dream alternative!
+- category: Contemporary classics
+  name: Grasshopper
+  type: Cocktail
+  served: 'Straight up: chilled, without ice'
+  standard_drinkware: Cocktail glass
+  method: Pour ingredients into a cocktail shaker with ice. Shake briskly and then
+    strain into a chilled cocktail glass.
+  ingredients:
+  - 3 cl crème de menthe (green)
+  - 3 cl crème de cacao (white)
+  - 3 cl cream
+  base_fname: grasshopper
+  image_path: cocktail-images/grasshopper.jpeg
+  hook: Grasshopper is a sweet and minty cocktail made with crème de menthe, crème
+    de cacao, and cream. It is classic dessert drink that's often served after dinner.
+  extended_method: "To make a Grasshopper, you will need the following ingredients:
+    \n- 3 cl crème de menthe (green)\n- 3 cl crème de cacao (white)\n- 3 cl cream\n\nInstructions:
+    \n1. Pour all the ingredients into a cocktail shaker with ice. \n2. Shake briskly
+    for around 10 seconds until the shaker becomes very cold. \n3. Strain the mixture
+    into a chilled cocktail glass. \n4. Serve immediately as it is and enjoy the refreshing
+    and creamy taste of the Grasshopper cocktail."
+  tips: |-
+    **Tips for making the perfect Grasshopper drink:**
+
+    1. Use ice-cold ingredients: Chill your glasses, use cold ice cream and refrigerated cream to ensure the drink is served chilled and refreshing.
+
+    2. Balance the sweetness: Since the Grasshopper is a sweet cocktail, it's important to use the correct balance of ingredients. Use equal parts of crème de menthe and crème de cacao to keep the drink from being too sweet.
+
+    3. Use fresh mint leaves: To up the mint flavor, add a few fresh mint leaves to the cocktail shaker before shaking.
+
+    4. Shake it thoroughly: Do not skimp on shaking, for best results, shake the cocktail for at least 15 seconds to ensure the ingredients are well combined and the drink is frothy.
+
+    5. Garnish with a mint sprig: A final touch of  fresh mint leaves on top of the drink adds a pop of color and reinforces the mint flavor.
+
+    By following these tips, you can make a delicious and perfectly balanced Grasshopper cocktail.
+  history: |-
+    Grasshopper is a minty, sweet, and creamy cocktail that is typically served as a dessert drink. The drink was first created in New Orleans during the early 20th century. Its origin story is a bit unclear, but it is believed to have been invented at the famous Tujague's Restaurant in the French Quarter.
+
+    The drink's creator is thought to be a man named Philip Guichet, who was the head bartender at Tujague's in the 1910s. Guichet allegedly created the drink for a visiting actor who requested a drink that was green, sweet, and had a minty flavor.
+
+    The Grasshopper gained popularity in the 1950s and 60s when it became a favorite among women who were looking for a sweet and easy-to-drink cocktail. It was also popular among younger drinkers who were just starting to experiment with alcohol.
+
+    Over the years, different variations of the Grasshopper have been created. Some bartenders add chocolate or coffee liqueur to give it a richer flavor, while others use different types of cream or ice cream to make it creamier.
+
+    Today, the Grasshopper remains a popular cocktail, particularly in New Orleans, where it is still considered a classic. It is often served as an after-dinner drink or as a dessert cocktail. While its origin story may be shrouded in mystery, the Grasshopper has certainly earned its place in cocktail history.
+  fun_facts: |-
+    1. The Grasshopper is a cocktail that was invented in New Orleans in the 1910s.
+
+    2. It is a sweet and creamy cocktail that is made with equal parts of crème de menthe, crème de cacao, and cream.
+
+    3. The Green Grasshopper is a variation of the classic cocktail that features green crème de menthe instead of clear.
+
+    4. The Grasshopper is often served as a dessert cocktail and is perfect for indulging your sweet tooth.
+
+    5. The origin of the name is unclear, but it is thought to have originated from the green color of the cocktail.
+
+    6. In the 1950s, the Grasshopper became a popular drink among Hollywood stars.
+
+    7. The Grasshopper was rumored to be one of Marilyn Monroe's favorite cocktails.
+
+    8. Due to its creamy texture, the Grasshopper is sometimes served as a frozen cocktail.
+
+    9. The Grasshopper is a popular cocktail for St. Patrick's Day.
+
+    10. The Grasshopper was referenced in the TV show "Mad Men" as a favorite of the character Peggy Olson.
+  alcohol_free_alternative: One alcohol-free alternative to the drink Grasshopper
+    is a blended drink called Shamrock Shake. It is made with vanilla ice cream, milk,
+    mint extract, and green food coloring. The Shamrock Shake has a creamy and minty
+    taste, similar to the Grasshopper, but without the alcohol. It is a great choice
+    for people who want to enjoy a refreshing and cool drink without consuming alcohol.
+    The Shamrock Shake can also be customized by adding whipped cream and a cherry
+    on top to enhance its flavors. It can be served as a dessert or a refreshing drink
+    anytime.
+- category: Contemporary classics
+  name: Hemingway special
+  type: Mixed drink
+  served: 'Straight up: chilled, without ice'
+  standard_drinkware: Cocktail glass
+  method: Pour all ingredients into a shaker with ice. Shake.
+  ingredients:
+  - 6 cL (12 parts) Rum
+  - 4 cl (8 parts) grapefruit juice
+  - 1.5 cL (3 parts) Maraschino liqueur
+  - 1.5 cl (3 parts) fresh lime juice
+  base_fname: hemingway_special
+  image_path: cocktail-images/hemingway_special.jpeg
+  hook: Hemingway Special is a cocktail named after the famous writer, Ernest Hemingway,
+    who loved his drinks strong and tart. It typically consists of rum, lime juice,
+    grapefruit juice, and maraschino liqueur.
+  extended_method: |-
+    To make a Hemingway special drink:
+
+    1. Prepare a Cocktail glass.
+    2. Add ice to the shaker.
+    3. Pour 6 cL of Rum into the shaker.
+    4. Pour 4 cl of grapefruit juice into the shaker.
+    5. Add 1.5 cL of Maraschino liqueur to the shaker.
+    6. Squeeze 1.5 cl of fresh lime juice into the shaker.
+    7. Shake the shaker well to combine all ingredients.
+    8. Strain the drink into the prepared Cocktail glass.
+    9. Serve and enjoy!
+  tips: |-
+    - Use only fresh ingredients such as lime juice, grapefruit juice, and maraschino liqueur.
+    - Choose a high-quality rum with a strong and distinctive flavor such as Papa's Pilar or Havana Club.
+    - Don't overdo the grapefruit juice - it should be tart, not bitter.
+    - Use a shaker with ice to mix the ingredients together until thoroughly chilled.
+    - Strain the drink into a chilled glass and garnish with a simple twist of grapefruit or lime peel.
+  history: |-
+    The Hemingway special is a cocktail named after the famous American author, Ernest Hemingway. It is believed to have been created during Hemingway’s time in Cuba in the 1930s, where he spent much of his time in local bars, socializing with other writers and artists.
+
+    As the story goes, Hemingway was looking for a cocktail that was strong enough to satisfy his love for alcohol, but also refreshing enough to be enjoyed during the hot Cuban summers. He reportedly requested a cocktail that was “double the rum, no sugar, no water, and a squeeze of lime.”
+
+    The bartender mixed the ingredients and presented the drink to Hemingway, who took a sip and declared it to be “delicious and dangerous.” The Hemingway special, also known as the “Papa Doble,” was born.
+
+    The cocktail was originally made with white rum, maraschino liqueur, lime juice, and grapefruit juice. However, during World War II, grapefruit was in short supply and was replaced with fresh lime juice. The Hemingway special has since evolved, with variations using different types of rum and additional ingredients such as grapefruit bitters and absinthe.
+
+    Today, the Hemingway special is a popular cocktail in bars around the world, and its reputation as a potent and refreshing drink has remained unchanged.
+  fun_facts: |-
+    1. The Hemingway Special is also known as the “Papa Doble” due to Ernest Hemingway’s fondness for the drink.
+
+    2. The drink was initially created for Hemingway when he was living in Cuba and craving a stronger version of the traditional Daiquiri.
+
+    3. The Papa Doble contains double the amount of rum as a traditional Daiquiri, making it a much stronger drink.
+
+    4. Hemingway’s love for the drink led him to claim that he had consumed 17 Papa Dobles in one sitting!
+
+    5. The drink’s popularity spread rapidly, with many bars throughout the world adding the Hemingway Special to their menu.
+
+    6. The signature sour and sweet flavors of the drink are created by using both lime and grapefruit juices.
+
+    7. The El Floridita bar in Havana, Cuba, is renowned for its Hemingway Special, which is still made to Hemingway’s original recipe to this day.
+
+    8. Hemingway’s penchant for the drink has contributed to the Papa Doble becoming an icon in cocktail culture.
+  alcohol_free_alternative: The Hemingway Special is a cocktail that typically includes
+    rum, grapefruit juice, lime juice, and maraschino liqueur. An alcohol-free alternative
+    to this drink could be a mocktail version. One such option could be a grapefruit
+    and lime soda, made with fresh grapefruit and lime juice, carbonated water, and
+    a sweetener of your choice such as honey or agave. You could also add a dash of
+    grenadine for added sweetness and color. Another option could be a non-alcoholic
+    mojito mocktail made with lime juice, club soda, mint leaves, and simple syrup.
+    This could be served over ice with a grapefruit twist for garnish. Both of these
+    alternatives offer a refreshing and tasty option without the use of alcohol.
