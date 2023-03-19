@@ -112,20 +112,20 @@ gen_text_func <- function(...) {
 generators <- list( 
   image_path = \(cocktail) {
     path = file.path("cocktail-images",  paste0(cocktail$base_fname, ".jpeg"))
-    prompt = glue("A well-lit photo of a {name} drink served in a {standard_drinkware} standing on a bartop, professional food photography, 15mm", .envir = cocktail)
+    prompt = glue("A well-lit photo of a {name} cocktail served in a {standard_drinkware} standing on a bartop, professional food photography, 15mm", .envir = cocktail)
     cat(glue("Generating image for: {prompt}"), "\n")
     generate_and_save_image(prompt, path)
     path
   },
-  hook = gen_text_func("Introduce the drink {name} in two short sentences."),
+  hook = gen_text_func("Introduce the cocktail {name} in two short sentences."),
   extended_method = gen_text_func(
     "The drink {name} is made with the following ingredients:\n{as.yaml(cocktail$ingredients)}",
     "The drink {name} is often served in a {standard_drinkware} and made with the following method: {method}",
     "Describe the steps to make a {name} drink as a markdown formated list. Don't repeat the list of ingredients."
   ),
-  tips = gen_text_func("Give a couple of tips for how to make the perfect {name} drink. Format the response as markdown. Start directly with the tips and skip the headline."),
-  fun_facts = gen_text_func("List five fun facts about the drink {name}. Format the response as markdown."),
-  alcohol_free_alternative = gen_text_func("Describe an alcohol free alternative to the drink {name}")
+  tips = gen_text_func("Give a couple of tips for how to make the perfect {name} cocktail Format the response as markdown. Start directly with the tips and skip the headline."),
+  fun_facts = gen_text_func("List five fun facts about the cocktail {name}. Format the response as markdown."),
+  alcohol_free_alternative = gen_text_func("Describe an alcohol free alternative to the cocktail {name}")
 )
 
 # Looping through the cocktail description and filling in all the blanks.
