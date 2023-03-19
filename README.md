@@ -1,7 +1,7 @@
 This repo two small scripts that uses ChatGPT and StableDiffusion tp auto-generate the
 cocktail website found over here:
 
-[officialcocktails.com](https://officialcocktails.com)
+[officialcocktails.com](https://cozy-chebakia-f26ec7.netlify.app/)
 
 This was a quick experiment to try out autogenerating a website using (in 2023) modern AI tools, so the code is quick and dirty, and put here more for the record. But shortly, the recipe is:
 
