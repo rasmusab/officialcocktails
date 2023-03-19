@@ -40,7 +40,7 @@ weight: 1
 ![](/{image_path})
 
 
-## Directions for how to make a {name}
+## Directions for how to make the {name}
 
 {extended_method}
 
@@ -48,7 +48,7 @@ weight: 1
 
 {tips}
 
-## Alcohol-free alternative to a {name}
+## Alcohol-free alternative to the {name}
 
 {alcohol_free_alternative}
 
