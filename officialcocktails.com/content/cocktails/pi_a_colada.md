@@ -22,7 +22,7 @@ Blend all the ingredients with ice in an electric blender, pour into a large gob
 ![](/cocktail-images/pi_a_colada.jpeg)
 
 
-## Directions for how to make a Piña colada
+## Directions for how to make the Piña colada
 
 1. Add 5 parts of white rum to the blender.
 2. Add 3 parts of coconut cream into the blender.
@@ -40,7 +40,7 @@ Blend all the ingredients with ice in an electric blender, pour into a large gob
 - Don't be afraid to adjust the sweetness to your personal preference with additional pineapple juice or simple syrup. 
 - Serve in a chilled, frosted glass with a pineapple wedge and a maraschino cherry for a beautiful presentation.
 
-## Alcohol-free alternative to a Piña colada
+## Alcohol-free alternative to the Piña colada
 
 A popular alcohol-free alternative to the Piña colada is the Virgin Piña colada. This refreshing tropical drink consists of coconut milk, pineapple juice, and ice, blended together until smooth. It has the same creamy texture and tropical flavor as the original cocktail, but without the added alcohol. Another option is to make a mocktail combining pineapple juice, coconut water, lime juice, and a splash of grenadine for a colorful twist. This drink is perfect for those who want to enjoy the taste of a Piña colada without the effects of alcohol.
 

@@ -23,7 +23,7 @@ Shake with cracked ice.  Strain into glass and serve.
 ![](/cocktail-images/golden_dream.jpeg)
 
 
-## Directions for how to make a Golden dream
+## Directions for how to make the Golden dream
 
 1. Fill a cocktail shaker with cracked ice.
 2. Measure and pour 2 cl (2 parts) of Galliano into the shaker.
@@ -43,7 +43,7 @@ Shake with cracked ice.  Strain into glass and serve.
 - Adjust the sweetness level according to your preference by adding more or less honey syrup.
 - Serve immediately to enjoy the best flavors and texture of the Golden Dream drink.
 
-## Alcohol-free alternative to a Golden dream
+## Alcohol-free alternative to the Golden dream
 
 One great alternative to the drink Golden Dream is called "Virgin Sunrise." This alcohol-free drink is a refreshing and delicious blend of orange juice, grenadine, and pineapple juice. It's easy to make by simply mixing equal parts of orange juice and pineapple juice together, then adding a splash of grenadine for a vibrant pop of color. Serve it over ice with a slice of fresh orange or pineapple for an extra burst of flavor. This fun and fruity mocktail is perfect for any occasion and is sure to be a crowd-pleaser!
 

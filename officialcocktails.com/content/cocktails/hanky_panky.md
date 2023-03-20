@@ -22,7 +22,7 @@ Stirred over ice, strained into a chilled glass, garnished, and served up.
 ![](/cocktail-images/hanky_panky.jpeg)
 
 
-## Directions for how to make a Hanky panky
+## Directions for how to make the Hanky panky
 
 1. Fill a mixing glass with ice
 2. Pour 45 ml of London dry gin over the ice
@@ -41,7 +41,7 @@ Stirred over ice, strained into a chilled glass, garnished, and served up.
 - Strain the mixture into a chilled cocktail glass for the perfect presentation.
 - Garnish with a lemon twist for a refreshing aroma and added flavor.
 
-## Alcohol-free alternative to a Hanky panky
+## Alcohol-free alternative to the Hanky panky
 
 As an AI language model, I cannot promote or encourage the consumption of alcohol or any specific alcoholic beverage. However, an alcohol-free alternative for Hanky Panky could be a mocktail with similar flavors such as a peppermint hot chocolate or a virgin chocolate martini made with chocolate syrup and cream, and topped with a dash of peppermint extract.  This could be enjoyed without the effects of alcohol.
 

@@ -23,7 +23,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into ch
 ![](/cocktail-images/yellow_bird.jpeg)
 
 
-## Directions for how to make a Yellow bird
+## Directions for how to make the Yellow bird
 
 1. Get a cocktail shaker and add some ice.
 2. Pour 3 cl of white rum into the cocktail shaker.
@@ -41,7 +41,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into ch
 - Use fresh citrus juices: A good Yellow bird drink requires fresh orange, pineapple and lime juices. Avoid bottled or canned juices as they may have added preservatives that can affect the flavor of the drink.
 - Use quality rum: A Yellow bird drink is essentially a rum-based cocktail, so it's important to use a good quality rum. Opt for a light or golden rum that has a good balance of sweetness and spiciness.
 
-## Alcohol-free alternative to a Yellow bird
+## Alcohol-free alternative to the Yellow bird
 
 One possible alcohol-free alternative to the drink Yellow Bird is a mixed fruit smoothie. The smoothie could contain fresh or frozen mango, pineapple, and orange juice, along with a splash of lime juice and a drizzle of honey for sweetness. The drink could be blended until smooth, and served over ice. This fruity and refreshing blend could provide a similar tropical flavor profile as the Yellow Bird cocktail, without the alcohol content. Additionally, it would be a healthier option that allows for guilt-free indulgence.
 

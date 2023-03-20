@@ -20,7 +20,7 @@ Pour all ingredients directly into an old fashioned glass filled with ice. Stir 
 ![](/cocktail-images/rusty_nail.jpeg)
 
 
-## Directions for how to make a Rusty nail
+## Directions for how to make the Rusty nail
 
 To make a Rusty nail drink, follow these steps:
 
@@ -37,7 +37,7 @@ To make a Rusty nail drink, follow these steps:
 - Strain the cocktail into a glass over ice and garnish with a twist of lemon or orange for an extra pop of citrus flavor.
 - If you prefer a sweeter cocktail, add a dash of honey or simple syrup to the mix.
 
-## Alcohol-free alternative to a Rusty nail
+## Alcohol-free alternative to the Rusty nail
 
 One alcohol-free alternative to Rusty Nail is the "Rusty Water." It is a simple mocktail that mimics the flavor of the classic cocktail without using any alcoholic components.
 

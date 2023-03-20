@@ -22,7 +22,7 @@ Build all ingredients into a wine glass filled with ice. Stir gently.
 ![](/cocktail-images/spritz.jpeg)
 
 
-## Directions for how to make a Spritz
+## Directions for how to make the Spritz
 
 1. Fill a white wine glass with ice.
 2. Pour 9 cl of Prosecco into the glass.
@@ -41,7 +41,7 @@ Build all ingredients into a wine glass filled with ice. Stir gently.
 
 - Ice and a slice of orange: Top off the drink with some ice and a slice of orange for a beautiful and delicious presentation. Enjoy your perfect Spritz!
 
-## Alcohol-free alternative to a Spritz
+## Alcohol-free alternative to the Spritz
 
 One popular alcohol-free alternative to Spritz is the "Mocktail Spritz." This refreshing beverage is made with sparkling water, muddled fruit (such as raspberries, strawberries or citrus), and mixers like simple syrup or elderflower syrup. It can be served in a wine glass or a lowball glass over ice with a slice of fruit for garnish. Another alternative is a Blueberry Lemonade Spritz made with blueberries, lemon juice, simple syrup, and soda water. The mixture is then poured over ice and garnished with a lemon slice and a sprig of fresh mint.
 

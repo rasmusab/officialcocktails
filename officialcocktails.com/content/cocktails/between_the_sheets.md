@@ -23,7 +23,7 @@ Pour all ingredients into shaker with ice cubes, shake, strain into chilled cock
 ![](/cocktail-images/between_the_sheets.jpeg)
 
 
-## Directions for how to make a Between the sheets
+## Directions for how to make the Between the sheets
 
 To make a Between the sheets drink, follow these steps:
 
@@ -42,7 +42,7 @@ To make a Between the sheets drink, follow these steps:
 - Shake all ingredients well with ice before straining into a chilled cocktail glass. 
 - Consider garnishing with a lemon twist for an extra touch of elegance.
 
-## Alcohol-free alternative to a Between the sheets
+## Alcohol-free alternative to the Between the sheets
 
 An alcohol-free alternative to the drink Between the Sheets could be a mocktail called "Between the Sheets Mocktail." It can be made by combining pineapple juice, cranberry juice, lemon juice, and a splash of grenadine syrup. The drink can be garnished with a lemon twist or a pineapple wedge to make it visually appealing. This mocktail will provide the tangy and fruity flavors of the alcoholic original cocktail without the effects of alcohol.
 

@@ -23,7 +23,7 @@ In a highball glass gently muddle the mint, sugar and water. Fill the glass with
 ![](/cocktail-images/mint_julep.jpeg)
 
 
-## Directions for how to make a Mint julep
+## Directions for how to make the Mint julep
 
 1. In a highball glass, gently muddle 4 mint leaves, 1 teaspoon of powdered sugar, and 2 teaspoons of water.
 2. Fill the glass with cracked ice.
@@ -45,7 +45,7 @@ In a highball glass gently muddle the mint, sugar and water. Fill the glass with
 
 - Serve it in a chilled glass: Ensure that both the glass and the ice are chilled before serving. This will ensure that your mint julep stays cold for longer.
 
-## Alcohol-free alternative to a Mint julep
+## Alcohol-free alternative to the Mint julep
 
 One non-alcoholic alternative to Mint Julep could be the Virgin Mint Julep. It is a refreshing and cooling drink made with a combination of fresh mint leaves, sugar syrup, lime juice, and soda water. To make a Virgin Mint Julep, you can follow these simple steps:
 

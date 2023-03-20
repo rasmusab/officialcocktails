@@ -22,7 +22,7 @@ Place lime and sugar into a double old fashioned glass and muddle gently. Fill t
 ![](/cocktail-images/caipirinha.jpeg)
 
 
-## Directions for how to make a Caipirinha
+## Directions for how to make the Caipirinha
 
 1. Cut one lime into small wedges
 2. Place the lime wedges and 4 teaspoons of white cane sugar into a double old fashioned glass
@@ -42,7 +42,7 @@ Place lime and sugar into a double old fashioned glass and muddle gently. Fill t
 - Adjust sweetness: Taste the drink and add more sugar if desired. Keep in mind that some brands of cachaça can be sweeter than others, so adjust accordingly.
 - Garnish with lime: Cut a slice of lime and place it on top of the drink to add a pop of color and an extra burst of lime flavor. Enjoy!
 
-## Alcohol-free alternative to a Caipirinha
+## Alcohol-free alternative to the Caipirinha
 
 One alcohol-free alternative to Caipirinha is a mocktail called ‘Virgindade.’ To make this drink, you will need 3/4 cup fresh lime juice, 1/2 cup simple syrup, 1 tsp. vanilla extract, and 1 can of sparkling water. Mix the lime juice, simple syrup, and vanilla extract in a shaker with ice, and shake well. Pour the mixture into a glass filled with ice and top with sparkling water. Garnish with a lime wedge, and enjoy your refreshing Virgindade cocktail.
 

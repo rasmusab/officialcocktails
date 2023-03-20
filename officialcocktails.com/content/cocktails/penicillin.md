@@ -24,7 +24,7 @@ Muddle fresh ginger in a shaker and add the remaining ingredients, except for th
 ![](/cocktail-images/penicillin.jpeg)
 
 
-## Directions for how to make a Penicillin
+## Directions for how to make the Penicillin
 
 1. Muddle fresh ginger in a shaker.
 2. Add the blended Scotch whisky, fresh lemon juice, and honey syrup to the shaker.
@@ -40,7 +40,7 @@ Muddle fresh ginger in a shaker and add the remaining ingredients, except for th
 - Float the float: When adding the Islay Scotch float, carefully pour it on top of the cocktail using the back of a spoon. This will help it gently rest on top for a beautiful presentation. 
 - Garnish with a lemon twist: Cut a small piece of lemon peel and twist it over the top of the drink to release the oils. Rub the peel around the rim and then drop it into the glass. This will add a bright citrus aroma and flavor to the cocktail.
 
-## Alcohol-free alternative to a Penicillin
+## Alcohol-free alternative to the Penicillin
 
 An alcohol-free alternative to the drink Penicillin could be a blend of fresh ginger juice, honey syrup, and fresh lemon juice topped with soda water. This mocktail would have a zesty ginger flavor with a sweet and sour kick from the honey and lemon. The soda water would add a sparkling touch that mimics the effervescence of the cocktail. To add a smoky element similar to the scotch used in the Penicillin, a dash of liquid smoke could be added to the mix. This non-alcoholic version would be a refreshing and healthy option that still satisfies the taste buds.
 

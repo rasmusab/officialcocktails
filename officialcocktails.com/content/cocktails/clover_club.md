@@ -23,7 +23,7 @@ Dry shake ingredients to emulsify, add ice, shake and served straight up.
 ![](/cocktail-images/clover_club.jpeg)
 
 
-## Directions for how to make a Clover Club
+## Directions for how to make the Clover Club
 
 Steps to make a Clover Club drink:
 
@@ -51,7 +51,7 @@ Enjoy your Clover Club drink!
 - Double-strain the cocktail to remove any seeds or ice shards and serve it in a chilled cocktail glass.
 - Garnish the drink with a fresh raspberry or a lemon twist for an extra touch of elegance.
 
-## Alcohol-free alternative to a Clover Club
+## Alcohol-free alternative to the Clover Club
 
 One alcohol-free alternative to the famous cocktail, Clover Club, is a mocktail made with fresh ingredients such as raspberries or strawberries, fresh lime juice, egg white, and simple syrup or honey. This mocktail is a refreshing, tart and mildly sweet drink, and could be served with a garnish of fresh berries or a lime wheel. The addition of the egg white provides extra frothiness to the drink, which resembles the texture of the original Clover Club cocktail. Another non-alcoholic option could be a fruity blend of pomegranate and cranberry juices, mixed with fresh lemon and lime juice and topped with club soda, creating a tangy and bubbly drink. This alternative to Clover Club provides a flavorful and fun way to enjoy a mocktail, without sacrificing taste and creativity.
 

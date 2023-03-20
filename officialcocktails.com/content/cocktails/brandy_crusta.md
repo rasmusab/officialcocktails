@@ -25,7 +25,7 @@ Mix all ingredients with ice cubes in a mixing glass.  Strain into slim cocktail
 ![](/cocktail-images/brandy_crusta.jpeg)
 
 
-## Directions for how to make a Brandy crusta
+## Directions for how to make the Brandy crusta
 
 To make a Brandy Crusta drink:
 
@@ -55,7 +55,7 @@ To make a Brandy Crusta drink:
 
 - Garnish with a lemon twist: Add a lemon twist to the drink for an extra burst of flavor and an elegant finishing touch.
 
-## Alcohol-free alternative to a Brandy crusta
+## Alcohol-free alternative to the Brandy crusta
 
 One alcohol-free alternative to the drink Brandy Crusta is a mocktail made with fresh lemon juice, orange juice, simple syrup, bitters, and a splash of grenadine. It can be served in a sugar-rimmed glass or with a slice of orange to mimic the flavors of Brandy Crusta. This non-alcoholic version is refreshing, tangy, and has a subtle sweetness that balances the tartness of the citrus juices. It can be enjoyed at any time without the buzz.
 

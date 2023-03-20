@@ -20,7 +20,7 @@ In a highball glass filled with ice pour the ginger beer and top floating with t
 ![](/cocktail-images/dark__n__stormy.jpeg)
 
 
-## Directions for how to make a Dark 'n' stormy
+## Directions for how to make the Dark 'n' stormy
 
 1. Fill a highball glass with ice.
 2. Pour 100 ml of ginger beer into the glass.
@@ -37,7 +37,7 @@ In a highball glass filled with ice pour the ginger beer and top floating with t
 - Serve over ice in a highball glass: Fill a glass with ice, pour in the rum and ginger beer, and then add the lime juice.
 - Garnish with a lime wedge: A fresh lime wedge on the rim of the glass looks visually appealing and adds an extra touch of flavor to the drink.
 
-## Alcohol-free alternative to a Dark 'n' stormy
+## Alcohol-free alternative to the Dark 'n' stormy
 
 A good alcohol-free alternative to the drink Dark 'n' Stormy is the Dark 'n' Spicy. This simple mocktail is made with ginger beer, lime juice, and a splash of blackstrap molasses to give it that dark and robust flavor that is characteristic of the original drink. To make the Dark 'n' Spicy, fill a highball glass with ice and add 6 ounces of ginger beer. Squeeze in the juice of half a lime and stir in a teaspoon of blackstrap molasses until it is dissolved. Garnish with a slice of lime and enjoy! The Dark 'n' Spicy is a refreshing and flavorful alternative that is perfect for those who are looking to enjoy a cocktail without the effects of alcohol.
 

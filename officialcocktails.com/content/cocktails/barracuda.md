@@ -24,7 +24,7 @@ Shake pour ingredients with ice. Strain into glass, top with sparkling wine.
 ![](/cocktail-images/barracuda.jpeg)
 
 
-## Directions for how to make a Barracuda
+## Directions for how to make the Barracuda
 
 1. Fill a shaker with ice.
 2. Add 4.5 cl of gold rum, 1.5 cl of Galliano, 6 cl of pineapple juice, and a dash of fresh lime juice to the shaker.
@@ -40,7 +40,7 @@ Shake pour ingredients with ice. Strain into glass, top with sparkling wine.
 - Add 1 1/4 ounce of light rum, 1/2 ounce of fresh lime juice, and 1/4 ounce of Creme de Cassis to the glass.
 - Top it off with ginger beer and garnish with a lime wedge for the perfect Barracuda drink.
 
-## Alcohol-free alternative to a Barracuda
+## Alcohol-free alternative to the Barracuda
 
 One alcohol-free alternative to Barracuda could be a mocktail made with pineapple juice, lime juice, and Club soda. This mocktail can be served over ice and garnished with fresh mint leaves for added refreshment. Another option could be a ginger beer-based mocktail made with ginger beer, lime juice, and honey syrup, which is perfect for those who enjoy a more spicy and flavorful drink. Lastly, a non-alcoholic tropical punch made with pineapple, orange juice, and cranberry juice can also provide a delightful and refreshing alternative to Barracuda.
 

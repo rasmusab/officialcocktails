@@ -25,7 +25,7 @@ Pour all ingredients except the wine into cocktail shaker, shake well with ice, 
 ![](/cocktail-images/old_cuban.jpeg)
 
 
-## Directions for how to make a Old Cuban
+## Directions for how to make the Old Cuban
 
 1. Pour 4.5 cl of aged rum into a cocktail shaker.
 2. Add 2.25 cl of fresh lime juice to the shaker.
@@ -51,7 +51,7 @@ Pour all ingredients except the wine into cocktail shaker, shake well with ice, 
 
 - Serve in a chilled glass and garnish with a mint sprig and lime wheel.
 
-## Alcohol-free alternative to a Old Cuban
+## Alcohol-free alternative to the Old Cuban
 
 One alternative to the alcoholic drink Old Cuban could be a non-alcoholic mojito. This drink can be made by muddling fresh mint leaves and lime wedges together in a glass, and then adding ice and topping it off with 7-up or another soda. This drink provides the refreshing taste of mint and lime, without the added alcohol content of the Old Cuban. Another option could be a virgin daiquiri made with fresh fruit juices and blended ice for a frozen, fruity drink without the alcohol. For those who prefer a more sophisticated drink, a virgin Mary Pickford can be made with pineapple juice, grenadine, and soda water, served over ice with a garnish of pineapple and a maraschino cherry. These alcohol-free alternatives are perfect for those who want to enjoy the flavors and experience of a classic cocktail, without the alcohol.
 

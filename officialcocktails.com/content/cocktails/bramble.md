@@ -23,7 +23,7 @@ Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake we
 ![](/cocktail-images/bramble.jpeg)
 
 
-## Directions for how to make a Bramble
+## Directions for how to make the Bramble
 
 1. Pour all ingredients except Crème de Mûre into a cocktail shaker.
 2. Add ice to the cocktail shaker.
@@ -41,7 +41,7 @@ Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake we
 - To make the drink extra special, use a homemade blackberry syrup. Simply simmer fresh blackberries with sugar and water to make a sweet and tangy syrup that pairs perfectly with gin and raspberry liqueur.
 - Serve the drink over crushed ice and garnish with fresh blackberries and a lemon wedge. Enjoy!
 
-## Alcohol-free alternative to a Bramble
+## Alcohol-free alternative to the Bramble
 
 An alcohol free alternative to the drink Bramble is an iced tea concoction made with blackberries and lemon. The base is brewed black tea, mixed with a homemade blackberry syrup created with fresh blackberries and sugar. The syrup is then stirred into the iced tea, along with freshly squeezed lemon juice, and garnished with fresh blackberries and a slice of lemon. This refreshing and flavorful drink offers a similar taste profile to a Bramble cocktail, but without the alcohol.
 

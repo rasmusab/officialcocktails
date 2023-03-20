@@ -22,7 +22,7 @@ In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add i
 ![](/cocktail-images/daiquiri.jpeg)
 
 
-## Directions for how to make a Daiquiri
+## Directions for how to make the Daiquiri
 
 1. Add 60 ml white Cuban rum to a cocktail shaker.
 2. Add 20 ml fresh lime juice to the same cocktail shaker.
@@ -45,7 +45,7 @@ In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add i
 
 - Serve it straight up: Serve the Daiquiri in a chilled glass without ice to prevent dilution and enjoy the pure flavors.
 
-## Alcohol-free alternative to a Daiquiri
+## Alcohol-free alternative to the Daiquiri
 
 An alcohol-free alternative to the drink Daiquiri could be a "Virgin Daiquiri" which consists of fruit juices, sugar or sweetener, and ice blended together. This mocktail can be made with a variety of fruit juices such as strawberry, lime, or pineapple, and can be garnished with fresh fruit or a sliced lime. Another option could be a "Mocktail Mojito" made with soda water, fresh mint leaves, lime juice, and sugar or sweetener. This refreshing and non-alcoholic beverage is a great option for those who want to enjoy the taste of a traditional daiquiri without the effects of alcohol.
 

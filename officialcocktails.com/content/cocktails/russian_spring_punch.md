@@ -23,7 +23,7 @@ Pour all ingredients into cocktail shaker except the sparkling wine, shake well 
 ![](/cocktail-images/russian_spring_punch.jpeg)
 
 
-## Directions for how to make a Russian spring punch
+## Directions for how to make the Russian spring punch
 
 1. Pour 2.5 cl of vodka into a cocktail shaker.
 2. Add 1.5 cl of crème de cassis to the shaker.
@@ -43,7 +43,7 @@ Pour all ingredients into cocktail shaker except the sparkling wine, shake well 
 - Garnish the glasses with a slice of grapefruit and mint leaves.
 - Enjoy your perfectly refreshing Russian spring punch!
 
-## Alcohol-free alternative to a Russian spring punch
+## Alcohol-free alternative to the Russian spring punch
 
 One alternative to the Russian spring punch that is alcohol-free is the "Berry Lemonade". Here's how to make it:
 

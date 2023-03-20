@@ -23,7 +23,7 @@ Stirred over ice, strained into a chilled glass, garnished, and served up.
 ![](/cocktail-images/martinez.jpeg)
 
 
-## Directions for how to make a Martinez
+## Directions for how to make the Martinez
 
 1. Fill a mixing glass with ice
 2. Add gin, sweet red vermouth, and maraschino liqueur into the mixing glass
@@ -40,7 +40,7 @@ Stirred over ice, strained into a chilled glass, garnished, and served up.
 - Add a splash of Maraschino liqueur for a subtle, yet complex flavor.
 - Garnish with a twist of lemon or orange peel for a citrusy aroma.
 
-## Alcohol-free alternative to a Martinez
+## Alcohol-free alternative to the Martinez
 
 An alcohol-free alternative to the Martinez could be a "Berry Spice" mocktail. 
 

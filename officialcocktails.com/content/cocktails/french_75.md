@@ -23,7 +23,7 @@ Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice. Shake 
 ![](/cocktail-images/french_75.jpeg)
 
 
-## Directions for how to make a French 75
+## Directions for how to make the French 75
 
 1. Combine gin, simple syrup, and lemon juice in a cocktail shaker.
 2. Fill the cocktail shaker with ice.
@@ -39,7 +39,7 @@ Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice. Shake 
 - **Shake well with ice:** To get the perfect balance of flavors, make sure to shake the gin, lemon juice, and simple syrup well with ice before straining into a champagne flute. 
 - **Top with champagne:** Finally, top the cocktail with chilled champagne or sparkling wine to give it that signature effervescence. Garnish with a lemon twist or zest for an extra touch of flavor.
 
-## Alcohol-free alternative to a French 75
+## Alcohol-free alternative to the French 75
 
 A non-alcoholic alternative to the French 75 cocktail could be a sparkling lemonade or a citrus mocktail. The bubbly texture of the sparkling beverage replaces the champagne in the original recipe, while the tangy citrus flavors mimic the tartness of the lemon juice. To create a citrus mocktail, combine fresh lemon juice and simple syrup with soda water in a tall glass filled with ice. Garnish with a lemon twist and a sprig of fresh mint for a refreshing and alcohol-free alternative to the French 75.
 

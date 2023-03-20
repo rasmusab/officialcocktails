@@ -21,7 +21,7 @@ Pour peach purée into chilled glass, add sparkling wine. Stir gently.
 ![](/cocktail-images/bellini.jpeg)
 
 
-## Directions for how to make a Bellini
+## Directions for how to make the Bellini
 
 1. Chill a Champagne flute by placing it in the refrigerator or freezer.
 2. Peel and dice fresh peaches, and blend them in a blender until smooth.
@@ -39,7 +39,7 @@ Pour peach purée into chilled glass, add sparkling wine. Stir gently.
 - For additional flavor, consider adding a small amount of raspberry or strawberry puree to the drink.
 - Garnish with a fresh peach slice or a twist of lemon peel for an extra touch of elegance.
 
-## Alcohol-free alternative to a Bellini
+## Alcohol-free alternative to the Bellini
 
 A mocktail alternative to the drink Bellini could be a peach and sparkling water spritzer. To make it, blend fresh or frozen peach slices with a bit of water and add a touch of honey or agave syrup to sweeten. Pour the peach puree into a glass and top with sparkling water or club soda. Garnish with a slice of fresh peach or a sprig of mint.
 

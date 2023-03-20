@@ -21,7 +21,7 @@ Pour all ingredients directly into old fashioned glass filled with ice cubes. St
 ![](/cocktail-images/french_connection.jpeg)
 
 
-## Directions for how to make a French Connection
+## Directions for how to make the French Connection
 
 1. Prepare an Old Fashioned glass by filling it with ice cubes.
 2. Measure and pour 3.5cl of Cognac into the glass.
@@ -41,7 +41,7 @@ Pour all ingredients directly into old fashioned glass filled with ice cubes. St
 
 - Garnish the cocktail with a twist of orange peel to add a bright citrus flavor to the drink. Simply twist a small piece of orange peel over the top of the cocktail and drop it into the glass.
 
-## Alcohol-free alternative to a French Connection
+## Alcohol-free alternative to the French Connection
 
 One alcohol-free alternative to the French Connection could be the "French Berry Delight". This drink can be made by mixing 2 parts cranberry juice, 1 part raspberry syrup, and 1 part orange juice. Shake the mixture with ice and strain into a martini or rocks glass. Garnish with a slice of orange or a raspberry and enjoy your fruity and refreshing French Berry Delight.
 

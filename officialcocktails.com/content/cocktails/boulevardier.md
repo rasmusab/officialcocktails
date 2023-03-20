@@ -22,7 +22,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 ![](/cocktail-images/boulevardier.jpeg)
 
 
-## Directions for how to make a Boulevardier
+## Directions for how to make the Boulevardier
 
 1. Pour 45 ml of bourbon or rye whiskey into a mixing glass filled with ice cubes.
 2. Add 30 ml of bitter Campari to the mixing glass.
@@ -37,7 +37,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 - Stir it well: The Boulevardier is a stirred drink, not a shaken one, so it's important to stir it well. Add ice to a mixing glass, then pour in the bourbon, sweet vermouth, and Campari. Use a bar spoon to stir the ingredients for 20-30 seconds until well combined and chilled.
 - Garnish with a twist: The final touch to a perfect Boulevardier is a twist of orange peel. Hold a piece of orange peel in one hand and a lighter in the other, then hold the peel over the drink and use the flame to gently warm the peel for a few seconds. Twist the peel over the drink to release its oils, then drop it in as a garnish.
 
-## Alcohol-free alternative to a Boulevardier
+## Alcohol-free alternative to the Boulevardier
 
 One possible alcohol-free alternative to a Boulevardier is a "Boulevardier mocktail." To make this drink, mix together:
 

@@ -22,7 +22,7 @@ Stir into glass over ice, garnish and serve.
 ![](/cocktail-images/negroni.jpeg)
 
 
-## Directions for how to make a Negroni
+## Directions for how to make the Negroni
 
 1. Fill an Old fashioned glass with ice.
 2. Pour 3 cl gin into the glass.
@@ -40,7 +40,7 @@ Stir into glass over ice, garnish and serve.
 - Serve the Negroni in a chilled rocks or old-fashioned glass with a large ice cube, and garnish with an orange peel twist.
 - Try experimenting with different gins or vermouths to create a unique twist on the classic Negroni recipe.
 
-## Alcohol-free alternative to a Negroni
+## Alcohol-free alternative to the Negroni
 
 There are many alcohol-free alternatives to the classic Negroni cocktail that you can try, such as:
 

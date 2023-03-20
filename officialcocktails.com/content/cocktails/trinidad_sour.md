@@ -23,7 +23,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into ch
 ![](/cocktail-images/trinidad_sour.jpeg)
 
 
-## Directions for how to make a Trinidad sour
+## Directions for how to make the Trinidad sour
 
 1. Add 4.5 cl of Angostura bitters to a cocktail shaker.
 2. Measure and pour 3 cl of orgeat syrup into the shaker.
@@ -43,7 +43,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into ch
 - Shake the ingredients in a cocktail shaker with ice for at least 10 seconds for a well-mixed and frothy drink. 
 - Garnish with a dash of Angostura bitters on top for a final pop of flavor and visual appeal.
 
-## Alcohol-free alternative to a Trinidad sour
+## Alcohol-free alternative to the Trinidad sour
 
 One alcohol-free alternative to Trinidad Sour is the "Virgin Trinidad Sour". This drink can be made by substituting the rye whiskey in the original recipe with a non-alcoholic alternative such as Seedlip Spice 94 or Lyre's American Malt. Other ingredients such as orgeat, lemon juice, and Angostura bitters can be used in the same proportions as the original recipe to maintain the flavor and balance of the drink. For a sweeter version, one can add a splash of pineapple juice or honey syrup to achieve a similar taste. Garnish with a lemon wedge and a cherry for a tropical twist. The Virgin Trinidad Sour offers all the flavor and complexity of the original, without the alcohol.
 

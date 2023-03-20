@@ -23,7 +23,7 @@ Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set 
 ![](/cocktail-images/sazerac.jpeg)
 
 
-## Directions for how to make a Sazerac
+## Directions for how to make the Sazerac
 
 1. Rinse a chilled Old-fashioned glass with absinthe (or Herbsaint).
 2. Add crushed ice to the glass and set it aside.
@@ -41,7 +41,7 @@ Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set 
 - Stir with ice for at least 30 seconds to properly dilute and chill the cocktail.
 - Garnish with a lemon peel, making sure to express the oils over the drink before placing it in the glass.
 
-## Alcohol-free alternative to a Sazerac
+## Alcohol-free alternative to the Sazerac
 
 A good alcohol-free alternative to the drink Sazerac is the "Sazerac mocktail". The mocktail replicates the flavour of the original drink without the use of alcohol. It is a blend of black tea, lemon, ginger, aromatic bitters, sugar, and star anise. The tea provides a similar flavour profile to the herbal notes of absinthe in the original recipe, while the lemon and ginger add a refreshing citrus kick. The aromatic bitters bring in the warmth and complexity, while sugar and star anise provide a sweet and spicy balance. This alcohol-free option is perfect for those who want to enjoy the taste of Sazerac without the effects of alcohol.
 

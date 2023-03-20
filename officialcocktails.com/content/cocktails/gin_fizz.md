@@ -23,7 +23,7 @@ Shake all ingredients with ice cubes, except soda water. Pour into glass. Top wi
 ![](/cocktail-images/gin_fizz.jpeg)
 
 
-## Directions for how to make a Gin fizz
+## Directions for how to make the Gin fizz
 
 Steps to make a Gin fizz drink:
 
@@ -53,7 +53,7 @@ Steps to make a Gin fizz drink:
 
 - Garnish with a lemon twist or a slice of lemon for a decorative and zesty finish.
 
-## Alcohol-free alternative to a Gin fizz
+## Alcohol-free alternative to the Gin fizz
 
 One of the most refreshing and delicious alcohol-free alternative to the drink Gin fizz is the Virgin Mojito. It is made with fresh lime juice, mint leaves, and a sweetener like sugar syrup or agave nectar, filled with soda water or sparkling water. The combination of fresh ingredients and sparkling water gives this drink a light, fizzy texture just like gin fizz. The lime juice adds a tangy, citrusy flavor to the drink, while the mint leaves offer a cooling and refreshing sensation. It is perfect for hot summer days as it contains no alcohol and can be enjoyed by everyone, any time of the day.
 

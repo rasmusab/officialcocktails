@@ -23,7 +23,7 @@ Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.
 ![](/cocktail-images/monkey_gland.jpeg)
 
 
-## Directions for how to make a Monkey gland
+## Directions for how to make the Monkey gland
 
 To make a Monkey gland drink: 
 
@@ -41,7 +41,7 @@ To make a Monkey gland drink:
 - Stir well and add a shot of brandy.
 - Garnish with a slice of orange and a cherry. Serve in a highball glass with ice.
 
-## Alcohol-free alternative to a Monkey gland
+## Alcohol-free alternative to the Monkey gland
 
 An alcohol-free alternative to the drink Monkey Gland is the Monkey Boost juice. This refreshing and healthy drink is made with fresh ingredients such as kale, spinach, apple, banana, and ginger. It is packed with essential vitamins, minerals, and antioxidants that can boost your energy level, improve your digestion, and strengthen your immunity. The Monkey Boost juice is perfect for those who want to enjoy a delicious beverage without the negative effects of alcohol. It can be enjoyed anytime, anywhere, and it is a great way to hydrate your body and replenish your nutrients. So next time you're looking for a refreshing drink to quench your thirst, try the Monkey Boost juice and enjoy a healthy and tasty alternative to Monkey Gland.
 

@@ -26,7 +26,7 @@ Pour all ingredients into shaker with ice cubes. Shake vigorously. Strain into c
 ![](/cocktail-images/illegal.jpeg)
 
 
-## Directions for how to make a Illegal
+## Directions for how to make the Illegal
 
 1. Prepare a cocktail shaker.
 2. Add 3 cl Mezcal (espadin), 1.5 cl Jamaica overproof white rum, 1.5 cl Falernum, 1 barspoon maraschino Luxardo, 2.25 cl fresh lime juice, 1.5 cl simple syrup, and a few drops of egg white (optional) into the shaker.
@@ -51,7 +51,7 @@ Pour all ingredients into shaker with ice cubes. Shake vigorously. Strain into c
 
 - **Don't drink too much**: Enjoy your drink in moderation. Keep in mind that it is illegal, and excess consumption can lead to unwanted attention or trouble.
 
-## Alcohol-free alternative to a Illegal
+## Alcohol-free alternative to the Illegal
 
 There are several alcohol-free alternative drinks to Illegal that one can try. One of them is Seedlip, a non-alcoholic spirit that has been distilled from natural ingredients such as herbs, fruits, and spices. The drink comes in three different flavors: Spice 94, Garden 108, and Grove 42. The Spice 94 variety features a blend of aromatic spices such as allspice, cardamom, and oak, while the Garden 108 has a combination of peas, hay, and mint. The Grove 42, on the other hand, is made up of zesty citrus fruits such as blood orange, mandarin, and lemon. These non-alcoholic spirits can be mixed with tonic or soda water to create a refreshing, complex drink that has no negative health impact like traditional alcoholic beverages. Other alternatives include alcohol-free beers, ciders, and wines.
 

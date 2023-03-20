@@ -24,7 +24,7 @@ Shake ingredients together in a mixer with ice. Strain into chilled glass. Garni
 ![](/cocktail-images/corpse_reviver__2.jpeg)
 
 
-## Directions for how to make a Corpse reviver #2
+## Directions for how to make the Corpse reviver #2
 
 To make a Corpse reviver #2, follow these steps:
 
@@ -46,7 +46,7 @@ To make a Corpse reviver #2, follow these steps:
 - Add a dash or two of absinthe to the glass and swirl it around to coat the inside.
 - Garnish with a lemon twist and serve immediately.
 
-## Alcohol-free alternative to a Corpse reviver #2
+## Alcohol-free alternative to the Corpse reviver #2
 
 One alcohol-free alternative to the drink Corpse Reviver #2 is the Virgin Mary. It is a classic mocktail made with tomato juice, tabasco, Worcestershire sauce, lemon juice, salt, and pepper. You can also add other non-alcoholic spirits like Seedlip or non-alcoholic gin to give it an extra edge. It is a refreshing drink that has a similar complexity and depth of flavor as the Corpse Reviver #2 without the alcohol.
 

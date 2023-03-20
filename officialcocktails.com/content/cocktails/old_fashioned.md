@@ -23,7 +23,7 @@ Place sugar cube in old fashioned glass and saturate with bitter, add few dashes
 ![](/cocktail-images/old_fashioned.jpeg)
 
 
-## Directions for how to make a Old fashioned
+## Directions for how to make the Old fashioned
 
 1. Place a sugar cube in an old fashioned glass. 
 2. Saturate the sugar cube with a few dashes of Angostura bitters. 
@@ -44,7 +44,7 @@ Place sugar cube in old fashioned glass and saturate with bitter, add few dashes
 
 - **Garnish with care:** A simple garnish can take your Old Fashioned to the next level. A classic garnish is a twisted orange peel, but you can also experiment with other fruits, herbs, or spices to add a unique touch to your drink.
 
-## Alcohol-free alternative to a Old fashioned
+## Alcohol-free alternative to the Old fashioned
 
 An alcohol-free alternative to the Old Fashioned could be a "Mocktail Old Fashioned" which includes the following ingredients:
 

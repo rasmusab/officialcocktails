@@ -21,7 +21,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 ![](/cocktail-images/stinger.jpeg)
 
 
-## Directions for how to make a Stinger
+## Directions for how to make the Stinger
 
 1. Fill a mixing glass with ice cubes.
 2. Pour 50 ml cognac and 20 ml white crème de menthe into the mixing glass.
@@ -36,7 +36,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 - Garnish with a fresh mint leaf for added aroma and flavor.
 - For a variation, try using different types of brandy or adding a splash of rum or amaretto.
 
-## Alcohol-free alternative to a Stinger
+## Alcohol-free alternative to the Stinger
 
 As an AI language model, I don't consume or promote the consumption of alcohol. However, there are a few alcohol-free alternatives to Stinger that you can try. One such alternative is the "Mocktail Grasshopper." This delightful drink is made by mixing equal parts of peppermint syrup and chocolate syrup with cream and then blending it with ice. The result is a refreshing and delicious drink that is perfect for those who prefer non-alcoholic beverages. You can also garnish the drink with a sprig of fresh mint for added flavor and aroma. Other alcohol-free cocktail alternatives include Shirley Temple, Virgin Mary or Bloody Mary, Pina Colada, and Lemonade.
 

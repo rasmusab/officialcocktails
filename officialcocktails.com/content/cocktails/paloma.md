@@ -23,7 +23,7 @@ Pour the tequila into a highball glass, squeeze the lime juice. Add ice and salt
 ![](/cocktail-images/paloma.jpeg)
 
 
-## Directions for how to make a Paloma
+## Directions for how to make the Paloma
 
 1. Pour 50 ml 100% agave tequila into a Highball glass.
 2. Squeeze 5 ml fresh lime juice into the glass.
@@ -45,7 +45,7 @@ Pour the tequila into a highball glass, squeeze the lime juice. Add ice and salt
 
 - Use carbonated water or club soda: Palomas are typically topped off with carbonated water or club soda. Use a good quality sparkling water to add effervescence and balance out the flavors.
 
-## Alcohol-free alternative to a Paloma
+## Alcohol-free alternative to the Paloma
 
 The alcohol-free alternative to Paloma is the Virgin Paloma. 
 

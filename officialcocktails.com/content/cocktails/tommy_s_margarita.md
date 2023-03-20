@@ -22,7 +22,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into a 
 ![](/cocktail-images/tommy_s_margarita.jpeg)
 
 
-## Directions for how to make a Tommy's margarita
+## Directions for how to make the Tommy's margarita
 
 1. Combine 60 ml of Tequila agave 100% reposado, 30 ml of Fresh lime juice (Persiano), and 30 ml of Agave syrup (1/2 water + 1/2 agave nectar) in a cocktail shaker.
 2. Add ice to the cocktail shaker.
@@ -40,7 +40,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into a 
 - Shake the margarita with ice until well chilled, then strain into a salt-rimmed glass for the perfect balance of sweetness and saltiness.
 - Feel free to customize with different types of tequila, such as reposado or añejo, for slightly different flavor profiles.
 
-## Alcohol-free alternative to a Tommy's margarita
+## Alcohol-free alternative to the Tommy's margarita
 
 One alcohol-free alternative to Tommy's Margarita is the Virgin Margarita. The ingredients are lime juice, orange juice, agave syrup, and soda water. To create it, combine 1 oz lime juice, 1 oz orange juice, and 1 oz agave syrup in a cocktail shaker with ice, and shake well. Strain the mixture over ice in a glass, and then top with soda water. Garnish the drink with a lime wedge and enjoy!
 

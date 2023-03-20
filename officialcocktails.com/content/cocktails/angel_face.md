@@ -22,7 +22,7 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 ![](/cocktail-images/angel_face.jpeg)
 
 
-## Directions for how to make a Angel face
+## Directions for how to make the Angel face
 
 To make an Angel face drink, follow these steps:
 
@@ -38,7 +38,7 @@ To make an Angel face drink, follow these steps:
 - Shake well and strain into a chilled cocktail glass.
 - Garnish with a lemon twist and a cherry for the perfect Angel Face cocktail.
 
-## Alcohol-free alternative to a Angel face
+## Alcohol-free alternative to the Angel face
 
 One option for an alcohol-free alternative to the Angel Face cocktail could be a mocktail made with fruit juices and soda water. Mix together equal parts orange, pineapple, and cranberry juice in a shaker with ice. Shake well and strain into a glass over ice. Top with soda water and garnish with a slice of orange or a cherry. This drink has a fruity, refreshing flavor that is similar to the Angel Face cocktail but without the alcohol.
 

@@ -24,7 +24,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, double-strain 
 ![](/cocktail-images/southside.jpeg)
 
 
-## Directions for how to make a Southside
+## Directions for how to make the Southside
 
 1. Take a cocktail shaker and fill it with ice.
 2. Add 60 ml London Dry gin to the shaker.
@@ -50,7 +50,7 @@ Pour all ingredients into a cocktail shaker, shake well with ice, double-strain 
 
 - Serve in a chilled glass: Serve the drink in a chilled glass to keep it cold and refreshing. A coupe or martini glass works well for a Southside drink.
 
-## Alcohol-free alternative to a Southside
+## Alcohol-free alternative to the Southside
 
 An alcohol-free alternative to Southside is a beverage called "Virgin Southside". This drink consists of fresh lime juice, simple syrup or honey, and mint leaves. It is a refreshing and citrusy drink that is perfect for those who want to enjoy the taste of Southside without the alcohol. To make the Virgin Southside, add fresh lime juice, simple syrup or honey, and mint leaves to a cocktail shaker. Fill the shaker with ice, and shake vigorously for about 10-15 seconds. Strain the mixture into a glass filled with ice, and garnish with a sprig of fresh mint. Enjoy!
 

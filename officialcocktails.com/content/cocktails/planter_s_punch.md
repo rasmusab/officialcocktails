@@ -22,7 +22,7 @@ Pour all ingredients directly in a small tumbler or a typical terracotta glass.
 ![](/cocktail-images/planter_s_punch.jpeg)
 
 
-## Directions for how to make a Planter's punch
+## Directions for how to make the Planter's punch
 
 1. Gather all necessary ingredients and tools, including Jamaican rum, lime juice, sugar cane juice, a small tumbler or terracotta glass, and a jigger.
 2. Fill the tumbler or glass with ice, leaving enough room for the liquid ingredients.
@@ -42,7 +42,7 @@ Pour all ingredients directly in a small tumbler or a typical terracotta glass.
 - Make sure to stir or shake the drink well before serving to ensure that all of the ingredients are mixed together properly.
 - To make the drink more visually appealing, garnish with a slice of fruit or a sprig of mint.
 
-## Alcohol-free alternative to a Planter's punch
+## Alcohol-free alternative to the Planter's punch
 
 One alcohol-free alternative to Planter's Punch is a tropical fruit punch made with a combination of pineapple, orange, and mango juice. To make this refreshing drink, mix equal parts of the three juices and add a splash of grenadine syrup for color and sweetness. Serve the fruity punch over ice with a garnish of pineapple or orange slices and a cherry. You can also add a dash of lime juice or soda water for a little extra kick. This alcohol-free alternative is perfect for those who want a refreshing and fruity drink without the buzz.
 

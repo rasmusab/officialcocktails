@@ -26,7 +26,7 @@ Stirring gently, pour all ingredients into highball glass. Garnish.
 ![](/cocktail-images/bloody_mary.jpeg)
 
 
-## Directions for how to make a Bloody Mary
+## Directions for how to make the Bloody Mary
 
 1. Fill a Highball glass with ice
 2. Pour 4.5 cl (3 parts) vodka into the glass
@@ -53,7 +53,7 @@ Stirring gently, pour all ingredients into highball glass. Garnish.
 
 - Serve chilled: A Bloody Mary should be served cold, so make sure to chill all the ingredients beforehand. Serve over ice in a tall glass for the perfect finish.
 
-## Alcohol-free alternative to a Bloody Mary
+## Alcohol-free alternative to the Bloody Mary
 
 There are many delicious non-alcoholic alternatives to the classic Bloody Mary. Here are three:
 

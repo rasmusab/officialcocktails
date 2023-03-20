@@ -27,7 +27,7 @@ Add all ingredients into highball glass filled with ice. Stir gently. Optionally
 ![](/cocktail-images/long_island_iced_tea.jpeg)
 
 
-## Directions for how to make a Long Island iced tea
+## Directions for how to make the Long Island iced tea
 
 Steps to make a Long Island iced tea:
 
@@ -52,7 +52,7 @@ Steps to make a Long Island iced tea:
 
 - Don't skimp on the ice: The Long Island iced tea should be served over plenty of ice. This helps to dilute the strong spirits and makes the drink refreshing and enjoyable. Be sure to fill the glass to the top with ice before adding the other ingredients.
 
-## Alcohol-free alternative to a Long Island iced tea
+## Alcohol-free alternative to the Long Island iced tea
 
 One option for an alcohol free alternative to Long Island iced tea is "Virgin Long Island". This mocktail replaces the liquor with tea and other sweet and sour juices, resulting in a refreshing and flavorful drink. To make a Virgin Long Island, mix equal parts lemon juice, lime juice, orange juice, and cranberry juice in a shaker with ice. Shake well and strain into a glass with fresh ice. Top off with unsweetened iced tea and garnish with a lemon wedge or mint sprig. The combination of juices and tea gives a similar taste to Long Island iced tea without the added alcohol.
 

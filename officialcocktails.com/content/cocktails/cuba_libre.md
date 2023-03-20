@@ -22,7 +22,7 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 ![](/cocktail-images/cuba_libre.jpeg)
 
 
-## Directions for how to make a Cuba libre
+## Directions for how to make the Cuba libre
 
 1. Fill a highball glass with ice cubes.
 2. Pour 50 ml of white rum into the glass.
@@ -41,7 +41,7 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 - Use a highball glass to serve for the authentic look 
 - Garnish with a lime wedge for a finishing touch.
 
-## Alcohol-free alternative to a Cuba libre
+## Alcohol-free alternative to the Cuba libre
 
 One alcohol-free alternative to Cuba libre is the Virgin Cuba Libre. To make this drink, you will need 2 oz of cola, ½ oz of fresh lime juice, and ice cubes. 
 

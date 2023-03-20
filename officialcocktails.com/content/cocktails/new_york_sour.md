@@ -24,7 +24,7 @@ Pour the whiskey, syrup, lemon juice, and egg white into shaker with ice cubes. 
 ![](/cocktail-images/new_york_sour.jpeg)
 
 
-## Directions for how to make a New York sour
+## Directions for how to make the New York sour
 
 1. Pour the whiskey, syrup, lemon juice, and egg white into a shaker with ice cubes.
 2. Shake the mixture vigorously.
@@ -40,7 +40,7 @@ Pour the whiskey, syrup, lemon juice, and egg white into shaker with ice cubes. 
 - Serve the New York Sour in a rocks glass over a large ice cube to keep it chilled without diluting the flavors too quickly. 
 - Garnish with a lemon twist and a cherry to complement the citrus and fruit flavors in the drink.
 
-## Alcohol-free alternative to a New York sour
+## Alcohol-free alternative to the New York sour
 
 One alcohol-free alternative to New York sour is a mocktail named the New York Sweet. This drink is made with ingredients such as apple cider vinegar, maple syrup, lemon juice, and sparkling water. Instead of whiskey, the drink can use black tea to give it a similar depth of flavor. The drink is topped with a splash of cranberry juice, giving it a sweet and sour taste similar to a New York sour. This alcohol-free alternative is perfect for those who want to enjoy a flavorful drink without the alcohol.
 

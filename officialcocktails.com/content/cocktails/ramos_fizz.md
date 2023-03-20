@@ -28,7 +28,7 @@ All ingredients except the soda are poured in a mixing glass, dry shaken (no ice
 ![](/cocktail-images/ramos_fizz.jpeg)
 
 
-## Directions for how to make a Ramos fizz
+## Directions for how to make the Ramos fizz
 
 1. Combine gin, fresh lime juice, fresh lemon juice, simple syrup, cream, egg white, orange flower water, and vanilla extract in a mixing glass. 
 2. Dry shake the ingredients (without ice) for 2 minutes. 
@@ -45,7 +45,7 @@ All ingredients except the soda are poured in a mixing glass, dry shaken (no ice
 - Add a splash of orange blossom water to give the drink a floral aroma and flavor 
 - Strain the mixture through a fine mesh strainer before serving to remove any small bits of ice or lemon pulp
 
-## Alcohol-free alternative to a Ramos fizz
+## Alcohol-free alternative to the Ramos fizz
 
 An alcohol-free alternative to Ramos fizz can be made by combining a few simple ingredients. Here is the recipe:
 

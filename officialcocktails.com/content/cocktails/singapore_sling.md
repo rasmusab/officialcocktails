@@ -27,7 +27,7 @@ Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. S
 ![](/cocktail-images/singapore_sling.jpeg)
 
 
-## Directions for how to make a Singapore sling
+## Directions for how to make the Singapore sling
 
 1. Fill a cocktail shaker with ice cubes
 2. Add 30 ml gin, 15 ml cherry liqueur, 7.5 ml Cointreau, 7.5 ml DOM Bénédictine, 120 ml fresh pineapple juice, 15 ml fresh lime juice, 10 ml grenadine, and 1 dash Angostura bitters
@@ -40,7 +40,7 @@ Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. S
 - Use fresh ingredients: The perfect Singapore sling should include fresh lime juice, pineapple juice, and cherry brandy. Avoid using canned juices or artificial syrups for a more authentic taste.
 - Experiment with the ratio: While there is a traditional recipe for the Singapore sling, feel free to experiment with the ratio of ingredients to suit your personal taste. Try adjusting the amount of gin or adding a dash of bitters for a unique twist on the classic drink.
 
-## Alcohol-free alternative to a Singapore sling
+## Alcohol-free alternative to the Singapore sling
 
 One alcohol-free alternative for Singapore sling could be a mocktail that is made with lemon juice, pineapple juice, grenadine syrup, and club soda. Ingredients and their respective quantities to make this drink are:
 

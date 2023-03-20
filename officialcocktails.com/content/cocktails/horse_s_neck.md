@@ -22,7 +22,7 @@ Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gen
 ![](/cocktail-images/horse_s_neck.jpeg)
 
 
-## Directions for how to make a Horse's neck
+## Directions for how to make the Horse's neck
 
 1. Prepare a highball glass and fill it with ice cubes.
 2. Pour 4 cL (1 part) of Brandy into the glass.
@@ -39,7 +39,7 @@ Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gen
 - Add a few dashes of aromatic bitters to balance out the sweetness of the ginger ale.
 - Serve over ice in a highball glass for the perfect refreshing sip.
 
-## Alcohol-free alternative to a Horse's neck
+## Alcohol-free alternative to the Horse's neck
 
 Horse's neck is a cocktail typically made with brandy and ginger ale, often garnished with a long, thin twist of lemon peel. An alcohol-free alternative to this drink could be a mocktail called the "Stablemate," which includes ginger beer, fresh lemon juice, and honey syrup. 
 

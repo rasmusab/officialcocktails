@@ -22,7 +22,7 @@ Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain 
 ![](/cocktail-images/grasshopper.jpeg)
 
 
-## Directions for how to make a Grasshopper
+## Directions for how to make the Grasshopper
 
 1. Take a cocktail shaker and fill it with ice
 2. Pour 3 cl crème de menthe (green) into the shaker
@@ -41,7 +41,7 @@ Enjoy your delicious Grasshopper!
 - Serve the Grasshopper in a chilled glass and garnish with a sprig of mint for an extra touch of freshness. 
 - Adjust the ingredient ratios to taste, but be careful not to add too much crème de menthe as it can overpower the other flavors.
 
-## Alcohol-free alternative to a Grasshopper
+## Alcohol-free alternative to the Grasshopper
 
 One alcohol-free alternative to the Grasshopper is the "Virgin Mint Choco-Chip Shake". This chilled and creamy dessert is made with vanilla ice cream, fresh mint leaves, and chocolate chips blended together until smooth. It has the refreshing taste of mint with the indulgent flavor of chocolate, delivering a sweet and decadent sensation while remaining completely alcohol-free. This mocktail is perfect for those who want to satisfy their sweet tooth without the buzz from alcohol. It can be garnished with a sprig of fresh mint and served in a classic milkshake glass for a fun and retro look.
 

@@ -22,7 +22,7 @@ Shake together over ice.  Strain into cocktail glass and serve chilled.
 ![](/cocktail-images/paradise.jpeg)
 
 
-## Directions for how to make a Paradise
+## Directions for how to make the Paradise
 
 1. Fill a cocktail shaker with ice.
 2. Add 3.5 cl (7 parts) gin to the shaker.
@@ -40,7 +40,7 @@ Shake together over ice.  Strain into cocktail glass and serve chilled.
 - Garnish with a slice of pineapple or orange to add a nice touch of tropical flair. 
 - Experiment with different fruit juices and rum blends to find your preferred flavor profile.
 
-## Alcohol-free alternative to a Paradise
+## Alcohol-free alternative to the Paradise
 
 One alcohol-free alternative to the drink Paradise would be a mocktail made with fruit juices, such as orange, pineapple, and cranberry, mixed with a splash of club soda or sparkling water for a fizzy finish. To enhance the sweetness, honey or agave syrup can be added as a natural sweetener. A garnish of a pineapple wedge or orange slice can add a tropical touch and visually enhance the drink's appeal. This mocktail can provide a refreshing and fruity drink option that can be enjoyed by all, regardless of alcohol preferences.
 

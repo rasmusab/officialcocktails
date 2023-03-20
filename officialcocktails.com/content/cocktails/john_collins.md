@@ -23,7 +23,7 @@ Pour all ingredients directly into highball glass filled with ice. Stir gently. 
 ![](/cocktail-images/john_collins.jpeg)
 
 
-## Directions for how to make a John Collins
+## Directions for how to make the John Collins
 
 1. Fill a highball glass with ice.
 2. Pour 4.5 cl (3 parts) of gin into the glass.
@@ -40,7 +40,7 @@ Pour all ingredients directly into highball glass filled with ice. Stir gently. 
 - Make sure to add enough soda water to create a light and bubbly texture.
 - Garnish with a lemon wedge and cherry to elevate the presentation.
 
-## Alcohol-free alternative to a John Collins
+## Alcohol-free alternative to the John Collins
 
 A popular alcohol-free alternative to John Collins is the Virgin Collins. The recipe for a Virgin Collins includes the following ingredients:
 

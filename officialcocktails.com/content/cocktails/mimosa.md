@@ -21,7 +21,7 @@ Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 ![](/cocktail-images/mimosa.jpeg)
 
 
-## Directions for how to make a Mimosa
+## Directions for how to make the Mimosa
 
 1. Ensure champagne and orange juice are well chilled.
 2. Pour 7.5 cl of champagne into a Champagne flute.
@@ -38,7 +38,7 @@ Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 - Optionally, garnish the drink with a slice of orange. 
 - Serve immediately and enjoy!
 
-## Alcohol-free alternative to a Mimosa
+## Alcohol-free alternative to the Mimosa
 
 One possible alcohol-free alternative to the drink Mimosa is the Virgin Mary. This is a refreshing and delicious juice-based beverage that is reminiscent of a Bloody Mary, but without the alcohol. The Virgin Mary typically contains tomato juice, Worcestershire sauce, hot sauce, lemon juice, and celery salt, and is garnished with a celery stick, a wedge of lemon, and a sprig of fresh cilantro or parsley. This drink is perfect for those who want to enjoy a refreshing and flavorful cocktail without the effects of alcohol.
 

@@ -22,7 +22,7 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 ![](/cocktail-images/lemon_drop_martini.jpeg)
 
 
-## Directions for how to make a Lemon drop martini
+## Directions for how to make the Lemon drop martini
 
 1. Pour 30 ml of vodka citron into a cocktail shaker.
 2. Add 20 ml of triple sec into the cocktail shaker.
@@ -41,7 +41,7 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 - Don't over shake the cocktail as it can make it too diluted and thin. Aim for 10-15 seconds of shaking.
 - Adjust the sweetness to your liking by adding simple syrup or agave nectar to taste.
 
-## Alcohol-free alternative to a Lemon drop martini
+## Alcohol-free alternative to the Lemon drop martini
 
 A possible alcohol-free alternative to Lemon Drop Martini is Lemonade with a twist. You can make it by mixing freshly squeezed lemon juice with a small amount of sugar and water or lemon-flavored soda. To give it a twist, you can add some sparkling water or ginger ale and garnish it with a lemon wedge or a sprig of fresh mint. This refreshing and tangy drink is perfect for any occasion, whether you're looking for a non-alcoholic option or simply want to enjoy a zesty and satisfying beverage. It's also easy to make and can be adapted to suit your taste preferences by adjusting the sweetness and tartness levels. So next time you're in the mood for something lemony without the alcohol, give Lemonade with a twist a try!
 

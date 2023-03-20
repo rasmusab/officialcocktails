@@ -23,7 +23,7 @@ Pour the coffee into a preheated glass, add whiskey and sugar, and stir until di
 ![](/cocktail-images/irish_coffee.jpeg)
 
 
-## Directions for how to make a Irish coffee
+## Directions for how to make the Irish coffee
 
 1. Preheat an Irish coffee mug by adding hot water.
 2. While the mug is preheating, brew a cup of hot coffee and chill fresh cream.
@@ -40,7 +40,7 @@ Pour the coffee into a preheated glass, add whiskey and sugar, and stir until di
 - Gently pour cold whipped cream over the top, being careful not to mix it in too much.
 - Enjoy while hot and sip slowly through the cream.
 
-## Alcohol-free alternative to a Irish coffee
+## Alcohol-free alternative to the Irish coffee
 
 An alcohol-free alternative to Irish coffee could be a hot chocolate or a hot cider. One could add a whipped cream and sprinkle cinnamon or other spices for an extra touch of flavor. Another option could be a chai latte with a shot of espresso. It is a comforting and warming drink that is perfect for cold nights. One could add a little bit of honey or vanilla syrup and top it off with frothed milk for a delicious, non-alcoholic alternative to Irish coffee.
 

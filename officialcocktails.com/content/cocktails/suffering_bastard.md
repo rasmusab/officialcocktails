@@ -24,7 +24,7 @@ Shake everything but ginger beer with ice, pour unstrained into glass, top with 
 ![](/cocktail-images/suffering_bastard.jpeg)
 
 
-## Directions for how to make a Suffering bastard
+## Directions for how to make the Suffering bastard
 
 1. Combine 30 ml gin, 30 ml brandy, 15 ml lime juice, and 2 dashes of Angostura bitters in a shaker.
 2. Add ice to the shaker.
@@ -41,7 +41,7 @@ Shake everything but ginger beer with ice, pour unstrained into glass, top with 
 - Serve in a tall glass with ice and top with ginger beer for a refreshing kick.
 - Garnish with a lime wedge and a sprig of mint for a beautiful finishing touch.
 
-## Alcohol-free alternative to a Suffering bastard
+## Alcohol-free alternative to the Suffering bastard
 
 One alcohol-free alternative to Suffering Bastard could be to use ginger ale, lime juice, pineapple juice and a dash of bitters. Ginger ale can provide the perfect balance of flavor by bringing fizziness and sweetness. Lime juice adds a tartness which works well with pineapple juice which provides some sweetness. Bitters add a bit of complexity and depth to the drink. The resulting non-alcoholic version of the Suffering Bastard is refreshing, fruity and spicy, and could be garnished with fresh mint leaves or a slice of lime to complete the inviting look.
 

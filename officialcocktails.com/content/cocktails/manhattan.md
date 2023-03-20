@@ -22,7 +22,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 ![](/cocktail-images/manhattan.jpeg)
 
 
-## Directions for how to make a Manhattan
+## Directions for how to make the Manhattan
 
 1. Fill a mixing glass with ice cubes.
 2. Pour 50 ml of Rye whiskey into the mixing glass.
@@ -42,7 +42,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 
 - Take your time when stirring: A Manhattan should be stirred, not shaken, to prevent the drink from becoming too diluted. Stir the cocktail gently for about 30 seconds, being careful not to overdo it. Strain the drink into a chilled glass and enjoy!
 
-## Alcohol-free alternative to a Manhattan
+## Alcohol-free alternative to the Manhattan
 
 One alcohol-free alternative to the Manhattan cocktail is the "Manhattan Mocktail." This mocktail is made with a combination of non-alcoholic ingredients, such as ginger beer, cranberry juice, and cherry syrup, and served with a garnish of maraschino cherries. Another option is the "Virgin Manhattan," which is made with non-alcoholic bourbon or whiskey substitutes, such as Seedlip Spice 94 or Ritual Zero Proof Whiskey Alternative, mixed with sweet vermouth and bitters. Both of these alternatives offer a similar taste and experience to the classic Manhattan cocktail without the alcohol.
 

@@ -22,7 +22,7 @@ Pour all ingredients into cocktail shaker filled with ice. Shake well and strain
 ![](/cocktail-images/sidecar.jpeg)
 
 
-## Directions for how to make a Sidecar
+## Directions for how to make the Sidecar
 
 1. Fill a cocktail shaker with ice.
 2. Pour 5 cl cognac into the shaker.
@@ -39,7 +39,7 @@ Pour all ingredients into cocktail shaker filled with ice. Shake well and strain
 - Don't forget the sugar rim: Coat the rim of your glass with sugar for an added touch of sweetness and texture. To do this, wet the rim with a lemon wedge and gently dip it into a plate of sugar.
 - Shake, shake, shake: Don't be afraid to shake the cocktail vigorously to ensure that it is well-mixed and chilled. Strain the mixture into your sugar-rimmed glass and enjoy!
 
-## Alcohol-free alternative to a Sidecar
+## Alcohol-free alternative to the Sidecar
 
 A possible alcohol-free alternative to the classic cocktail Sidecar could be a mocktail made with lemonade, orange juice, and grenadine. Here's the recipe:
 

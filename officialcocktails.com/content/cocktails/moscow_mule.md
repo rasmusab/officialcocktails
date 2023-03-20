@@ -22,7 +22,7 @@ Combine vodka and ginger beer in a highball glass filled with ice. Add lime juic
 ![](/cocktail-images/moscow_mule.jpeg)
 
 
-## Directions for how to make a Moscow mule
+## Directions for how to make the Moscow mule
 
 To make a Moscow mule, you will need:
 - Vodka
@@ -57,7 +57,7 @@ Follow these steps:
 
 - Remember the ratio: The classic Moscow mule ratio is 2:1:1 (2 parts vodka, 1 part lime juice, 1 part ginger beer). Adjust to your personal taste.
 
-## Alcohol-free alternative to a Moscow mule
+## Alcohol-free alternative to the Moscow mule
 
 An alcohol free alternative to the drink Moscow mule could be a virgin or alcohol-free Moscow mule. This can be made using the same ingredients as the original cocktail with the exception of vodka. Instead of vodka, ginger beer and lime juice are mixed with ice and served in a copper mug for an authentic feel to the drink. Another alternative could be a ginger ale or soda infused with lime juice and a dash of bitters for a tangy and refreshing non-alcoholic beverage.
 

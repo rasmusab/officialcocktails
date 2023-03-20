@@ -24,7 +24,7 @@ Mix mint sprigs with sugar and lime juice. Add splash of soda water and fill the
 ![](/cocktail-images/mojito.jpeg)
 
 
-## Directions for how to make a Mojito
+## Directions for how to make the Mojito
 
 1. Take 6 sprigs of fresh mint and place them in the bottom of a Collins glass.
 2. Add two teaspoons of white cane sugar (or 2 cl of sugar syrup) to the glass.
@@ -46,7 +46,7 @@ Mix mint sprigs with sugar and lime juice. Add splash of soda water and fill the
 - Use carbonated water: Use carbonated water instead of regular tap water to give the drink a refreshing and bubbly finish.
 - Garnish with mint and lime wedges: Garnish the Mojito with fresh mint leaves and lime wedges to make it look appealing and add to its flavor.
 
-## Alcohol-free alternative to a Mojito
+## Alcohol-free alternative to the Mojito
 
 One alcohol-free alternative to the drink Mojito is a "Virgin Mojito" or "Nojito." To make it, you will need
 

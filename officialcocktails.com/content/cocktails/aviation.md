@@ -23,7 +23,7 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 ![](/cocktail-images/aviation.jpeg)
 
 
-## Directions for how to make a Aviation
+## Directions for how to make the Aviation
 
 1. Fill a cocktail shaker with ice.
 2. Add 45 ml of gin to the shaker.
@@ -43,7 +43,7 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 - Strain carefully. Once you've shaken your Aviation cocktail, strain it through a fine mesh strainer to remove any ice chips or pulp from the lemon juice. This will help give your drink a smooth, velvety texture. 
 - Garnish with a cherry. A classic Aviation is traditionally garnished with a Luxardo cherry, which adds a sweet and slightly bitter note to the drink. You can also add a lemon twist for a bit of extra citrus flavor.
 
-## Alcohol-free alternative to a Aviation
+## Alcohol-free alternative to the Aviation
 
 An alcohol-free alternative to the Aviation cocktail could be a mocktail made with lavender syrup, fresh lemon juice, and sparkling water.
 

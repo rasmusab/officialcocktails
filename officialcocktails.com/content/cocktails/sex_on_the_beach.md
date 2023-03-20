@@ -23,7 +23,7 @@ Build all ingredients in a highball glass filled with ice. Garnish with orange s
 ![](/cocktail-images/sex_on_the_beach.jpeg)
 
 
-## Directions for how to make a Sex on the beach
+## Directions for how to make the Sex on the beach
 
 1. Fill a highball glass with ice.
 2. Add 4 cl of vodka to the glass.
@@ -41,7 +41,7 @@ Build all ingredients in a highball glass filled with ice. Garnish with orange s
 - Garnish with a slice of orange, a cherry, and a cocktail umbrella for that extra touch of summer vibes. 
 - Don't be afraid to adjust the sweetness and acidity to your taste by adding more or less orange and cranberry juice.
 
-## Alcohol-free alternative to a Sex on the beach
+## Alcohol-free alternative to the Sex on the beach
 
 One alcohol-free alternative to Sex on the Beach could be a mocktail called “Island Oasis”. The ingredients for this drink include:
 

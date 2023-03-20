@@ -24,7 +24,7 @@ Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a c
 ![](/cocktail-images/ve_n_to.jpeg)
 
 
-## Directions for how to make a Ve.n.to
+## Directions for how to make the Ve.n.to
 
 1. Pour 4.5 cl white smooth grappa into a shaker.
 2. Add 2.25 cl fresh lemon juice
@@ -49,7 +49,7 @@ Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a c
 
 - Serve in a clear glass: To showcase the layers of the Ve.n.to - the coffee, the milk, and the foam - always serve it in a clear glass so that you can see the beautiful layers.
 
-## Alcohol-free alternative to a Ve.n.to
+## Alcohol-free alternative to the Ve.n.to
 
 One great alcohol-free alternative to Ve.n.to is the Virgin Mojito. It contains all the classic ingredients of a traditional mojito, including lime juice, fresh mint, and sugar, but without the added rum. This refreshing drink is perfect for those who want to enjoy the flavors of a cocktail without the alcohol. Another great alternative is the "Faux-ito" which is similar but with the additional ingredient of club soda for a fizzy twist.
 

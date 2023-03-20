@@ -23,7 +23,7 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled
 ![](/cocktail-images/casino.jpeg)
 
 
-## Directions for how to make a Casino
+## Directions for how to make the Casino
 
 1. Add 4 cl gin (Old Tom) into a shaker with ice cubes.
 2. Pour in 1 cl Maraschino and 1 cl fresh lemon juice into the shaker.
@@ -45,7 +45,7 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled
 
 - Don't forget the garnish: The final touch to any casino drink is the garnish. Whether it's a slice of citrus, a sprig of herbs, or a decorative cocktail pick, a garnish adds visual appeal and can enhance the flavors of your drink.
 
-## Alcohol-free alternative to a Casino
+## Alcohol-free alternative to the Casino
 
 One possible alcohol-free alternative to the drink Casino is an alcohol-free sangria. Sangria is a refreshing and fruity drink that can be made with a variety of fresh fruits, juices, and spices. To make an alcohol-free version, simply omit the wine and replace it with a non-alcoholic substitute, such as grape juice or sparkling water.
 

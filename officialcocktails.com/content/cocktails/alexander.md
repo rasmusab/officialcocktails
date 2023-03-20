@@ -22,7 +22,7 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 ![](/cocktail-images/alexander.jpeg)
 
 
-## Directions for how to make a Alexander
+## Directions for how to make the Alexander
 
 1. Fill a cocktail shaker with ice cubes.
 2. Pour 30 ml of cognac into the shaker.
@@ -40,7 +40,7 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 - Use a cocktail shaker to thoroughly mix and aerate the ingredients before straining into the chilled glass.
 - Consider adding a pinch of nutmeg or cinnamon on top for added flavor and visual appeal.
 
-## Alcohol-free alternative to a Alexander
+## Alcohol-free alternative to the Alexander
 
 An alcohol-free alternative to the Alexander is a mocktail called the "Chocolatini". It is made with a combination of chocolate syrup, vanilla extract, heavy cream or coconut milk, and ice. The ingredients are mixed together in a shaker and strained into a martini glass. Garnish with a sprinkle of cocoa powder or chocolate shavings for an extra touch of decadence. This drink offers the same rich and creamy flavor as the Alexander without the use of alcohol.
 

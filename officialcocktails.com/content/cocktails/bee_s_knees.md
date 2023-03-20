@@ -23,7 +23,7 @@ Combine gin, honey syrup and lemon juice into a mixing tin. Shake. Strain into c
 ![](/cocktail-images/bee_s_knees.jpeg)
 
 
-## Directions for how to make a Bee's knees
+## Directions for how to make the Bee's knees
 
 1. Combine 2 oz of gin, 1 oz of honey syrup and 1 oz of lemon juice into a mixing tin.
 2. Shake the mixture well to combine the ingredients.
@@ -39,7 +39,7 @@ Combine gin, honey syrup and lemon juice into a mixing tin. Shake. Strain into c
 - Shake with ice to create a frothy texture
 - Garnish with a lemon twist for an extra touch of citrus flavor
 
-## Alcohol-free alternative to a Bee's knees
+## Alcohol-free alternative to the Bee's knees
 
 An alcohol-free alternative to the Bee's Knees cocktail could be a mocktail made with honey, lemon juice, and tonic water. To make the mocktail, simply mix 2 ounces of honey syrup (equal parts honey and water) and 1 1/2 ounces of fresh lemon juice in a shaker with ice. Shake well and strain into a glass filled with ice. Top with tonic water and garnish with a lemon wheel. You can also add a dash of bitters to add some complexity to the drink. This mocktail is refreshing, tangy, and slightly sweet – a perfect alternative to a classic Bee's Knees cocktail.
 

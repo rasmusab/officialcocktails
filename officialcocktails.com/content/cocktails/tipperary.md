@@ -23,7 +23,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 ![](/cocktail-images/tipperary.jpeg)
 
 
-## Directions for how to make a Tipperary
+## Directions for how to make the Tipperary
 
 1. Fill a mixing glass with ice cubes.
 2. Pour 5 cl of Irish whiskey into the mixing glass.
@@ -42,7 +42,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 - The temperature: Serve it chilled but not cold. Let it rest for a minute before you take a sip.
 - The variations: You can adjust the recipe to your taste by adding more or less whiskey, or switching the sweet vermouth for another type of vermouth or aperitif.
 
-## Alcohol-free alternative to a Tipperary
+## Alcohol-free alternative to the Tipperary
 
 One alcohol-free alternative to the drink Tipperary is to create a mocktail version using similar flavors. This mocktail can contain fresh lemon juice, cane sugar or molasses, aromatic bitters, and a splash of traditional Italian soda like San Pellegrino Chinotto. To make the drink, simply shake the ingredients with ice and strain into a glass filled with fresh ice. You can also add a slice of fresh lemon or a sprig of rosemary for an extra aesthetic touch. This drink will be delicious and refreshing, without the effects of alcohol.
 

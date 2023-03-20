@@ -21,7 +21,7 @@ Fill a double old-fashioned glass with ice. Pour in the Fernet-Branca, fill the 
 ![](/cocktail-images/fernandito.jpeg)
 
 
-## Directions for how to make a Fernandito
+## Directions for how to make the Fernandito
 
 1. Fill a double old-fashioned glass with ice.
 2. Pour in 5 cl Fernet-Branca into the glass.
@@ -35,7 +35,7 @@ Fill a double old-fashioned glass with ice. Pour in the Fernet-Branca, fill the 
 - Add a splash of grenadine and a dash of lime juice for a sweet and sour flavor.
 - Pour the mixture over ice and top with a floater of dark rum for a delicious and refreshing Fernandito drink.
 
-## Alcohol-free alternative to a Fernandito
+## Alcohol-free alternative to the Fernandito
 
 As an AI language model, I don't have personal experiences or preferences to choose an alcohol-free alternative to Fernandito. However, I can suggest some popular alternatives to alcoholic drinks that can be enjoyed as a non-alcoholic beverage. These include:
 

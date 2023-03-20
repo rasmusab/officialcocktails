@@ -23,7 +23,7 @@ Shake and strain into a chilled large cocktail glass
 ![](/cocktail-images/mary_pickford.jpeg)
 
 
-## Directions for how to make a Mary Pickford
+## Directions for how to make the Mary Pickford
 
 1. Add 4.5 cl of white rum to a cocktail shaker.
 2. Add 4.5 cl of fresh pineapple juice to the cocktail shaker.
@@ -40,7 +40,7 @@ Shake and strain into a chilled large cocktail glass
 - Use fresh pineapple juice and muddle some pieces of ripe pineapple to add depth to the flavor.
 - Use real maraschino liqueur instead of the bright red syrupy version commonly found in stores.
 
-## Alcohol-free alternative to a Mary Pickford
+## Alcohol-free alternative to the Mary Pickford
 
 One alcohol-free alternative to the drink Mary Pickford is the "Virgin Pineapple Coconut Cooler". This refreshing tropical drink is made with freshly squeezed pineapple juice, coconut water, and a splash of lime juice. To make it, simply mix equal parts pineapple juice and coconut water in a glass with ice, and add a squeeze of fresh lime juice. Garnish with a slice of pineapple or a sprig of mint for added flavor and visual appeal. This drink is perfect for anyone who wants to enjoy a refreshing beverage without the added calories and effects of alcohol.
 

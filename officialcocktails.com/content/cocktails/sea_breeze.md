@@ -22,7 +22,7 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 ![](/cocktail-images/sea_breeze.jpeg)
 
 
-## Directions for how to make a Sea breeze
+## Directions for how to make the Sea breeze
 
 1. Fill a highball glass with ice cubes.
 2. Add 4 cl of vodka to the glass.
@@ -39,7 +39,7 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 - Make sure to add the cranberry juice last to avoid too much color or sweetness.
 - Use a Collins glass filled with ice and garnish with a grapefruit slice for presentation.
 
-## Alcohol-free alternative to a Sea breeze
+## Alcohol-free alternative to the Sea breeze
 
 An alcohol-free alternative to Sea Breeze can be made using cranberry juice, grapefruit juice, and soda water. Here's the recipe:
 

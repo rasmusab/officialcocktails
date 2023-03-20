@@ -23,7 +23,7 @@ Mix honey with water and lime juice and spread the mixture on the bottom and sid
 ![](/cocktail-images/canchanchara.jpeg)
 
 
-## Directions for how to make a Canchanchara
+## Directions for how to make the Canchanchara
 
 To make a Canchanchara drink, follow these steps:
 
@@ -41,7 +41,7 @@ To make a Canchanchara drink, follow these steps:
 - Make sure to stir or shake the ingredients well to evenly distribute the honey and lime juice. 
 - Garnish with a slice of lime and enjoy in a traditional clay cup for an authentic experience.
 
-## Alcohol-free alternative to a Canchanchara
+## Alcohol-free alternative to the Canchanchara
 
 One alcohol-free alternative to Canchanchara could be a virgin mojito. Made with lime juice, sugar, mint leaves, and soda water, this refreshing drink has a similar tart and sweet taste as Canchanchara, but without the rum. Another option could be a fruit smoothie, made with a variety of fresh fruits, such as pineapple, strawberry, and coconut milk, blended to create a tropical and flavorful thirst-quencher. Another option could be a grapefruit and honey spritzer, made with fresh grapefruit juice, honey, and sparkling water, which combines tart, sweet, and bubbly flavors in a light and refreshing beverage.
 

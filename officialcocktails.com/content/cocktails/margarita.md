@@ -22,7 +22,7 @@ Add all ingredients into a shaker with ice. Shake and strain into a chilled cock
 ![](/cocktail-images/margarita.jpeg)
 
 
-## Directions for how to make a Margarita
+## Directions for how to make the Margarita
 
 1. Add 50 ml tequila 100% agave into a cocktail shaker filled with ice.
 2. Pour 20 ml triple sec into the shaker.
@@ -41,7 +41,7 @@ Add all ingredients into a shaker with ice. Shake and strain into a chilled cock
 - Shake the ingredients together in a shaker with ice for the perfect texture.
 - Use a cocktail strainer to remove any pulp or ice chips from the drink.
 
-## Alcohol-free alternative to a Margarita
+## Alcohol-free alternative to the Margarita
 
 A similar alternative to Margarita that contains no alcohol is a virgin Margarita or a 'mocktail.' This drink is made using the same ingredients as a traditional Margarita but without any liquor. The ingredients typically include fresh lime juice, orange juice, agave syrup or simple syrup, and club soda or sparkling water. The drink is served over ice in a salt-rimmed glass and garnished with a slice of lime. This non-alcoholic drink is perfect for those who want to enjoy the taste of a classic Margarita without the effects of alcohol.
 

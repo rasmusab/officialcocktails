@@ -23,7 +23,7 @@ Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. A
 ![](/cocktail-images/champagne_cocktail.jpeg)
 
 
-## Directions for how to make a Champagne cocktail
+## Directions for how to make the Champagne cocktail
 
 1. Add 2 dashes of Angostura bitters onto a sugar cube.
 2. Drop the bitters-coated sugar cube into a champagne flute.
@@ -39,7 +39,7 @@ Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. A
 - Use the right glass: Serve Champagne cocktails in a tall, narrow glass called a flute, or a wider glass called a coupe. This allows the Champagne to retain its bubbles and aroma. 
 - Garnish with a twist: Finish the cocktail with a twist of lemon or lime, or add berries or mint leaves to complement the flavors.
 
-## Alcohol-free alternative to a Champagne cocktail
+## Alcohol-free alternative to the Champagne cocktail
 
 An alcohol-free alternative to a Champagne cocktail can be a Sparkling Cider Cocktail, which can provide the same fizzy and celebratory feeling without the alcohol. To make this, one can take a bottle of sparkling apple cider, add a splash of freshly squeezed grapefruit juice, and a few dashes of bitters. This can be poured into a champagne flute and garnished with a slice of apple and a sprig of rosemary for added aroma and visual appeal. The Sparkling Cider cocktail can be a refreshing and delicious drink for all ages and occasions.
 

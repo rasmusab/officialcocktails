@@ -23,7 +23,7 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled
 ![](/cocktail-images/naked_and_famous.jpeg)
 
 
-## Directions for how to make a Naked and famous
+## Directions for how to make the Naked and famous
 
 To make a Naked and famous cocktail, follow the steps below:
 
@@ -42,7 +42,7 @@ To make a Naked and famous cocktail, follow the steps below:
 - Use high-quality ingredients, such as premium vodka, fresh-squeezed grapefruit juice, and a hint of elderflower liqueur.
 - Keep the cocktail simple by using only a few quality ingredients and shaking well with ice before serving. Garnish with a grapefruit twist for added flavor and visual appeal.
 
-## Alcohol-free alternative to a Naked and famous
+## Alcohol-free alternative to the Naked and famous
 
 A possible alcohol-free alternative to the cocktail Naked and Famous is a blend of fresh lime juice, grapefruit juice, agave nectar, and sparkling water or soda. This refreshing and zesty concoction is reminiscent of the citrusy and smoky notes of the original cocktail but without the alcoholic kick. Here's a recipe for this mocktail:
 

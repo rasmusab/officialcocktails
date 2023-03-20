@@ -24,7 +24,7 @@ Vigorously shake contents in a cocktail shaker with ice cubes, then strain into 
 ![](/cocktail-images/pisco_sour.jpeg)
 
 
-## Directions for how to make a Pisco sour
+## Directions for how to make the Pisco sour
 
 1. Combine 60 ml of Pisco, 30 ml of lemon juice, and 20 ml of simple syrup in a cocktail shaker.
 2. Add one egg white to the mixture.
@@ -42,7 +42,7 @@ Vigorously shake contents in a cocktail shaker with ice cubes, then strain into 
 - Add a dash of Angostura bitters on top for a unique flavor.
 - Serve chilled in a chilled glass for a refreshing drink.
 
-## Alcohol-free alternative to a Pisco sour
+## Alcohol-free alternative to the Pisco sour
 
 One alternative to Pisco sour could be a virgin mojito. The virgin mojito is a refreshing and delicious mocktail that can be easily made by mixing lime juice, fresh mint leaves, and simple syrup with soda water or sparkling water. The combination of tangy lime juice, sweet syrup, and refreshing mint leaves creates a flavor similar to Pisco sour. The virgin mojito is perfect for those who do not consume alcohol and still want to enjoy a tasty and refreshing drink. It can be garnished with fresh mint leaves and lime wedges for a beautiful presentation.
 

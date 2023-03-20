@@ -21,7 +21,7 @@ Add the crème de cassis to the bottom of the glass, then top up with wine.
 ![](/cocktail-images/kir.jpeg)
 
 
-## Directions for how to make a Kir
+## Directions for how to make the Kir
 
 1. Take a Wine glass (white).
 2. Measure and pour 1 cl (1 part) of crème de cassis into the bottom of the glass.
@@ -37,7 +37,7 @@ Add the crème de cassis to the bottom of the glass, then top up with wine.
 - Swirl the crème de cassis at the bottom of the glass before pouring the wine on top for a beautiful color gradient.
 - Garnish with a twist of lemon peel for an extra pop of flavor.
 
-## Alcohol-free alternative to a Kir
+## Alcohol-free alternative to the Kir
 
 An alcohol-free alternative to the drink Kir is a mocktail called “Berry Fizz”. 
 

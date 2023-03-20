@@ -22,7 +22,7 @@ Pour the tequila and orange juice into glass over ice.  Add the grenadine, which
 ![](/cocktail-images/tequila_sunrise.jpeg)
 
 
-## Directions for how to make a Tequila sunrise
+## Directions for how to make the Tequila sunrise
 
 1. Fill a Collins glass with ice.
 2. Pour 4.5 cl of tequila into the glass.
@@ -46,7 +46,7 @@ Pour the tequila and orange juice into glass over ice.  Add the grenadine, which
 
 - Garnish the drink with a slice of orange and a cherry for a beautiful presentation.
 
-## Alcohol-free alternative to a Tequila sunrise
+## Alcohol-free alternative to the Tequila sunrise
 
 One possible alcohol-free alternative to the tequila sunrise is a Virgin Sunrise. The Virgin Sunrise is made with orange juice, grenadine syrup and ginger ale. To make a Virgin Sunrise, follow these instructions:
 

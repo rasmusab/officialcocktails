@@ -22,7 +22,7 @@ Pour the Campari and vermouth over ice into an old fashioned glass, add a splash
 ![](/cocktail-images/americano.jpeg)
 
 
-## Directions for how to make a Americano
+## Directions for how to make the Americano
 
 1. Fill an old fashioned glass with ice
 2. Pour 3cl of Campari over the ice
@@ -40,7 +40,7 @@ Pour the Campari and vermouth over ice into an old fashioned glass, add a splash
 - **Stir:** Stir the cocktail well with a long-handled spoon to ensure that all the ingredients are fully mixed and the flavors are well-blended.
 - **Glassware:** Serve the Americano cocktail in a large rocks glass or tumbler over ice.
 
-## Alcohol-free alternative to a Americano
+## Alcohol-free alternative to the Americano
 
 A possible alcohol free alternative to an Americano could be the Italian soda. The Italian soda is a refreshing and light drink that features sparkling water or soda water, flavored syrup, and fresh fruit. It can be made in a variety of flavors such as raspberry, blackberry, peach, vanilla, or lemon. To create a classic Italian soda, start by filling a tall glass with ice, adding 1-2 tablespoons of the chosen syrup, and then fill the glass with soda water. Stir gently and add fresh fruit slices on top. This beverage is a perfect option for those who want a flavorful and bubbly drink without the addition of alcohol.
 

@@ -24,7 +24,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 ![](/cocktail-images/vieux_carr_.jpeg)
 
 
-## Directions for how to make a Vieux Carré
+## Directions for how to make the Vieux Carré
 
 1. Pour 30ml rye whiskey into a mixing glass with ice cubes.
 2. Add 30ml cognac to the mixing glass.
@@ -47,7 +47,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 
 - Garnish carefully: The Vieux Carré traditionally calls for a lemon twist as a garnish. Be sure to carefully peel the lemon to avoid any bitter pith, and twist the peel over the drink to express its essential oils.
 
-## Alcohol-free alternative to a Vieux Carré
+## Alcohol-free alternative to the Vieux Carré
 
 A great alcohol-free alternative to Vieux Carré is a mocktail version of the classic recipe. To make this delicious and refreshing drink, you will need:
 

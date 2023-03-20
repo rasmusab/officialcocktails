@@ -21,7 +21,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 ![](/cocktail-images/dry_martini.jpeg)
 
 
-## Directions for how to make a Dry martini
+## Directions for how to make the Dry martini
 
 1. Fill a mixing glass with ice cubes.
 2. Pour 60 ml (2.0 US fl oz) gin and 10 ml (0.34 US fl oz) dry vermouth into the mixing glass.
@@ -36,7 +36,7 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 - For a drier martini, use less vermouth or rinse the glass with it and discard before adding the gin. For a wetter martini, use more vermouth or add a splash of olive juice.
 - Experiment with different types of gin and vermouth to find your perfect combination. And remember, always drink responsibly.
 
-## Alcohol-free alternative to a Dry martini
+## Alcohol-free alternative to the Dry martini
 
 An alcohol-free alternative to the classic Dry Martini could be a mocktail version made with non-alcoholic gin or vodka, vermouth, a dash of olive brine, and a olive or lemon twist garnish. Another option could be a combination of flavored sparkling water, a splash of citrus juice, and a few dashes of bitters, served in a chilled martini glass. This refreshing drink can be enjoyed as a sophisticated and elegant alternative to the classic cocktail, without the effects of alcohol.
 

@@ -22,7 +22,7 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 ![](/cocktail-images/white_lady.jpeg)
 
 
-## Directions for how to make a White lady
+## Directions for how to make the White lady
 
 1. Fill a cocktail shaker with ice.
 2. Pour 4 cl of gin into the shaker.
@@ -40,7 +40,7 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 - Garnish with a lemon peel or twist to add a burst of citrus aroma that complements the cocktail's floral notes.
 - Experiment with different ratios of gin, Cointreau, and lemon juice to find the perfect balance of sweet, sour, and boozy flavors that suit your taste buds.
 
-## Alcohol-free alternative to a White lady
+## Alcohol-free alternative to the White lady
 
 One alcohol-free alternative to the White Lady is the "Virgin Lady." This cocktail can be made by combining 1 ounce of lemon juice, 1 ounce of honey syrup, and 1 ounce of egg white substitute in a cocktail shaker. Shake the mixture vigorously, then add ice to the shaker and shake again. Strain the mixture into a chilled cocktail glass and garnish with a lemon twist or edible flower. This mocktail has a zesty citrus flavor and a frothy texture similar to the White Lady, but without the alcohol content.
 

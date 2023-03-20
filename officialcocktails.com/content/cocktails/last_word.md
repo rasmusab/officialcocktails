@@ -23,7 +23,7 @@ Shake with ice and strain into a cocktail glass.
 ![](/cocktail-images/last_word.jpeg)
 
 
-## Directions for how to make a Last word
+## Directions for how to make the Last word
 
 1. Gather all the necessary ingredients for the Last Word.
 2. Fill a shaker halfway with ice.
@@ -45,7 +45,7 @@ Shake with ice and strain into a cocktail glass.
 
 - **Garnish with a lime twist**: Finish off the cocktail by expressing a lime twist over the drink. This adds an extra layer of citrus aroma and a pop of color.
 
-## Alcohol-free alternative to a Last word
+## Alcohol-free alternative to the Last word
 
 An alcohol-free alternative to the drink Last Word could be a concoction called the "Final Thought." It's made by mixing equal parts of freshly squeezed lime juice, maraschino cherry syrup, and green Chartreuse with a splash of sparkling water. Pour the mixture over ice, and garnish with a cherry and a sprig of mint. The drink will have a tart, sweet, and slightly herbal flavor, similar to the original cocktail, but without the alcohol content. It's a refreshing and satisfying drink that can be enjoyed without worrying about the next morning's hangover.
 

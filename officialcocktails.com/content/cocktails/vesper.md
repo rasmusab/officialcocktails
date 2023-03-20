@@ -22,7 +22,7 @@ Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and str
 ![](/cocktail-images/vesper.jpeg)
 
 
-## Directions for how to make a Vesper
+## Directions for how to make the Vesper
 
 1. Fill a cocktail shaker with ice cubes.
 2. Pour in 45 ml of gin, 15 ml of vodka, and 7.5 ml of Lillet Blanc.
@@ -38,7 +38,7 @@ Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and str
 - Use Lillet Blanc as the vermouth. This French aperitif wine adds a slightly sweet and floral flavor to the drink.
 - Garnish with a thin slice of lemon peel. Express the oils over the drink by twisting the peel before placing it in the glass.
 
-## Alcohol-free alternative to a Vesper
+## Alcohol-free alternative to the Vesper
 
 One alcohol-free alternative to the Vesper cocktail could be a "Vesper mocktail". This refreshing drink can be made by mixing non-alcoholic gin or vodka with some grapefruit juice, lemon juice, and a simple syrup. Garnish it with a slice of grapefruit or lemon, and you have a delicious and tasty beverage that is perfect for those who don't drink alcohol or who want to limit their alcohol intake. The mocktail version of Vesper can provide you with a fruity and tangy flavor that is similar to the original cocktail but without any alcohol content.
 

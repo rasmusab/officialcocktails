@@ -24,7 +24,7 @@ Stir all ingredients with ice and strain into a cocktail glass.  Garnish with a 
 ![](/cocktail-images/tuxedo.jpeg)
 
 
-## Directions for how to make a Tuxedo
+## Directions for how to make the Tuxedo
 
 1. Fill a mixing glass with ice.
 2. Pour in 3 cl of Old Tom gin.
@@ -43,7 +43,7 @@ Stir all ingredients with ice and strain into a cocktail glass.  Garnish with a 
 - Mix the drink using a shaker for a smooth and delicious cocktail. 
 - Garnish the drink with a lemon twist for an extra touch of elegance.
 
-## Alcohol-free alternative to a Tuxedo
+## Alcohol-free alternative to the Tuxedo
 
 One alcohol free alternative to the Tuxedo cocktail could be a mocktail made with tonic water, grapefruit juice, and a splash of grenadine syrup. This refreshing and fruity beverage is similar in appearance to the Tuxedo with its rosy hue and garnish of citrus peel. Additionally, tonic water provides a bittersweet taste that gives the mocktail a hint of complexity and sophistication, as with the Tuxedo's use of dry vermouth. The grapefruit juice adds tartness and gives the drink a zesty kick, and the grenadine syrup provides a hint of sweetness and a subtle floral note. This alcohol-free mocktail version of the Tuxedo is perfect for those who want to enjoy a sophisticated and elegant drink without the added effects of alcohol.
 

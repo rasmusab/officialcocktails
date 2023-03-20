@@ -28,7 +28,7 @@ Mix ingredients in a shaker with crushed ice and shake. Pour into a tall tumbler
 ![](/cocktail-images/zombie.jpeg)
 
 
-## Directions for how to make a Zombie
+## Directions for how to make the Zombie
 
 ### Steps to Make a Zombie Drink
 
@@ -48,7 +48,7 @@ Mix ingredients in a shaker with crushed ice and shake. Pour into a tall tumbler
 - Adjust sweetness level by adding or reducing the amount of syrup or grenadine.
 - For a spicier kick, add a few drops of hot sauce or a slice of fresh ginger.
 
-## Alcohol-free alternative to a Zombie
+## Alcohol-free alternative to the Zombie
 
 An alcohol-free alternative to the drink Zombie can be a mocktail that has a similar fruity taste but without the rum. Here's one recipe for a non-alcoholic Zombie mocktail:
 

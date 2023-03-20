@@ -23,7 +23,7 @@ Shake all ingredients in cocktail shaker filled with ice. Strain into a large co
 ![](/cocktail-images/cosmopolitan.jpeg)
 
 
-## Directions for how to make a Cosmopolitan
+## Directions for how to make the Cosmopolitan
 
 # Steps to make a Cosmopolitan drink:
 
@@ -48,7 +48,7 @@ Shake all ingredients in cocktail shaker filled with ice. Strain into a large co
 
 - Strain and garnish: After shaking, pour the mix through a strainer to remove any ice chips. This will ensure the drink is silky smooth. Finally, garnish with a twist of lime peel or a slice of lime to add a little extra flavor and visual appeal to your drink.
 
-## Alcohol-free alternative to a Cosmopolitan
+## Alcohol-free alternative to the Cosmopolitan
 
 A non-alcoholic alternative to Cosmopolitan can be a mocktail called "Cranberry Fizz." To prepare this drink, one would need cranberry juice, sparkling water or soda, and lime juice. To prepare, mix a cup of cranberry juice with 1/4 cup of lime juice in a shaker. Then pour the mixture over a glass with ice and top it off with sparkling water or soda. Garnish with a lime wedge and serve chilled. This drink has a similar taste profile to the Cosmopolitan with the added benefit of being alcohol-free.
 

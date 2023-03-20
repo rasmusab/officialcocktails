@@ -25,7 +25,7 @@ Add all ingredients into a shaker with ice. Shake and pour into a double rocks g
 ![](/cocktail-images/mai_tai.jpeg)
 
 
-## Directions for how to make a Mai Tai
+## Directions for how to make the Mai Tai
 
 1. Fill a shaker with ice.
 2. Add 30 ml amber Jamaican rum, 30 ml Martinique molasses rhum, 15 ml orange curaçao, 15 ml orgeat syrup (almond), 30 ml fresh lime juice and 7.5 ml simple syrup to the shaker.
@@ -40,7 +40,7 @@ Add all ingredients into a shaker with ice. Shake and pour into a double rocks g
 - Use fresh juices: The Mai Tai is all about balance, and fresh lime and orange juice are key to achieving that balance. Avoid using bottled juices that can add unwanted sweetness or acidity. Squeeze the juice yourself or use a high-quality store-bought brand.
 - Use high-quality rum: The Mai Tai relies heavily on rum, so it’s important to use a good quality one. Aged rums with caramel and vanilla notes work particularly well. Avoid using spiced or flavored rums as they can overpower the other ingredients.
 
-## Alcohol-free alternative to a Mai Tai
+## Alcohol-free alternative to the Mai Tai
 
 A tropical fruit punch could be a great alcohol-free alternative to Mai Tai. Mix together equal parts of pineapple, orange, and passion fruit juice with a splash of grenadine syrup. Serve the fruit punch in a tiki glass with a colorful umbrella, sliced pineapple, and a maraschino cherry as a garnish. This refreshing and fruity drink is perfect for any occasion, particularly on hot summer days.
 

@@ -23,7 +23,7 @@ Pour all ingredients into a shaker with ice. Shake.
 ![](/cocktail-images/hemingway_special.jpeg)
 
 
-## Directions for how to make a Hemingway special
+## Directions for how to make the Hemingway special
 
 To make a Hemingway special drink:
 1. Add 6 cL of rum, 4 cl of grapefruit juice, 1.5 cL of Maraschino liqueur, and 1.5 cl of fresh lime juice to a shaker with ice.
@@ -41,7 +41,7 @@ To make a Hemingway special drink:
 - Strain the drink into a chilled coupe glass for an elegant presentation.
 - Garnish the drink with a twist of grapefruit or lime peel for a pop of color and added citrus aroma.
 
-## Alcohol-free alternative to a Hemingway special
+## Alcohol-free alternative to the Hemingway special
 
 The Hemingway Special is a cocktail made with rum, grapefruit juice, lime juice, and maraschino liqueur. An alcohol-free alternative to this drink could be a mocktail that includes the same fruity and citrusy flavors but omits the rum and maraschino liqueur.
 

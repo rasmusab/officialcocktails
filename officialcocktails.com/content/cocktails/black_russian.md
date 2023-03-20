@@ -21,7 +21,7 @@ Pour the ingredients into the old fashioned glass filled with ice cubes. Stir ge
 ![](/cocktail-images/black_russian.jpeg)
 
 
-## Directions for how to make a Black Russian
+## Directions for how to make the Black Russian
 
 1. Prepare an old fashioned glass by filling it with ice cubes.
 2. Measure 50 ml of vodka and pour it into the glass with the ice.
@@ -38,7 +38,7 @@ Pour the ingredients into the old fashioned glass filled with ice cubes. Stir ge
 - Stir gently until the liqueur and vodka are combined.
 - Garnish with a cherry or a twist of orange peel, if desired.
 
-## Alcohol-free alternative to a Black Russian
+## Alcohol-free alternative to the Black Russian
 
 An alcohol-free alternative to the drink Black Russian could be a virgin White Russian, which is made with similar ingredients but excludes the vodka. To make a virgin White Russian, combine coffee liqueur, heavy cream, and ice in a shaker, and shake until the mixture is frothy. Strain the mixture into a rocks glass filled with ice, and garnish with a sprinkle of cocoa powder or coffee beans. This drink has a creamy, sweet flavor that can satisfy your cravings without the alcohol. Another alternative could be a mocktail made of coffee, chocolate syrup, and milk or cream, blended with ice and topped with whipped cream, creating a similar taste profile as Black Russian.
 

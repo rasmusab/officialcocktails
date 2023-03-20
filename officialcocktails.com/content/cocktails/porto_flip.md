@@ -22,7 +22,7 @@ Shake ingredients together in a mixer with ice.  Strain into glass, garnish and 
 ![](/cocktail-images/porto_flip.jpeg)
 
 
-## Directions for how to make a Porto flip
+## Directions for how to make the Porto flip
 
 1. Add ice to a cocktail shaker.
 
@@ -51,7 +51,7 @@ Shake ingredients together in a mixer with ice.  Strain into glass, garnish and 
 - Strain the cocktail into a stemmed glass.
 - Garnish with a sprinkle of fresh nutmeg on top.
 
-## Alcohol-free alternative to a Porto flip
+## Alcohol-free alternative to the Porto flip
 
 A great alcohol-free alternative to Porto flip could be the Blueberry Lemonade. The flavour-packed mocktail comprises a mixture of blueberries, fresh lemonade, and soda water. The Blueberry Lemonade is light, refreshing, and delicious, with the sweet blueberry syrup complementing the tartness of the lemonade. The drink is then topped with crushed ice and a hint of mint to give it a refreshing taste. This alcohol-free alternative is perfect for people who don't consume alcohol and want to indulge in a delicious and refreshing beverage. The Blueberry Lemonade is perfect for parties, weekend brunches, and daytime events.
 

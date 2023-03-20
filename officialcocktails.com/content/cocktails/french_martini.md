@@ -22,7 +22,7 @@ Pour all ingredients into shaker with ice cubes. Shake well and strain into a ch
 ![](/cocktail-images/french_martini.jpeg)
 
 
-## Directions for how to make a French martini
+## Directions for how to make the French martini
 
 1. Add ice cubes to a cocktail shaker
 2. Pour 4.5 cl vodka, 1.5 cl Chambord Raspberry Liqueur, and 1.5 cl fresh pineapple juice into the shaker
@@ -39,7 +39,7 @@ Pour all ingredients into shaker with ice cubes. Shake well and strain into a ch
 - Shake the ingredients together vigorously with ice cubes to blend them well and create a frothy texture, then strain the drink into the chilled martini glass for a sophisticated presentation. 
 - Garnish the drink with a twist of lemon or a couple of fresh raspberries to add a pop of color and an extra burst of flavor.
 
-## Alcohol-free alternative to a French martini
+## Alcohol-free alternative to the French martini
 
 A mocktail that could be an alcohol-free alternative to the French Martini would be the Raspberry Lemonade Mocktail. It's a refreshing blend of sweet and tangy flavors that's perfect for any occasion.
 

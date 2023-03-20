@@ -23,7 +23,7 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 ![](/cocktail-images/paper_plane.jpeg)
 
 
-## Directions for how to make a Paper plane
+## Directions for how to make the Paper plane
 
 1. Take a cocktail shaker and add ice to it.
 2. Measure and pour 30 ml of Bourbon whiskey into the shaker.
@@ -42,7 +42,7 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 - Strain the contents into a coupe glass for an elegant presentation. 
 - Garnish with a lemon twist or peel for an extra burst of flavour and beautiful aesthetic.
 
-## Alcohol-free alternative to a Paper plane
+## Alcohol-free alternative to the Paper plane
 
 One alcohol-free alternative to the Paper Plane cocktail could be a mocktail made with ingredients such as fresh-squeezed lemon juice, Aperol or another bitter citrus liqueur, non-alcoholic Vermouth, and simple syrup. A dash of bitters can also be added for added complexity. This mocktail can be served over ice and garnished with lemon wedges or orange peel for a refreshing, citrusy flavor without the boozy kick. Another alternative could be a virgin version of Mojito, made with sparkling water, fresh mint, lime juice, and sugar. This drink is also refreshing, light, and perfect for summer days.
 

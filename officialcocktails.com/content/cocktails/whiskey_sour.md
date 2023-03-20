@@ -22,7 +22,7 @@ Shake with ice. Strain into chilled glass, garnish and serve.
 ![](/cocktail-images/whiskey_sour.jpeg)
 
 
-## Directions for how to make a Whiskey sour
+## Directions for how to make the Whiskey sour
 
 1. Fill a cocktail shaker with ice.
 2. Pour the bourbon whiskey into the shaker.
@@ -45,7 +45,7 @@ Shake with ice. Strain into chilled glass, garnish and serve.
 
 - **Garnish with style**: A traditional whiskey sour is typically garnished with a lemon wheel and cherry, but feel free to get creative and add your own personal touch with a unique garnish like a sprig of rosemary or a dash of cinnamon.
 
-## Alcohol-free alternative to a Whiskey sour
+## Alcohol-free alternative to the Whiskey sour
 
 There are several delicious and easy-to-make alcohol-free alternatives to whiskey sour that you can try. Here are some options:
 

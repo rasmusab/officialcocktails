@@ -23,7 +23,7 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 ![](/cocktail-images/espresso_martini.jpeg)
 
 
-## Directions for how to make a Espresso martini
+## Directions for how to make the Espresso martini
 
 1. Pour 50 ml of vodka into a cocktail shaker.
 2. Add 30 ml of Kahlúa into the shaker.
@@ -42,7 +42,7 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 - Garnish with three coffee beans for good luck and an extra touch of class. 
 - Serve immediately in a chilled glass to prevent dilution.
 
-## Alcohol-free alternative to a Espresso martini
+## Alcohol-free alternative to the Espresso martini
 
 One alcohol-free alternative to the drink Espresso martini is a mocktail called the "Espresso Kiss." This drink is made with freshly brewed espresso, chocolate syrup, and cream, which is then shaken with ice and strained into a martini glass. 
 
