@@ -12,3 +12,4 @@ This was a quick experiment to try out auto-generating a website using (in 2023)
 5. **Generate the site with hugo**.
 6. Success?
 
+Some more details on my blog: https://www.sumsar.net/blog/ai-generated-cocktail-site/
