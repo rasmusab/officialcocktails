@@ -14,9 +14,13 @@ posts_path <- file.path("officialcocktails.com", "content", "cocktails")
 unlink(posts_path, recursive = TRUE)
 dir.create(posts_path)
 
-# Moving the images to the right location
+# Moving the images to the right location and compress them at the same time
 unlink("officialcocktails.com/static/cocktail-images", recursive = TRUE)
-file.copy("cocktail-images/", "officialcocktails.com/static/", recursive = TRUE)
+dir.create("officialcocktails.com/static/cocktail-images")
+for(source_path in Sys.glob("cocktail-images/*.jpeg")) {
+  system(glue("convert {source_path}  -quality 85  officialcocktails.com/static/{source_path}"))
+}
+
 
 cocktail_page_template <- r"-(
 ---
