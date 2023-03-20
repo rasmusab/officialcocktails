@@ -1,4 +1,4 @@
-This repo the two small scripts that uses ChatGPT and StableDiffusion to auto-generate the
+This repo hosts two small scripts that uses ChatGPT and StableDiffusion to auto-generate the
 cocktail website found over here:
 
 [officialcocktails.com](https://officialcocktails.com/)
