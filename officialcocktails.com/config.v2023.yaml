@@ -4,7 +4,7 @@ params:
   sidebarAbout:
     - All the official International Bartenders Association cocktails.
     - The recipes and ingredient lists are correct, trustworthy, and fact-checked. Everything else, including images, is hallucinated by an evil AI.
-    - This is the frozen 2023 version of the site.
+    - This is the frozen 2023 version of the site. It used gpt-3.5-turbo for text generation and Stable Diffusion v1.5 for image generation.
   navlinks:
     - name: Cocktails
       url:
