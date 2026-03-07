@@ -19,3 +19,5 @@ params:
       home: true
     - name: About
       url: about/
+    - name: 2023 version
+      url: v2023/

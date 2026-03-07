@@ -1,0 +1,15 @@
+baseurl: 'https://officialcocktails.com/v2023/'
+canonifyURLs: true
+params:
+  sidebarAbout:
+    - All the official International Bartenders Association cocktails.
+    - The recipes and ingredient lists are correct, trustworthy, and fact-checked. Everything else, including images, is hallucinated by an evil AI.
+    - This is the frozen 2023 version of the site.
+  navlinks:
+    - name: Cocktails
+      url:
+      home: true
+    - name: About
+      url: about/
+    - name: Latest version
+      url: https://officialcocktails.com/
