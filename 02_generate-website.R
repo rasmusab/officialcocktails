@@ -18,7 +18,11 @@ dir.create(posts_path)
 unlink("officialcocktails.com/static/cocktail-images", recursive = TRUE)
 dir.create("officialcocktails.com/static/cocktail-images")
 for(source_path in Sys.glob("cocktail-images/*.jpeg")) {
-  system(glue("convert {source_path}  -quality 85  officialcocktails.com/static/{source_path}"))
+  target_path <- file.path("officialcocktails.com", "static", source_path)
+  status <- system2("magick", args = c(source_path, "-quality", "85", target_path))
+  if(status != 0) {
+    stop(glue("magick failed for {source_path}"))
+  }
 }
 
 
