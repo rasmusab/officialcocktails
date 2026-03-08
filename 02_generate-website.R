@@ -43,29 +43,17 @@ weight: 1
 
 ![](/{image_path})
 
-
-## Directions for how to make the {name}
-
-{extended_method}
-
-## Tips for how to make the perfect {name}
-
-{tips}
-
-## Alcohol-free alternative to the {name}
-
-{alcohol_free_alternative}
-
-## {name} fun facts
-
-{fun_facts}
+{page_body}
 
 )-"
 
 # Compile all the cocktail md files and put them in the correct location
 walk(cocktail_descriptions, \(cocktail) {
   print(cocktail$name)
-  page <- glue(cocktail_page_template, .envir = cocktail)
+  if(is.null(cocktail$page_body)) {
+    cocktail$page_body <- ""
+  }
+  page <- glue_data(cocktail, cocktail_page_template)
   path <- file.path(posts_path, paste0(cocktail$base_fname, ".md"))
   write_file(page, path)
 })
@@ -75,4 +63,3 @@ walk(cocktail_descriptions, \(cocktail) {
 system("cd officialcocktails.com;hugo")
 browseURL("http://localhost:1313/")
 system("cd officialcocktails.com;hugo server --disableFastRender")
-
