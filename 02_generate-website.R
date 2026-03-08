@@ -19,7 +19,17 @@ unlink("officialcocktails.com/static/cocktail-images", recursive = TRUE)
 dir.create("officialcocktails.com/static/cocktail-images")
 for(source_path in Sys.glob("cocktail-images/*.jpeg")) {
   target_path <- file.path("officialcocktails.com", "static", source_path)
-  status <- system2("magick", args = c(source_path, "-quality", "85", target_path))
+  status <- system2(
+    "magick",
+    args = c(
+      source_path,
+      "-resize", "512x512^",
+      "-gravity", "center",
+      "-extent", "512x512",
+      "-quality", "85",
+      target_path
+    )
+  )
   if(status != 0) {
     stop(glue("magick failed for {source_path}"))
   }
