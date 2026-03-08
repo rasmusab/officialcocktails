@@ -22,34 +22,30 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into ch
 
 ![](/cocktail-images/tipperary.jpeg)
 
+## How to mix a Tipperary properly
 
-## Directions for how to make the Tipperary
+1. Chill a cocktail glass first so the drink stays crisp and silky after straining. A few minutes in the freezer works well, or fill the glass with ice water while you prepare the mix.
+2. Add Irish whiskey, sweet vermouth, green Chartreuse, and two dashes of Angostura bitters to a mixing glass.
+3. Fill the mixing glass generously with fresh ice. Large, solid cubes are best because they chill the drink thoroughly without watering it down too fast.
+4. Stir steadily for about 20 to 30 seconds. The goal is a smooth, cold, properly diluted cocktail with a glossy texture rather than a shaken, airy one.
+5. Empty the chilling ice or water from your cocktail glass.
+6. Strain the drink into the chilled glass, keeping out any ice shards for a clean presentation.
+7. Finish with a slice of orange. If you want a slightly brighter nose, give the orange peel a gentle twist over the surface before placing it on or beside the drink.
 
-1. Fill a mixing glass with ice cubes.
-2. Pour 5 cl of Irish whiskey into the mixing glass.
-3. Add 2.5 cl of sweet red vermouth to the mixing glass.
-4. Add 1.5 cl of green Chartreuse to the mixing glass.
-5. Add 2 dashes of Angostura bitters to the mixing glass.
-6. Stir the mixture well using a bar spoon.
-7. Strain the mixture into a chilled cocktail glass.
-8. Garnish with a slice of orange.
+## What the Tipperary tastes like
 
-## Tips for how to make the perfect Tipperary
+The Tipperary sits in the same spirit-forward family as the Manhattan, but it has a distinctly herbal edge. Irish whiskey brings a lighter, often silkier grain character than rye, while green Chartreuse adds bold alpine sweetness, minty spice, and layers of botanicals. Sweet vermouth rounds it out with dark fruit and richness, and the bitters tighten the finish.
 
-- The glassware: Use a rocks glass or a tumbler, add 1-2 large ice cubes or crushed ice.
-- The ingredients: Combine equal parts of Irish whiskey, Chartreuse, and sweet vermouth. Stir gently to combine.
-- The garnish: Cut a small piece of orange peel, express the oils over the drink, and rub the rim of the glass with it. Use it as a garnish.
-- The temperature: Serve it chilled but not cold. Let it rest for a minute before you take a sip.
-- The variations: You can adjust the recipe to your taste by adding more or less whiskey, or switching the sweet vermouth for another type of vermouth or aperitif.
+Expect a drink that is warming, aromatic, and complex, with a balance of honeyed whiskey notes, herbal intensity, and gentle bitterness.
 
-## Alcohol-free alternative to the Tipperary
+## Best moment to serve it
 
-One alcohol-free alternative to the drink Tipperary is to create a mocktail version using similar flavors. This mocktail can contain fresh lemon juice, cane sugar or molasses, aromatic bitters, and a splash of traditional Italian soda like San Pellegrino Chinotto. To make the drink, simply shake the ingredients with ice and strain into a glass filled with fresh ice. You can also add a slice of fresh lemon or a sprig of rosemary for an extra aesthetic touch. This drink will be delicious and refreshing, without the effects of alcohol.
+This cocktail shines before dinner or as a slow sipper late in the evening. Serve it very cold and straight up in a cocktail glass to keep the texture elegant. If it tastes too sweet, stir a touch longer next time for slightly more dilution. If the Chartreuse feels too dominant, a whiskey with a fuller pot still character can bring better balance.
 
-## Tipperary fun facts
+## A little background
 
-1. Tipperary is a classic cocktail made with Irish whiskey, sweet vermouth and green Chartreuse.
-2. The drink was named after a town in County Tipperary, Ireland.
-3. The Tipperary was featured in the 2011 cocktail book, "PDT Cocktail Book: The Complete Bartender's Guide from the Celebrated Speakeasy."
-4. The drink is also known as the "Green Beast" due to its green color and the high alcohol content of Chartreuse.
-5. The Tipperary has been described as a complex and sophisticated drink with a bold and herbaceous flavor profile.
+The Tipperary is generally considered an early 20th-century cocktail, though exact origin details are not perfectly settled. It is often linked to the era of the song *It’s a Long Way to Tipperary*, which became famous during World War I. The most credible context places the drink among classic aromatic whiskey cocktails that evolved as bartenders experimented with European liqueurs and vermouths.
+
+## Non-alcoholic nod to the original
+
+For a spirit-free version, use a non-alcoholic whiskey alternative, a dealcoholized sweet vermouth-style aperitif, a small measure of herbal alpine syrup, and a couple dashes of non-alcoholic bitters. Stir over ice and strain as usual. It will not fully match the depth of Chartreuse, but you can still capture the drink’s bittersweet, botanical character.

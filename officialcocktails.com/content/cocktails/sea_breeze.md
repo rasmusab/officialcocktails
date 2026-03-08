@@ -21,47 +21,27 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 
 ![](/cocktail-images/sea_breeze.jpeg)
 
+## Building a Sea Breeze over ice
 
-## Directions for how to make the Sea breeze
+1. Fill a chilled highball glass to the top with fresh ice. Plenty of ice matters here: it keeps the drink crisp and prevents the fruit juices from turning flat too quickly.
+2. Pour in the vodka first so it settles evenly through the cubes. Use a clean, neutral style unless you want a citrus-forward vodka to brighten the drink.
+3. Add the cranberry juice, then the grapefruit juice. Pouring the juices after the spirit helps the color develop into that signature rosy-pink shade.
+4. Give the drink a brief, gentle stir—just enough to combine everything without knocking too much chill off the ice.
+5. Taste, if desired. If your grapefruit is especially tart, the cranberry will balance it; if the cranberry is sweetened, the finish will be rounder and softer.
+6. Garnish with a lime wedge on the rim or tucked beside the ice. A light squeeze just before drinking adds a sharper citrus lift.
 
-1. Fill a highball glass with ice cubes.
-2. Add 4 cl of vodka to the glass.
-3. Pour in 12 cl of cranberry juice.
-4. Add 3 cl of grapefruit juice to the mix.
-5. Use a bar spoon to gently stir the ingredients together.
-6. Garnish the drink with a lime wedge on the rim of the glass.
-7. Serve and enjoy your refreshing Sea breeze drink!
+## What the Sea Breeze tastes like
 
-## Tips for how to make the perfect Sea breeze
+The Sea Breeze is bright, lightly bitter, and refreshing, with cranberry bringing tart berry character and grapefruit adding a drier citrus edge. Compared with many vodka highballs, it feels fruit-forward without becoming heavy or dessert-like. It works especially well for warm weather, brunch, or any occasion where you want something easygoing but not overly sweet.
 
-- Use fresh-squeezed grapefruit juice for the best flavor.
-- Use quality vodka to avoid a harsh taste.
-- Make sure to add the cranberry juice last to avoid too much color or sweetness.
-- Use a Collins glass filled with ice and garnish with a grapefruit slice for presentation.
+## Best way to serve it well
 
-## Alcohol-free alternative to the Sea breeze
+Use plenty of solid ice and serve it immediately after stirring. Because this drink is built directly in the glass, dilution continues as it sits, so colder ingredients make a noticeable difference. If you want a sharper version, use unsweetened cranberry and freshly squeezed grapefruit. If you prefer it softer, a sweeter cranberry juice cocktail gives a smoother, more approachable result.
 
-An alcohol-free alternative to Sea Breeze can be made using cranberry juice, grapefruit juice, and soda water. Here's the recipe:
+## A little history and bar trivia
 
-Ingredients:
-- 1/2 cup cranberry juice
-- 1/2 cup grapefruit juice
-- Club soda or sparkling water
-- Ice
-- Lime wedge for garnish (optional)
+The Sea Breeze is usually grouped with the Cape Codder and Bay Breeze, a family of vodka-and-juice drinks popular in the late 20th century. Its modern form became especially associated with the rise of cranberry marketing in the United States from the 1950s onward. Exact authorship is unclear, but its most credible origin story is less about one bartender and more about the era’s growing taste for simple, refreshing mixed drinks built around vodka and fruit juice.
 
-Instructions:
-1. Fill a glass with ice.
-2. Pour cranberry juice and grapefruit juice over the ice.
-3. Top up the drink with club soda or sparkling water.
-4. Give it a quick stir to mix everything together.
-5. Garnish with a lime wedge, if desired.
-6. Enjoy your refreshing alcohol-free Sea Breeze alternative!
+## Easy alcohol-free version
 
-## Sea breeze fun facts
-
-1. Sea breeze is a popular cocktail made with vodka, grapefruit juice, and cranberry juice.
-2. The drink was created in the 1920s and named after the cooling sea breezes that blow across the Atlantic.
-3. The Sea breeze is a variation of the Cape Codder cocktail which only contains vodka and cranberry juice.
-4. The drink gained popularity in the 1970s as a refreshing and easy-to-make summer cocktail.
-5. Sea breeze is often garnished with a wedge of lime or a grapefruit peel to add extra flavor and visual appeal.
+For a zero-proof take, replace the vodka with chilled soda water or a non-alcoholic spirit alternative. Keep the cranberry and grapefruit, build over ice the same way, and finish with lime. The result is zesty, tart, and still very much in the Sea Breeze style.

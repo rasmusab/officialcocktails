@@ -20,35 +20,33 @@ Pour all ingredients directly into old fashioned glass filled with ice cubes. St
 
 ![](/cocktail-images/french_connection.jpeg)
 
+## Building a French Connection over ice
 
-## Directions for how to make the French Connection
+1. Fill an old fashioned glass generously with fresh ice cubes. Large cubes work especially well here because they chill the drink without thinning it too quickly.
+2. Measure the Cognac and the amaretto carefully in equal parts. Since this cocktail is only two ingredients, balance matters a lot.
+3. Pour both spirits directly over the ice. Adding them straight into the serving glass keeps the drink simple and true to its classic build.
+4. Stir gently for about 10 to 15 seconds. You want the liquids fully combined and lightly chilled, but not overly diluted.
+5. Taste if you like, then adjust the chill with one more brief stir if needed. The ideal result is smooth, cool, and slightly velvety.
+6. Serve immediately, with no garnish or perhaps a subtle orange twist if you want a brighter aromatic edge without changing the drink’s character too much.
 
-1. Prepare an Old Fashioned glass by filling it with ice cubes.
-2. Measure and pour 3.5cl of Cognac into the glass.
-3. Measure and pour 3.5cl of Amaretto liqueur into the glass.
-4. Stir the ingredients gently with a cocktail spoon to combine.
-5. Serve and enjoy your French Connection drink.
+## What it tastes like in the glass
 
-## Tips for how to make the perfect French Connection
+The French Connection is rich, soft, and rounded, with a dessert-like aroma but a spirit-forward finish. Cognac brings dried fruit, oak, and gentle spice, while amaretto adds almond sweetness and a marzipan-like note. Together they create a silky after-dinner cocktail that feels luxurious without being complicated.
 
-- Chill all the ingredients before making the cocktail. This will ensure the drink is cold and refreshing.
+Because it is served on the rocks, the flavor opens up gradually as the ice melts. Early sips are bold and warming; later ones become softer and more mellow.
 
-- Use a good-quality cognac and amaretto to make the French Connection. These two ingredients are the backbone of the drink, so it’s important to use the best you can find.
+## Best way to serve it well
 
-- Stir the cocktail gently to combine the ingredients. Over-stirring can dilute the drink and ruin the balance of flavors.
+This drink shines as an evening pour, especially after dinner. Use decent Cognac rather than your most expensive bottle: the oak and fruit should still come through clearly beside the liqueur’s sweetness. If your amaretto is especially sugary, a slightly drier Cognac helps keep the balance in check.
 
-- Serve the French Connection in a chilled glass with a large ice cube. This will help to keep the drink cold without watering it down too quickly.
+Serve it cold, but avoid over-stirring. Too much dilution can flatten the nutty depth that makes the cocktail distinctive.
 
-- Garnish the cocktail with a twist of orange peel to add a bright citrus flavor to the drink. Simply twist a small piece of orange peel over the top of the cocktail and drop it into the glass.
+## Name, era, and a little trivia
 
-## Alcohol-free alternative to the French Connection
+The French Connection is generally associated with the 1970s and is often linked in popular memory to the era of the film *The French Connection*. Whether the cocktail was directly named after the movie is not perfectly documented, but that is the most widely repeated and credible bit of context.
 
-One alcohol-free alternative to the French Connection could be the "French Berry Delight". This drink can be made by mixing 2 parts cranberry juice, 1 part raspberry syrup, and 1 part orange juice. Shake the mixture with ice and strain into a martini or rocks glass. Garnish with a slice of orange or a raspberry and enjoy your fruity and refreshing French Berry Delight.
+It also inspired related two-spirit builds, including versions made with Scotch, Irish whiskey, or other aged bases.
 
-## French Connection fun facts
+## A zero-proof nod to the original
 
-1. The French Connection is a cocktail made with equal parts Cognac and Amaretto, over ice.
-2. It is named after the 1971 crime movie “The French Connection”, which featured characters drinking the cocktail.
-3. The cocktail has a very sweet and nutty taste, due to the combination of the almond-flavored liqueur and the brandy-based Cognac.
-4. The French Connection has been popular since the 1970s, and is often served as an after-dinner drink or digestif.
-5. Other variations of the French Connection include adding cream or swapping the Cognac for whiskey.
+For a non-alcoholic variation, combine an alcohol-free brandy alternative with almond syrup or amaretto-style zero-proof spirit over ice. Stir briefly and add a tiny pinch of salt or a strip of orange peel to give it more depth. The result will be sweeter and lighter, but still pleasantly nutty and warming in style.

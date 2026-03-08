@@ -22,40 +22,27 @@ Stirred over ice, strained into a chilled glass, garnished, and served up.
 
 ![](/cocktail-images/martinez.jpeg)
 
+## Building a Martinez with a silky, aromatic finish
 
-## Directions for how to make the Martinez
+1. Chill a cocktail glass well in advance, either in the freezer or by filling it with ice and water while you prepare the drink.
+2. Add plenty of fresh ice to a mixing glass, then pour in the gin, sweet vermouth, a small spoon of maraschino liqueur, and the orange bitters.
+3. Stir steadily for about 20 to 30 seconds. You want the drink cold, glossy, and lightly diluted rather than aggressively watered down.
+4. Empty the chilling ice from the serving glass, then fine strain the mixture into the cold glass for a smooth texture.
+5. Garnish with a lemon twist or a cherry, depending on whether you want to emphasize bright citrus oils or the drink’s deeper stone-fruit notes.
+6. Serve immediately, straight up, while the aromatics are still lifted and vivid.
 
-1. Fill a mixing glass with ice
-2. Add gin, sweet red vermouth, and maraschino liqueur into the mixing glass
-3. Add 2 dashes of orange bitters
-4. Stir the mixture for 30 seconds until well chilled
-5. Strain the mixture into a chilled cocktail glass.
-6. Garnish the drink, usually with a lemon twist or brandied cherry.
-7. Serve the Martinez cocktail chilled.
+## What the Martinez tastes like
 
-## Tips for how to make the perfect Martinez
+The Martinez sits in the family tree between the Manhattan and the Martini, but it drinks like neither exactly. It is rounder, softer, and more perfumed than a dry Martini, with a gently sweet core from vermouth and maraschino. Orange bitters keep it from feeling heavy, while the gin adds structure and a herbal spine.
 
-- Use a high-quality gin and sweet vermouth as the base of the drink.
-- Stir the ingredients with ice for at least 30 seconds to properly dilute and chill the cocktail.
-- Add a splash of Maraschino liqueur for a subtle, yet complex flavor.
-- Garnish with a twist of lemon or orange peel for a citrusy aroma.
+If you want it leaner, use a more juniper-forward gin and go easy on the maraschino. If you prefer a richer, old-fashioned style, choose a fuller vermouth and garnish with a cherry.
 
-## Alcohol-free alternative to the Martinez
+## A likely origin story
 
-An alcohol-free alternative to the Martinez could be a "Berry Spice" mocktail. 
+The Martinez is widely considered a 19th-century precursor to the Martini, though the exact origin is debated. One popular story links it to the town of Martinez, California; another ties it to legendary bartender Jerry Thomas, whose 1887 book includes a Martinez recipe. Early versions varied quite a bit, often using Old Tom gin rather than drier modern styles, which helps explain why recipes differ from bar to bar today.
 
-To make this mocktail, muddle fresh raspberries, blackberries, and cinnamon in a shaker. Add in a splash of ginger syrup and fresh lemon juice to give the mixtures some tanginess. Then, shake everything with ice and strain it into a glass. Top it off with a splash of sparkling water and garnish it with a sprig of rosemary or mint. 
+## Best way to serve it tonight
 
-This mocktail has a blend of sweet tartness with a spicy finish, giving you a unique flavor similar to the Martinez. Plus, it's perfect for those looking for a sophisticated non-alcoholic beverage to enjoy all evening.
+This is a strong, spirit-forward drink, but it should never taste sharp. Serve it very cold in a stemmed glass and pair it with salty snacks, olives, nuts, or cured meats. It works especially well as a slow first drink of the evening.
 
-## Martinez fun facts
-
-1. The Martinez cocktail is considered by many to be the predecessor to the classic gin-based cocktail, the Martini.
-
-2. Some versions of the Martinez call for the use of Old Tom gin, a sweeter style of gin that was popular in the 1800s.
-
-3. The origins of the Martinez cocktail are somewhat unclear, but it is believed to have been first made in the late 1800s in San Francisco.
-
-4. The Martinez was originally made with sweet vermouth, maraschino liqueur, gin and orange bitters.
-
-5. The proportions of the ingredients in a Martinez can vary depending on the recipe, with some enthusiasts calling for a greater emphasis on the sweet vermouth and others opting for a more gin-forward version.
+For a non-alcoholic nod to the style, stir together a zero-proof gin alternative, a non-alcoholic red vermouth-style aperitif, and a dash or two of orange bitters alternative over ice, then strain up and finish with a lemon twist.

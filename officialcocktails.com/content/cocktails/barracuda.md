@@ -23,35 +23,27 @@ Shake pour ingredients with ice. Strain into glass, top with sparkling wine.
 
 ![](/cocktail-images/barracuda.jpeg)
 
+## How to build a Barracuda
 
-## Directions for how to make the Barracuda
+1. Chill a Margarita glass first so the drink stays crisp and lively after the sparkling wine is added. A few minutes in the freezer works well.
+2. Fill a shaker with ice, then add the gold rum, Galliano, pineapple juice, and a small dash of fresh lime juice. The lime should brighten the fruit rather than turn the drink tart.
+3. Shake hard for about 10 to 12 seconds. You want the pineapple fully integrated and the drink well chilled without becoming too watery.
+4. Strain into the chilled glass, leaving enough room at the top for the sparkling finish. A fine strain can help keep the texture smoother.
+5. Top gently with Prosecco. Pour slowly to preserve the bubbles and avoid knocking out the aromatics.
+6. Serve immediately, ideally without garnish or with a very restrained lime twist if you want a citrus note on the nose. This drink is best when cold, bright, and effervescent.
 
-1. Fill a shaker with ice.
-2. Add 4.5 cl of gold rum, 1.5 cl of Galliano, 6 cl of pineapple juice, and a dash of fresh lime juice to the shaker.
-3. Shake the ingredients vigorously for about 10-15 seconds.
-4. Strain the mixture into a Margarita glass.
-5. Top the drink with Prosecco.
-6. Garnish the drink with a fresh pineapple wedge or any other fruit of your choice.
-7. Serve and enjoy your delicious Barracuda cocktail!
+## What the Barracuda tastes like
 
-## Tips for how to make the perfect Barracuda
+The Barracuda sits between tropical cocktail and sparkling aperitif. Rum brings warmth and light molasses notes, Galliano adds vanilla and herbal sweetness, and pineapple gives the drink its lush body. The sparkling wine lifts everything, making it feel drier and more elegant than a typical fruit-forward rum drink. Expect a profile that is aromatic, lightly creamy in texture, fruity up front, and bubbly on the finish.
 
-- Fill a tall glass with ice cubes to the top to ensure your drink stays chilled.
-- Add 1 1/4 ounce of light rum, 1/2 ounce of fresh lime juice, and 1/4 ounce of Creme de Cassis to the glass.
-- Top it off with ginger beer and garnish with a lime wedge for the perfect Barracuda drink.
+## Best way to serve it well
 
-## Alcohol-free alternative to the Barracuda
+Because it is served straight up, temperature matters. Use cold ingredients when possible, and add the Prosecco only at the end so the drink keeps its sparkle. A Margarita glass suits the broad aroma release and gives the drink a festive look, but any stemmed cocktail glass with room for foam and bubbles will do in a pinch. This is a strong choice for brunches, warm-weather parties, or as a playful pre-dinner cocktail.
 
-One alcohol-free alternative to Barracuda could be a mocktail made with pineapple juice, lime juice, and Club soda. This mocktail can be served over ice and garnished with fresh mint leaves for added refreshment. Another option could be a ginger beer-based mocktail made with ginger beer, lime juice, and honey syrup, which is perfect for those who enjoy a more spicy and flavorful drink. Lastly, a non-alcoholic tropical punch made with pineapple, orange juice, and cranberry juice can also provide a delightful and refreshing alternative to Barracuda.
+## A little Barracuda background
 
-## Barracuda fun facts
+The Barracuda is recognized by the IBA among newer-era classics. Exact origin details are not especially well documented, but it is generally understood as a late-20th-century style drink that reflects the period’s love of tropical flavors paired with sparkling wine. Its mix of rum, pineapple, and anise-vanilla liqueur gives it a distinctive identity compared with more common rum sours or tiki-style serves.
 
-1. Barracuda is a cocktail that originated in the Caribbean, specifically in the late 1960s in the Grand Cayman Island.
+## Easy spirit-free version
 
-2. The Barracuda is made with Rum, Pineapple Juice, Fresh Lime Juice and A touch Of Galliano.
-
-3. The drink was inspired by the sleek and long barracuda fish, which is also known for its power and aggression.
-
-4. The Barracuda cocktail is often served with a slice of lime and a maraschino cherry for garnish.
-
-5. The drink gained popularity in the United States during the 1970s and has since become a staple in tiki bar culture.
+For a non-alcoholic take, use a zero-proof golden rum alternative, a vanilla-anise herbal syrup in place of Galliano, pineapple juice, and a dash of fresh lime. Top with chilled alcohol-free sparkling wine or sparkling white grape juice. Keep the balance on the dry side so it still feels like a cocktail rather than a fruit punch.

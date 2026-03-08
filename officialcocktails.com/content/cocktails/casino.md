@@ -22,64 +22,27 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled
 
 ![](/cocktail-images/casino.jpeg)
 
+## Shaking the Casino properly
 
-## Directions for how to make the Casino
+1. Chill a cocktail glass first so the drink stays crisp and bright after straining. A few minutes in the freezer works well, or fill the glass with ice water while you prep.
+2. Add Old Tom gin, maraschino liqueur, fresh-squeezed lemon juice, and two dashes of orange bitters to a shaker filled with solid ice cubes. Fresh lemon matters here; bottled juice makes the drink flatter and harsher.
+3. Shake hard for about 10 to 12 seconds. You want the mixture cold and lightly diluted, since this cocktail is served up and needs enough water to soften the maraschino and bitters.
+4. Empty the chilling ice or water from the glass, then fine strain the drink into the cold cocktail glass for a clean, polished texture.
+5. Express a lemon twist over the surface to release its oils, then place it in or on the rim. Add a maraschino cherry if you want the classic garnish and a slightly richer final aroma.
+6. Serve immediately, without a straw, so the citrus and cherry notes meet the nose first.
 
-1. Add 4 cl gin (Old Tom) into a shaker with ice cubes.
-2. Pour in 1 cl Maraschino and 1 cl fresh lemon juice into the shaker.
-3. Add 2 dashes of orange bitters into the shaker.
-4. Shake the shaker well, making sure the ingredients mix properly.
-5. Strain the mixture into a chilled cocktail glass.
-6. Garnish the drink with a lemon twist and a maraschino cherry.
-7. Serve the drink without a straw.
+## What the Casino tastes like
 
-## Tips for how to make the perfect Casino
+The Casino sits in a sharp, elegant middle ground between a Martini-style gin drink and an early sour. Old Tom gin gives it a softer, slightly sweeter base than a dry London gin would. Maraschino adds a dry cherry-almond perfume rather than candy-like sweetness, while lemon keeps the drink taut. The orange bitters tie the fruit and botanicals together.
 
-- Use fresh ingredients: The key to making the perfect casino drink is to use fresh ingredients. Whether it's fresh-squeezed juices or high-quality spirits, fresh ingredients will make a big difference in the taste and quality of your drink.
+## Best way to serve it
 
-- Balance the flavors: A good casino drink should be well-balanced, with just the right amount of sweetness, tartness, and alcohol. Experiment with different ratios until you find the perfect balance for your taste.
+This drink is at its best very cold and very fresh. Because it is served straight up, temperature matters more than in an on-the-rocks cocktail. A properly chilled glass and a confident shake make a noticeable difference. If using a sweeter cherry, keep the garnish minimal so it does not overpower the finish.
 
-- Use the right glass: The right glass can make all the difference when it comes to presentation and taste. Choose a glass that complements the drink you're making, and make sure it's clean and free of any residue.
+## A little background on the Casino
 
-- Add ice at the right time: Adding ice too early can water down your drink, while adding it too late can result in a lukewarm drink. Add ice just before serving to keep your drink at the perfect temperature.
+The Casino is generally treated as a classic pre-Prohibition-era cocktail, though its exact origin is not firmly documented. It appears in early 20th-century cocktail writing and is often associated with the family of gin-and-maraschino drinks that includes the Aviation and Martinez-adjacent classics. Its staying power comes from how little it uses to create a very distinct profile.
 
-- Don't forget the garnish: The final touch to any casino drink is the garnish. Whether it's a slice of citrus, a sprig of herbs, or a decorative cocktail pick, a garnish adds visual appeal and can enhance the flavors of your drink.
+## Zero-proof idea: the Casino Fizzless
 
-## Alcohol-free alternative to the Casino
-
-One possible alcohol-free alternative to the drink Casino is an alcohol-free sangria. Sangria is a refreshing and fruity drink that can be made with a variety of fresh fruits, juices, and spices. To make an alcohol-free version, simply omit the wine and replace it with a non-alcoholic substitute, such as grape juice or sparkling water.
-
-Ingredients:
-
-- 2 cups of grape juice (or another non-alcoholic substitute)
-- 1 cup of freshly squeezed orange juice
-- 1/2 cup of freshly squeezed lemon juice
-- 1/4 cup of honey (or another sweetener of your choice)
-- 1 cup of fresh or frozen mixed fruit (such as strawberries, raspberries, blueberries, or peaches)
-- 1 cinnamon stick
-- 1 cup of sparkling water (or more, to taste)
-- Ice cubes
-
-Instructions:
-
-1. In a large pitcher, combine the grape juice, orange juice, lemon juice, and honey. Stir well to dissolve the honey.
-
-2. Add the mixed fruit and cinnamon stick to the pitcher, and stir gently.
-
-3. Place the pitcher in the refrigerator to chill for at least 1 hour, or until the fruit has infused the juice with flavor.
-
-4. Just before serving, add the sparkling water to the pitcher and stir gently.
-
-5. Add ice cubes to individual glasses, and pour the sangria over the ice.
-
-6. Garnish with additional fresh fruit, if desired.
-
-Enjoy your alcohol-free sangria!
-
-## Casino fun facts
-
-1. Casino is a cocktail that originated in Havana, Cuba.
-2. The drink is made with white rum, maraschino liqueur, lime juice, and grapefruit juice.
-3. It is said that Casino was one of author Ernest Hemingway's favorite drinks.
-4. The cocktail is often garnished with a slice of grapefruit or lime.
-5. In Spanish, "casino" means "club" or "association," which makes it a fitting name for a cocktail enjoyed among friends.
+For a non-alcoholic version, use a juniper-forward NA spirit, a spoonful of cherry syrup from quality cocktail cherries, fresh lemon juice, and a couple dashes of non-alcoholic orange bitters if available. Shake with ice and strain up. It will be softer and fruitier than the original, but still bright, aromatic, and pleasantly bitter-edged.

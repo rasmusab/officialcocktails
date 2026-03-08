@@ -21,48 +21,24 @@ Shake with ice. Strain into chilled glass, garnish and serve.
 
 ![](/cocktail-images/whiskey_sour.jpeg)
 
+## How to make a Whiskey Sour
 
-## Directions for how to make the Whiskey sour
+1. Chill an old fashioned glass if you want to serve the drink straight up; if you prefer it on the rocks, fill the glass with fresh ice and set it aside.
+2. Add bourbon, freshly squeezed lemon juice, and simple syrup to a shaker filled with ice. Fresh citrus matters here, since bottled juice makes the drink taste flatter and harsher.
+3. Shake hard for about 10 to 15 seconds, until the tin feels very cold. This both chills the drink and softens the edges of the whiskey.
+4. Taste with a straw if you like: the ideal balance is bright and tart, with enough sweetness to round it out but not hide the spirit.
+5. Strain into the chilled glass for a clean, straight-up serve, or strain over fresh ice in the prepared old fashioned glass for the on-the-rocks version.
+6. Garnish simply with a lemon twist or slice; a cherry is optional if you want a slightly more classic sour-bar look.
+7. Serve immediately while the citrus is lively and the texture is crisp.
 
-1. Fill a cocktail shaker with ice.
-2. Pour the bourbon whiskey into the shaker.
-3. Add the fresh lemon juice.
-4. Pour the simple syrup into the shaker.
-5. Shake the mixture well for about 10-15 seconds.
-6. Strain the mixture into an Old fashioned glass filled with ice.
-7. Garnish the drink with a lemon wedge or cherry (optional).
-8. Serve and enjoy!
+## What the Whiskey Sour tastes like
 
-## Tips for how to make the perfect Whiskey sour
+A good Whiskey Sour is all about balance: bourbon brings vanilla, oak, and caramel notes, while lemon adds sharp freshness and the syrup smooths everything together. Served up, it feels brighter and more focused. On the rocks, it opens gradually and becomes a little softer as the ice melts. If your bourbon is bold and high-proof, you may want a touch more syrup; if it is sweeter, a little extra lemon can keep the drink lively.
 
-- **Use fresh ingredients**: Use freshly squeezed lemon juice instead of bottled lemon juice for a brighter, more authentic flavor. Similarly, use freshly cracked ice instead of pre-made ice cubes for a smoother, better blended drink.
+## A few roots of the sour family
 
-- **Balance the sweet and sour flavors**: A good whiskey sour should be perfectly balanced between sweet and sour flavors. Start by adding equal parts simple syrup and lemon juice, then adjust as needed to suit your personal taste.
+The Whiskey Sour is one of the oldest classic cocktails, with roots in the broader sour template of spirit, citrus, and sugar. Its exact origin is not perfectly certain, but whiskey sours were widely known in the 19th century, and bartender Jerry Thomas included a version in his 1862 work. That makes it one of the foundational drinks of classic cocktail culture rather than a modern reinvention.
 
-- **Choose the right whiskey**: Opt for a bourbon or rye whiskey with a smooth, mellow flavor that won't overpower the other ingredients.
+## Easy variations and a zero-proof take
 
-- **Shake it up**: Make sure to shake the whiskey sour well to properly blend the ingredients and create a frothy foam on top.
-
-- **Garnish with style**: A traditional whiskey sour is typically garnished with a lemon wheel and cherry, but feel free to get creative and add your own personal touch with a unique garnish like a sprig of rosemary or a dash of cinnamon.
-
-## Alcohol-free alternative to the Whiskey sour
-
-There are several delicious and easy-to-make alcohol-free alternatives to whiskey sour that you can try. Here are some options:
-
-1. Virgin Sour: Simply swap out the whiskey for lemonade, and you have a refreshing sour drink with a citrusy zing.
-
-2. Pineapple Paradise: Combine 2 parts pineapple juice and 1 part lemon juice, and add a splash of grenadine syrup for sweetness. Shake it all up with ice and serve in a glass with a cherry garnish.
-
-3. Coconut Mojito: Muddle fresh mint leaves with lime juice and sugar syrup in a tall glass. Add coconut water and a splash of soda water, and garnish with more mint leaves.
-
-4. Ginger Highball: Mix ginger beer with lime juice and cranberry juice for a spicy, fruity, and refreshing cocktail.
-
-5. Tea-Tini: Brew a strong cup of tea (such as earl grey or green tea) and mix with lemon juice and agave syrup. Serve chilled in a martini glass with a lemon twist.
-
-## Whiskey sour fun facts
-
-1. Whiskey sour is believed to have originated in the Navy as a way to prevent scurvy.
-2. Whiskey sour was a popular drink during Prohibition due to its easy-to-hide ingredients.
-3. The traditional recipe calls for whiskey, lemon juice, and sugar, but modern variations may include egg whites or other flavors like bitters.
-4. The cocktail gained popularity in the 1940s and was featured in the famous movie "Casablanca."
-5. Some people believe that the drink was named after the sour taste of unripe lemons commonly used in the original recipe.
+For a softer, alcohol-free riff, use chilled strong black tea or a non-alcoholic whiskey alternative in place of the bourbon. Shake it with lemon and simple syrup the same way, then serve over ice. The tea version keeps some tannic backbone, so it still feels structured rather than just tasting like lemonade. For a richer garnish, try an expressed orange peel alongside the lemon.

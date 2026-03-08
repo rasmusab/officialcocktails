@@ -22,34 +22,27 @@ Pour all ingredients into cocktail shaker, shake well with ice, strain into chil
 
 ![](/cocktail-images/paper_plane.jpeg)
 
+## How to shake a balanced Paper Plane
 
-## Directions for how to make the Paper plane
+1. Chill a cocktail glass first so the drink stays crisp and bright after straining. A few minutes in the freezer works well, or fill the glass with ice water while you prep.
+2. Measure equal parts bourbon, Amaro Nonino, Aperol, and freshly squeezed lemon juice into a shaker. Because the recipe is split evenly, accuracy matters more than in many other sours.
+3. Fill the shaker generously with cold ice. Plenty of ice helps the drink reach the right dilution while keeping the texture lively rather than watery.
+4. Shake hard for about 10 to 15 seconds. You want the citrus fully integrated and the drink well chilled, with a slight lightness from aeration.
+5. Empty the chilling ice or water from the glass, then fine strain into the cold cocktail glass to keep out small ice shards and lemon pulp.
+6. Serve immediately, straight up and without ice. If you like, a small lemon twist can add aroma, but the drink is usually presented clean and minimal.
 
-1. Take a cocktail shaker and add ice to it.
-2. Measure and pour 30 ml of Bourbon whiskey into the shaker.
-3. Add 30 ml of Amaro Nonino to the shaker.
-4. Measure and pour 30 ml of Aperol into the shaker.
-5. Add 30 ml of fresh lemon juice to the shaker.
-6. Cover the shaker with a lid and shake well for a few seconds until the ingredients are well mixed and cold.
-7. Strain the cocktail into a chilled cocktail glass.
-8. Serve and enjoy your Paper plane drink!
+## Why the Paper Plane tastes so vivid
 
-## Tips for how to make the perfect Paper plane
+This cocktail is famous for its perfect symmetry: equal measures that somehow land in a sweet spot between bitter, tart, herbal, and warming. The bourbon gives body and vanilla-oak depth, Aperol brings orange-toned bitterness, and Amaro Nonino adds richer spice and gentian-like complexity. Fresh lemon keeps everything lifted. The result is bright and modern, with enough bitterness to stay interesting from first sip to last.
 
-- Use a high-quality, clear spirit such as vodka or gin as the base of the drink.
-- Balancing the sour and sweet flavours is key to creating the perfect Paper Plane. Use fresh lemon juice and a high-quality Amaro for optimal taste. 
-- Shake the ingredients vigorously with ice for at least 10 seconds to ensure a well-mixed, frothy cocktail.
-- Strain the contents into a coupe glass for an elegant presentation. 
-- Garnish with a lemon twist or peel for an extra burst of flavour and beautiful aesthetic.
+## Best way to serve it
 
-## Alcohol-free alternative to the Paper plane
+A Paper Plane is at its best very cold in a small cocktail glass. Since it is served up, temperature matters a lot more than garnish. This makes it an excellent before-dinner drink, especially for guests who enjoy both sours and amaro-forward cocktails. If it tastes too sharp, check your lemon first; if it feels too sweet, a slightly drier bourbon can help.
 
-One alcohol-free alternative to the Paper Plane cocktail could be a mocktail made with ingredients such as fresh-squeezed lemon juice, Aperol or another bitter citrus liqueur, non-alcoholic Vermouth, and simple syrup. A dash of bitters can also be added for added complexity. This mocktail can be served over ice and garnished with lemon wedges or orange peel for a refreshing, citrusy flavor without the boozy kick. Another alternative could be a virgin version of Mojito, made with sparkling water, fresh mint, lime juice, and sugar. This drink is also refreshing, light, and perfect for summer days.
+## Modern classic backstory
 
-## Paper plane fun facts
+The Paper Plane is a 21st-century classic created by bartender Sam Ross in the late 2000s. It is widely linked to Chicago’s Violet Hour and later New York bar culture. The name came from M.I.A.’s song "Paper Planes." Its exact development details are sometimes retold slightly differently, but Ross is consistently credited as the creator.
 
-1. The Paper Plane cocktail was named after a song with the same title by M.I.A. 
-2. This drink was invented by Sam Ross in 2007, who also created the popular cocktail Penicillin. 
-3. The Paper Plane contains equal parts of four different ingredients - bourbon, Aperol, Amaro Nonino, and lemon juice. 
-4. It is served best chilled, and is often garnished with a twist of lemon or an orange peel. 
-5. The Paper Plane is a relatively new addition to the cocktail scene, but has quickly gained popularity for its unique flavor profile and accessibility.
+## A zero-proof Paper Plane-style riff
+
+For a non-alcoholic version, try equal parts strong alcohol-free bourbon alternative, non-alcoholic Italian bitters, non-alcoholic amaro-style aperitif, and fresh lemon juice. Shake and strain the same way. It will not taste identical, but you can still capture the drink’s key contrast of citrus, bitterness, and warming herbal depth.

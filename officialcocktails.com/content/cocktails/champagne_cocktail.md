@@ -22,31 +22,27 @@ Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. A
 
 ![](/cocktail-images/champagne_cocktail.jpeg)
 
+## Building a Champagne Cocktail in the flute
 
-## Directions for how to make the Champagne cocktail
+1. Chill a Champagne flute well so the drink stays lively and cold from the first sip to the last.  
+2. Place a sugar cube in a small dish or on a bar spoon and saturate it with two dashes of Angostura bitters. Let it absorb fully rather than run off.  
+3. Drop the bitters-soaked cube into the bottom of the flute. It should begin to dissolve slowly and create that classic stream of rising bubbles.  
+4. Pour in the cognac first. This gives the spirit a chance to settle around the sugar and bitters before the sparkling wine is added.  
+5. Top gently with cold Champagne, pouring down the inside of the glass to preserve carbonation and prevent overflow.  
+6. Wait a few seconds for the foam to settle, then garnish with an orange slice and a maraschino cherry. Serve immediately, straight up and ice-free.
 
-1. Add 2 dashes of Angostura bitters onto a sugar cube.
-2. Drop the bitters-coated sugar cube into a champagne flute.
-3. Add 1cl of Cognac into the flute.
-4. Gently pour 9cl of chilled Champagne into the flute.
-5. Garnish with an orange slice and maraschino cherry.
+## What it tastes like in the glass
 
-## Tips for how to make the perfect Champagne cocktail
+This is a bright, celebratory drink with more depth than a plain glass of bubbly. The sparkling wine brings crisp acidity and toastiness, the sugar softens the edges, and the bitters add spice and a faint herbal note. Cognac rounds it out with warmth and a subtle grape-rich richness. Expect a drink that starts elegant and dry, then opens into lightly sweet, aromatic complexity.
 
-- Choose the right Champagne: Use dry Champagne for cocktail drinks as it blends well with other flavors. Sweet Champagne can make the drink too sugary.
-- Add complementary flavors: Add a splash of cognac for richness or fruit juice for a fresh, zesty taste. A drop of bitters can also add depth to the drink.
-- Keep it chilled: Serve the Champagne cocktail in a chilled glass or add ice cubes to keep it cold.
-- Use the right glass: Serve Champagne cocktails in a tall, narrow glass called a flute, or a wider glass called a coupe. This allows the Champagne to retain its bubbles and aroma. 
-- Garnish with a twist: Finish the cocktail with a twist of lemon or lime, or add berries or mint leaves to complement the flavors.
+## Getting the balance right
 
-## Alcohol-free alternative to the Champagne cocktail
+Because the recipe is so minimal, temperature matters a lot. Use properly chilled sparkling wine and a cold flute. If your bubbly is already on the sweeter side, let the sugar cube dissolve only partially before drinking for a drier impression. Brut Champagne is the classic choice, but other dry traditional-method sparkling wines work well too if you want a more affordable version.
 
-An alcohol-free alternative to a Champagne cocktail can be a Sparkling Cider Cocktail, which can provide the same fizzy and celebratory feeling without the alcohol. To make this, one can take a bottle of sparkling apple cider, add a splash of freshly squeezed grapefruit juice, and a few dashes of bitters. This can be poured into a champagne flute and garnished with a slice of apple and a sprig of rosemary for added aroma and visual appeal. The Sparkling Cider cocktail can be a refreshing and delicious drink for all ages and occasions.
+## A little history and bar-room lore
 
-## Champagne cocktail fun facts
+The Champagne Cocktail is one of the old standards of the cocktail world, appearing in 19th-century drink manuals and often cited as one of the earliest classic sparkling-wine cocktails. Its exact first creator is unclear, but the drink was firmly established by the 1860s. It also gained pop-culture fame through its appearance in *Casablanca*, helping cement its reputation as a timeless celebration drink.
 
-1. The Champagne cocktail is not a traditional cocktail, as it consists of only two ingredients: Champagne and a sugar cube soaked in Angostura bitters.
-2. The drink was created in the mid-1800s as a way to mask inferior Champagne by adding sugar and bitters.
-3. The sugar cube used in the drink is typically made from white sugar, but brown sugar or raw sugar can also be used.
-4. The Champagne cocktail gained popularity in the United States during the 1920s and 1930s, during the Prohibition era.
-5. The bubbles in Champagne actually enhance the flavors of the bitters and sugar in the cocktail, making it a delicious and refreshing choice for celebrations or special occasions.
+## Alcohol-free sparkling riff
+
+For a zero-proof version, use chilled non-alcoholic sparkling wine or sparkling white grape beverage, a dash or two of non-alcoholic aromatic bitters, and a small splash of strong brewed black tea or alcohol-free brandy alternative for depth. Keep the sugar cube for the visual effect and finish with the same orange and cherry garnish.

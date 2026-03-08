@@ -22,55 +22,27 @@ Pour the tequila into a highball glass, squeeze the lime juice. Add ice and salt
 
 ![](/cocktail-images/paloma.jpeg)
 
+## Building a bright, bubbly Paloma
 
-## Directions for how to make the Paloma
+1. Fill a **highball glass** about three-quarters full with fresh ice so the drink stays crisp and cold from the first sip.
+2. Pour in the **tequila**, using a good blanco made from 100% agave for a clean, peppery backbone that works well with citrus.
+3. Add the **fresh lime juice** and a **small pinch of salt**. The lime sharpens the drink, while the salt softens bitterness and makes the grapefruit taste juicier.
+4. Top with **pink grapefruit soda**, pouring gently to keep as much carbonation as possible.
+5. Give the drink **one or two slow stirs**—just enough to combine the ingredients without flattening the bubbles.
+6. Taste before serving. If it feels too sharp, add a touch more soda; if it seems too sweet, an extra squeeze of lime will bring it back into balance.
 
-1. Pour 50 ml 100% agave tequila into a Highball glass.
-2. Squeeze 5 ml fresh lime juice into the glass.
-3. Add a pinch of salt to the glass.
-4. Fill the glass with ice.
-5. Pour 100 ml of pink grapefruit soda over the ice.
-6. Stir the mixture gently.
-7. Serve and enjoy!
+## What the Paloma tastes like
 
-## Tips for how to make the perfect Paloma
+A Paloma is lighter and more refreshing than many tequila drinks, with a flavor profile built around **zesty grapefruit, bright lime, and earthy agave**. The soda keeps it easygoing and thirst-quenching, while the salt adds a subtle savory edge. Served over ice, it should feel sparkling, citrusy, and slightly bitter in a very appetizing way.
 
-- Use fresh grapefruit juice: It's best to use fresh grapefruit juice, as opposed to bottled or canned juice, for a more vibrant and natural flavor.
+## Why the highball format works
 
-- Rim the glass with salt: The traditional Paloma is served in a glass rimmed with salt. To do this, moisten the rim of the glass with a lime wedge and dip it into a plate of sea salt.
+This drink shines because of its **long, fizzy structure**. The tall glass gives plenty of room for ice and carbonation, helping the grapefruit stay lively rather than syrupy. It is especially good in warm weather, but its snappy bitterness also makes it a strong match for rich or spicy food, especially tacos, grilled meats, and salty snacks.
 
-- Choose the right tequila: Look for a tequila that is 100% agave, as this will ensure a smoother and more flavorful drink. Blanco tequila is traditional for Palomas, but reposado or añejo tequila can add extra depth of flavor.
+## Paloma background and bar-room trivia
 
-- Adjust sweetness to taste: Paloma recipes often call for a sweetener like simple syrup or agave nectar. Adjust the amount of sweetener to your taste, depending on how tart or sweet you like your drinks.
+The exact origin of the Paloma is **not fully certain**, but it is widely associated with Mexico and is often considered one of the country’s most beloved tequila highballs. Some credit its popularization to **Don Javier Delgado Corona**, the legendary bartender of La Capilla in Jalisco, though firm documentation is limited. What is clear is that the combination of tequila and grapefruit became a natural classic, especially as bottled grapefruit sodas grew in popularity.
 
-- Use carbonated water or club soda: Palomas are typically topped off with carbonated water or club soda. Use a good quality sparkling water to add effervescence and balance out the flavors.
+## A zero-proof Paloma-style variation
 
-## Alcohol-free alternative to the Paloma
-
-The alcohol-free alternative to Paloma is the Virgin Paloma. 
-
-The Virgin Paloma is a refreshing, citrusy drink made with grapefruit and lime juice and topped off with some soda water. Here's how to make it:
-
-Ingredients:
-- 1-2 oz freshly squeezed grapefruit juice
-- 1/2 oz freshly squeezed lime juice
-- 1 tbsp honey
-- 4-5 oz soda water
-- Crushed ice
-- Salt (optional)
-
-Instructions:
-1. Add the grapefruit juice, lime juice, honey, and a pinch of salt (if using) to a cocktail shaker. Shake well to combine.
-2. Strain the mixture into a glass filled with crushed ice.
-3. Top it off with soda water.
-4. Garnish with a slice of grapefruit and a sprig of fresh mint.
-
-Enjoy your alcohol-free alternative to Paloma!
-
-## Paloma fun facts
-
-1. Paloma is a popular tequila-based cocktail that originated in Mexico.
-2. Despite being one of the most popular cocktails in Mexico, it is not as well-known worldwide as other tequila-based cocktails like margaritas.
-3. The word "Paloma" translates to "dove" in Spanish, and some believe the cocktail is named after a popular folk song with the same name.
-4. The most common recipe for Paloma consists of tequila, grapefruit soda, and lime juice, but there are many variations that include different ingredients like fresh grapefruit juice or agave nectar.
-5. Paloma is often served in a tall glass over ice and garnished with a slice of grapefruit or a sprig of fresh mint for added flavor and color.
+For a non-alcoholic version, replace the tequila with a **non-alcoholic agave spirit alternative** or a small splash of agave syrup plus extra lime for body. Build it the same way over ice, then top with grapefruit soda. You still get the signature **citrus sparkle and salty lift**, just without the alcohol.

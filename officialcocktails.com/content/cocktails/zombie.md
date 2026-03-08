@@ -27,53 +27,27 @@ Mix ingredients in a shaker with crushed ice and shake. Pour into a tall tumbler
 
 ![](/cocktail-images/zombie.jpeg)
 
+## How to build a proper Zombie
 
-## Directions for how to make the Zombie
+1. Fill a shaker about halfway with crushed ice so the drink chills quickly and picks up the right dilution.
+2. Add the two base rums, then the overproof Demerara rum, followed by the lime juice, falernum, Donn’s Mix, grenadine, bitters, and Pernod.
+3. Shake hard but briefly, about 8 to 10 seconds. You want the mixture cold and lightly aerated without melting too much of the ice.
+4. Pour everything, including the shaken ice, into a chilled Zombie glass or other tall tumbler.
+5. Top with a little extra crushed ice if needed to create a mounded surface and keep the drink frosty.
+6. Garnish simply if you like: a mint sprig, grapefruit wedge, or cherry all work well. If using the high-proof rum as a float for a flaming presentation, use extreme caution and extinguish before serving.
 
-### Steps to Make a Zombie Drink
+## What the Zombie tastes like
 
-1. Combine 45 ml Jamaican dark rum, 45 ml Puerto Rican gold rum, and 30 ml 151 Demerara rum in a cocktail shaker.
-2. Add 20 ml fresh lime juice, 15 ml falernum, and 15 ml Donn's Mix (2 parts fresh white grapefruit juice and 1 part cinnamon syrup) to the shaker.
-3. Add 1 tsp Grenadine syrup, 1 dash of Angostura bitters, and 6 drops of Pernod to the shaker.
-4. Fill the shaker with crushed ice and shake well.
-5. Strain the mixture into a tall tumbler glass.
-6. Garnish with a cherry and a slice of orange.
-7. Serve and enjoy the zombie drink in a zombie glass.
+A Zombie should come across as layered rather than merely strong. The dark and gold rums bring richness and vanilla-toned depth, while the overproof rum adds heat and a long finish. Lime keeps it sharp, falernum adds spiced sweetness, and Donn’s Mix contributes grapefruit brightness plus warm cinnamon. The Pernod and bitters sit in the background, giving the drink its slightly exotic, hard-to-pin-down edge.
 
-## Tips for how to make the perfect Zombie
+## Getting the balance right over ice
 
-- 1 oz dark rum, 1 oz white rum, ½ oz apricot liqueur, ½ oz lime juice, ½ oz pineapple juice, ½ oz passion fruit syrup, 1 tsp grenadine, and a dash of Angostura bitters.
-- Top with crushed ice and garnish with fresh mint, cherry, and pineapple.
-- Make sure to use a good quality rum for a smooth finish.
-- Adjust sweetness level by adding or reducing the amount of syrup or grenadine.
-- For a spicier kick, add a few drops of hot sauce or a slice of fresh ginger.
+This drink is best when very cold and slightly diluted, so crushed ice matters. If it tastes too hot, the usual fix is a touch more shaking or a little more crushed ice rather than more sweetener. If it seems too sweet, a small extra squeeze of lime can pull it back into balance. Serve it immediately: the Zombie is at its best in the first few minutes, before the ice fully softens the structure.
 
-## Alcohol-free alternative to the Zombie
+## Tiki lore and the original Zombie
 
-An alcohol-free alternative to the drink Zombie can be a mocktail that has a similar fruity taste but without the rum. Here's one recipe for a non-alcoholic Zombie mocktail:
+The Zombie is most closely associated with Donn Beach, one of the founders of American tiki culture, who is generally credited with creating it in the 1930s. Exact early formulas are famously murky because many tiki recipes were guarded and changed over time. What is consistent is the drink’s reputation: it became one of the great high-octane tiki standards, often served with warnings about its potency.
 
-Ingredients:
-- 2 oz pineapple juice
-- 2 oz orange juice
-- 1 oz lime juice
-- 1 oz passion fruit syrup
-- 1 oz grenadine syrup
-- 1 oz coconut cream
-- Sprite or soda water
+## A no-proof tropical riff
 
-Instructions:
-1. Fill a shaker with ice.
-2. Add pineapple juice, orange juice, lime juice, passion fruit syrup, grenadine syrup, and coconut cream.
-3. Shake well until ingredients are mixed properly.
-4. Pour mixture into a tall glass.
-5. Top off with Sprite or soda water.
-6. Garnish with a mint sprig and a cherry.
-7. Serve and enjoy your Zombie mocktail!
-
-## Zombie fun facts
-
-1. The Zombie cocktail was created in the 1930s by Donn Beach, also known as Don the Beachcomber, who was a pioneer of tropical-themed restaurants and bars.
-2. The cocktail was designed to be strong and potent, with multiple types of rum, fruit juices, and a splash of absinthe. In fact, it was reportedly so strong that Donn Beach would only serve two per customer.
-3. The name "Zombie" allegedly comes from the fact that after drinking one, you would feel like a zombie - disoriented and stumbling around.
-4. The original recipe for the Zombie was lost for many years, but was eventually discovered in a notebook from the 1930s.
-5. The Zombie has become a popular drink in tiki culture and is often served in fun, kitschy mugs shaped like skulls or tropical fruits.
+For a non-alcoholic version, combine fresh lime juice, white grapefruit juice, cinnamon syrup, a touch of grenadine, and a few drops of anise extract or alcohol-free absinthe alternative. Shake with crushed ice and top with a splash of non-alcoholic dark rum substitute or a little black tea for depth. You’ll get the spice-citrus profile and tiki mood without the alcohol.

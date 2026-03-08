@@ -27,3 +27,10 @@ h2, .h2, h3, .h3 {
 p {
     margin: 0 0 15px;
 }
+
+/* Keep single-drink images at roughly the previous 512px visual size. */
+.content-column-content p > img {
+    width: 100%;
+    max-width: 512px;
+    height: auto;
+}

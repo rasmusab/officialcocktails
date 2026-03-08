@@ -20,37 +20,27 @@ Pour peach purée into chilled glass, add sparkling wine. Stir gently.
 
 ![](/cocktail-images/bellini.jpeg)
 
+## Building a Bellini in a chilled flute
 
-## Directions for how to make the Bellini
+1. Put a Champagne flute in the fridge or freezer for a few minutes so the drink stays cold and lively from the first sip.
+2. Spoon or pour fresh peach purée into the bottom of the glass. If the purée is very thick, give it a quick stir first so it blends more easily with the wine.
+3. Slowly add well-chilled Prosecco a little at a time rather than all at once. This helps preserve the bubbles and keeps the drink from foaming over.
+4. Stir very gently with a bar spoon just enough to combine. The goal is an even texture, not to flatten the sparkling wine.
+5. Check the color: a proper Bellini should look softly opaque and blush-peach rather than clear or overly frothy.
+6. Serve immediately, straight up and ice-free, while the fruit is fresh and the fizz is still bright.
 
-1. Chill a Champagne flute by placing it in the refrigerator or freezer.
-2. Peel and dice fresh peaches, and blend them in a blender until smooth.
-3. Measure 5 cl (1 part) of the peach purée and pour it into the chilled glass.
-4. Open a bottle of Prosecco and measure 10 cl (2 parts) of the sparkling wine.
-5. Slowly pour the Prosecco into the glass over the peach purée.
-6. Use a bar spoon or stirrer to gently stir the two ingredients together.
-7. Serve immediately and enjoy!
+## What makes a Bellini taste like a Bellini
 
-## Tips for how to make the perfect Bellini
+A Bellini is light, silky, and delicately fruity. The peach brings soft sweetness and a rounded texture, while Prosecco adds crisp acidity and fine bubbles. Traditionally, white peaches are preferred because they give a more floral, elegant fruit character than yellow peaches. The balance should feel refreshing rather than sugary.
 
-- Start by pouring equal parts (usually 2-3 ounces) of chilled Prosecco into a chilled champagne flute.
-- Next, add a splash of fresh peach puree or peach juice to the glass.
-- Gently stir the mixture with a spoon until combined.
-- For additional flavor, consider adding a small amount of raspberry or strawberry puree to the drink.
-- Garnish with a fresh peach slice or a twist of lemon peel for an extra touch of elegance.
+## Getting the texture and pour right
 
-## Alcohol-free alternative to the Bellini
+Use cold ingredients throughout. If the purée is warm, the drink loses sparkle fast. Fresh purée usually gives the best aroma, but straining it lightly can create a smoother finish if the fruit is fibrous. A flute works well because it shows off the pale color and helps keep carbonation focused.
 
-A mocktail alternative to the drink Bellini could be a peach and sparkling water spritzer. To make it, blend fresh or frozen peach slices with a bit of water and add a touch of honey or agave syrup to sweeten. Pour the peach puree into a glass and top with sparkling water or club soda. Garnish with a slice of fresh peach or a sprig of mint.
+## Venice roots and a famous name
 
-## Bellini fun facts
+The Bellini is widely credited to Harry’s Bar in Venice, where Giuseppe Cipriani is said to have created it sometime in the mid-20th century, most often dated to the 1940s. The most repeated story is that its pink hue reminded Cipriani of colors used by the Venetian painter Giovanni Bellini, which inspired the name. Exact details vary, but the Venice connection is the accepted origin.
 
-1. Bellini was invented in Venice, Italy, in 1948 by Giuseppe Cipriani, the founder of Harry's Bar.
+## Easy alcohol-free Bellini twist
 
-2. Originally made with white peach puree and Prosecco, the Bellini has since been adapted to include a wide variety of fruit flavors.
-
-3. The drink is named after 15th-century Venetian painter Giovanni Bellini, whose work inspired the effervescent color of the cocktail.
-
-4. The Bellini was a favorite of Ernest Hemingway, who would visit Harry's Bar to enjoy the cocktail while writing.
-
-5. In 2008, the Bellini was named the official cocktail of the Venice Biennale by the Biennale's president, Paolo Baratta.
+For a non-alcoholic version, use white peach purée with chilled non-alcoholic sparkling wine or sparkling white grape juice. If you want a drier finish, add a small squeeze of lemon before topping with bubbles. It keeps the same soft fruit profile while staying bright and celebratory.

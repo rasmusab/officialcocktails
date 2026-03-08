@@ -22,33 +22,27 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into ch
 
 ![](/cocktail-images/yellow_bird.jpeg)
 
+## How to shake a Yellow Bird properly
 
-## Directions for how to make the Yellow bird
+1. Chill a cocktail glass first so the drink stays brisk and crisp after pouring. A few minutes in the freezer works well, or fill the glass with ice water while you prepare the shaker.
+2. Add white rum, Galliano, triple sec, and fresh lime juice to a shaker tin. Freshly squeezed lime matters here: bottled juice can make the cocktail taste flat and overly sharp.
+3. Fill the shaker generously with cold ice. Because this drink is served straight up, proper chilling and dilution need to happen in the shaker rather than in the glass.
+4. Shake hard for about 10 to 15 seconds, until the tin feels very cold. The goal is a bright, silky mix with enough dilution to tame the sweetness of the liqueurs.
+5. Empty the ice water from the chilled glass if you used it, then fine-strain the drink into the glass for a clean, elegant finish.
+6. Serve immediately. If you want a subtle aromatic lift, a thin lime twist can work, but the classic presentation is often left ungarnished.
 
-1. Get a cocktail shaker and add some ice.
-2. Pour 3 cl of white rum into the cocktail shaker.
-3. Add 1.5 cl of Galliano.
-4. Add 1.5 cl of triple sec.
-5. Add 1.5 cl of lime juice.
-6. Shake the cocktail shaker well with the ice.
-7. Get a chilled cocktail glass.
-8. Strain the Yellow bird drink into the chilled cocktail glass.
-9. Garnish the drink with a lime wedge or wheel (optional).
-10. Serve and enjoy!
+## What the Yellow Bird tastes like
 
-## Tips for how to make the perfect Yellow bird
+The Yellow Bird sits in a sweet-tart tropical zone, but it is not as heavy as many beach-style drinks. The rum provides a light base, Galliano adds vanilla and herbal spice, triple sec brings orange brightness, and lime keeps everything sharp and lively. The result is citrus-forward, lightly exotic, and surprisingly streamlined for a drink with two liqueurs.
 
-- Use fresh citrus juices: A good Yellow bird drink requires fresh orange, pineapple and lime juices. Avoid bottled or canned juices as they may have added preservatives that can affect the flavor of the drink.
-- Use quality rum: A Yellow bird drink is essentially a rum-based cocktail, so it's important to use a good quality rum. Opt for a light or golden rum that has a good balance of sweetness and spiciness.
+## Best way to serve this cocktail
 
-## Alcohol-free alternative to the Yellow bird
+This is a straight-up drink, so temperature is part of the experience. Serve it very cold in a cocktail glass and drink it soon after shaking, before it warms. It works well as a pre-dinner cocktail if you enjoy citrusy classics, but it also fits warm-weather menus thanks to its sunny, island-leaning profile.
 
-One possible alcohol-free alternative to the drink Yellow Bird is a mixed fruit smoothie. The smoothie could contain fresh or frozen mango, pineapple, and orange juice, along with a splash of lime juice and a drizzle of honey for sweetness. The drink could be blended until smooth, and served over ice. This fruity and refreshing blend could provide a similar tropical flavor profile as the Yellow Bird cocktail, without the alcohol content. Additionally, it would be a healthier option that allows for guilt-free indulgence.
+## Yellow Bird backstory and cocktail lore
 
-## Yellow bird fun facts
+The exact origin is a little uncertain, but the Yellow Bird is generally linked to the Caribbean, especially Jamaica, and became better known during the mid-20th-century tropical cocktail boom. Its name is often associated with the famous Haitian song “Yellow Bird,” which helped popularize the phrase internationally. The drink later earned recognition through IBA listing, giving it a more formal place among modern classics.
 
-1. Yellow bird is a tropical cocktail that originated in the Caribbean and is popular in the Virgin Islands.
-2. The cocktail is a bright yellow color and is usually garnished with a slice of pineapple or a cherry.
-3. The main ingredients of Yellow bird are rum, Galliano, triple sec, and lime juice.
-4. The recipe for Yellow bird was created in the 20th century by a bartender named Raymond "Buff" Crossman in the British Virgin Islands.
-5. Yellow bird is a sweet and fruity cocktail that is enjoyed by both locals and tourists in the Caribbean.
+## Easy alcohol-free Yellow Bird-style riff
+
+For a zero-proof version, combine chilled orange cordial or non-alcoholic triple sec alternative with a small splash of vanilla syrup, fresh lime juice, and a little non-alcoholic white-rum substitute or cold water for balance. Shake with ice and strain into a chilled cocktail glass. Keep the sweetness restrained so the lime stays vivid and the drink remains crisp rather than candy-like.

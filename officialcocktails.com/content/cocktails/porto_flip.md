@@ -21,48 +21,26 @@ Shake ingredients together in a mixer with ice.  Strain into glass, garnish and 
 
 ![](/cocktail-images/porto_flip.jpeg)
 
+## Shaking and pouring a Porto Flip
 
-## Directions for how to make the Porto flip
+1. Chill a cocktail glass first so the drink stays cool and silky after straining. A few minutes in the freezer works well, or fill the glass with ice water while you mix.
+2. Add brandy, ruby-style port, and fresh egg yolk to a shaker. If you want an especially smooth texture, break the yolk gently and make sure no shell slips in.
+3. Fill the shaker with ice and shake hard for 12 to 15 seconds. The goal is to fully blend the yolk into the fortified wine and spirit, creating a rich, lightly frothy body.
+4. Empty the chilling ice water from the glass, if using, and fine strain the mixture into the cold cocktail glass. A double strain helps catch tiny bits of yolk and gives a cleaner finish.
+5. Garnish traditionally with a light dusting of freshly grated nutmeg. Serve immediately, straight up and well chilled.
 
-1. Add ice to a cocktail shaker.
+## What the Porto Flip tastes like
 
-2. Pour 1.5 cl (3 parts) brandy into the shaker.
+This is a compact, velvety after-dinner cocktail with a deep wine sweetness and a soft brandy backbone. The egg yolk rounds everything out, giving it a custard-like texture without turning it into a dessert drink. Expect notes of dark berries, dried fruit, spice, and a subtle warming finish.
 
-3. Add 4.5 cl (9 parts) port to the shaker.
+## Best way to serve it well
 
-4. Crack an egg into a separate dish and separate the egg yolk from the egg white.
+A Porto Flip is at its best very cold and in a small serving. Because of the yolk, freshness matters: use a good-quality egg and shake thoroughly. Ruby port is the usual choice for fuller fruit character, while an older tawny version makes the drink nuttier and more oxidative. Fresh nutmeg is worth it here; pre-ground spice loses much of the drink’s classic aroma.
 
-5. Measure out 1 cl (2 parts) of the egg yolk and add it to the shaker.
+## A little history in the glass
 
-6. Close the shaker and shake vigorously for around 10 seconds.
+The exact origin is not perfectly documented, but the Porto Flip belongs to the old family of “flip” drinks, which go back centuries. Earlier flips were often served hot and made with beer, rum, or fortified wine. By the late 19th and early 20th centuries, the style evolved into the chilled cocktail form recognized today. Its inclusion among the IBA’s Unforgettables reflects how well this old format survived into modern cocktail culture.
 
-7. Securely hold the strainer over the opening of the cocktail shaker.
+## Zero-proof velvet variation
 
-8. Pour the cocktail into a chilled cocktail glass through the strainer.
-
-9. Garnish, if desired.
-
-10. Serve and enjoy!
-
-## Tips for how to make the perfect Porto flip
-
-- Use a quality aged port for the best flavor.
-- Shake the ingredients (port, brandy, simple syrup, egg yolk, nutmeg) vigorously with ice to achieve a frothy texture.
-- Strain the cocktail into a stemmed glass.
-- Garnish with a sprinkle of fresh nutmeg on top.
-
-## Alcohol-free alternative to the Porto flip
-
-A great alcohol-free alternative to Porto flip could be the Blueberry Lemonade. The flavour-packed mocktail comprises a mixture of blueberries, fresh lemonade, and soda water. The Blueberry Lemonade is light, refreshing, and delicious, with the sweet blueberry syrup complementing the tartness of the lemonade. The drink is then topped with crushed ice and a hint of mint to give it a refreshing taste. This alcohol-free alternative is perfect for people who don't consume alcohol and want to indulge in a delicious and refreshing beverage. The Blueberry Lemonade is perfect for parties, weekend brunches, and daytime events.
-
-## Porto flip fun facts
-
-1. **Origin:** Porto Flip is a classic cocktail that dates back to the early 19th century. It is believed to have originated in England.
-
-2. **Ingredients:** To make a Porto Flip, you need port wine, brandy, a whole egg, and sugar. The egg gives the drink a rich, frothy texture.
-
-3. **Serving:** The Porto Flip is traditionally served as an after-dinner drink in a small glass or stemmed glass. It is often garnished with nutmeg or cinnamon.
-
-4. **Variations:** There are many variations of the Porto Flip, including the Brandy Flip, Sherry Flip, and Whiskey Flip. Each variation uses a different base spirit.
-
-5. **Popularity:** The Porto Flip was a popular drink in the 19th century and was often served in gentlemen's clubs. It has since fallen out of favor but can still be found on the menu at some upscale restaurants and bars.
+For a non-alcoholic take, use a rich dealcoholized red wine or port-style alternative, plus a small splash of non-alcoholic brandy substitute or strong black tea for structure. Replace the yolk with pasteurized egg yolk if available, or use a small amount of aquafaba for a lighter texture. Shake hard, strain into a chilled glass, and finish with nutmeg to keep the original feel.

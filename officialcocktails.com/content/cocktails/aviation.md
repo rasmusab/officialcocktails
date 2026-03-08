@@ -22,55 +22,27 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 
 ![](/cocktail-images/aviation.jpeg)
 
+## Shaking and straining an Aviation
 
-## Directions for how to make the Aviation
+1. Chill a cocktail glass first so the drink stays crisp and bright once poured. A few minutes in the freezer works well, or fill the glass with ice water while you mix.
+2. Add the gin, fresh lemon juice, maraschino liqueur, and a small spoonful of crème de violette to a shaker packed with cold ice. Measure the violet liqueur carefully: too much can make the drink taste perfumed rather than delicate.
+3. Shake hard for about 10 to 15 seconds. You want the citrus fully integrated and the texture lightly aerated, with enough dilution to soften the spirits.
+4. Empty the chilling ice from the glass if needed, then fine-strain the drink into the chilled cocktail glass for a clean, silky surface.
+5. Garnish with a cherry. If you like, place it neatly in the bottom of the glass for a classic look, or rest it on a pick across the rim.
+6. Serve immediately, straight up and very cold. This cocktail is at its best in the first few minutes, when its floral aroma is most vivid.
 
-1. Fill a cocktail shaker with ice.
-2. Add 45 ml of gin to the shaker.
-3. Add 15 ml of lemon juice to the shaker.
-4. Add 15 ml of maraschino liqueur to the shaker.
-5. Add a barspoon (approximately 1/8 tsp) of crème de violette to the shaker.
-6. Shake the mixture well, ensuring that all ingredients are mixed thoroughly.
-7. Using a strainer, pour the mixture into a chilled cocktail glass.
-8. Garnish the cocktail with a cherry.
-9. Serve and enjoy the Aviation cocktail!
+## What the Aviation tastes like
 
-## Tips for how to make the perfect Aviation
+The Aviation is crisp, floral, and slightly tart, with a dry finish. Gin provides the backbone, lemon adds lift, maraschino brings a faint cherry-almond note, and crème de violette gives the drink its signature pale sky tint and subtle perfume. The balance should feel elegant rather than sweet.
 
-- Use fresh, quality ingredients. A classic Aviation cocktail is made with gin, maraschino liqueur, lemon juice, and crème de violette. Make sure your gin is of good quality and your lemon juice is freshly squeezed. 
-- Measure your ingredients carefully. The perfect Aviation drink requires a delicate balance of flavors, so it's important to measure your ingredients with precision. Use a jigger or measuring cup to ensure that you're adding the right amount of each ingredient. 
-- Shake vigorously. The Aviation drink should be well-shaken with ice to create a frothy texture and ensure that the flavors meld together. Shake for at least 15 seconds until the drink is ice-cold and the shaker is frosted. 
-- Strain carefully. Once you've shaken your Aviation cocktail, strain it through a fine mesh strainer to remove any ice chips or pulp from the lemon juice. This will help give your drink a smooth, velvety texture. 
-- Garnish with a cherry. A classic Aviation is traditionally garnished with a Luxardo cherry, which adds a sweet and slightly bitter note to the drink. You can also add a lemon twist for a bit of extra citrus flavor.
+## Why the violet matters
 
-## Alcohol-free alternative to the Aviation
+This drink can swing out of balance quickly, so restraint is important. A modest amount of violet liqueur creates color and aroma without dominating the glass. If your gin is especially juniper-forward, the floral note can soften it nicely; with a softer gin, the drink becomes more ethereal and delicate.
 
-An alcohol-free alternative to the Aviation cocktail could be a mocktail made with lavender syrup, fresh lemon juice, and sparkling water.
+## Aviation backstory
 
-Ingredients:
+The Aviation is usually traced to the early 20th century and is most often linked to Hugo Ensslin, a New York bartender who published a version in 1916. Exact origin details are not perfectly settled, but that is the most widely accepted reference point. For years, many versions omitted crème de violette simply because it was hard to find, which changed the drink’s color and character considerably.
 
-- 1 oz lavender syrup 
-- 1 oz fresh lemon juice 
-- 3 oz sparkling water 
-- Ice 
-- Lavender sprig, for garnish
+## A zero-proof cloud-inspired riff
 
-Instructions:
-
-1. In a cocktail shaker, combine the lavender syrup and fresh lemon juice.
-
-2. Add ice to the shaker and shake well.
-
-3. Strain the mixture into a glass filled with ice.
-
-4. Top the mixture with sparkling water.
-
-5. Garnish with a lavender sprig and enjoy your alcohol-free alternative to the Aviation cocktail!
-
-## Aviation fun facts
-
-- The Aviation was created in the early 1900s by bartender Hugo Ensslin, who worked at the Hotel Wallick in New York City.
-- The drink was almost lost to history until it was rediscovered and popularized in the early 2000s by Seattle bartender Murray Stenson.
-- The name "Aviation" is a nod to the recently-developed aviation industry at the time, as well as the drink's light blue color reminiscent of the sky.
-- The traditional recipe for an Aviation calls for gin, maraschino liqueur, crème de violette, and lemon juice, although variations exist.
-- The Aviation has been featured in pop culture, including in the 2011 movie "Crazy, Stupid, Love" and the TV show "Mad Men."
+For a non-alcoholic take, shake together a juniper-forward alcohol-free spirit, fresh lemon juice, a little cherry syrup, and a tiny splash of violet syrup with ice. Strain into a chilled glass and garnish with a cherry. Keep the floral element light so the drink stays fresh instead of tasting soapy.

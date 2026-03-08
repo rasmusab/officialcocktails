@@ -19,47 +19,27 @@ Pour all ingredients directly into an old fashioned glass filled with ice. Stir 
 
 ![](/cocktail-images/rusty_nail.jpeg)
 
+## Building a Rusty Nail over ice
 
-## Directions for how to make the Rusty nail
+1. Fill an old fashioned glass generously with fresh, solid ice. Larger cubes are ideal because they melt more slowly and keep the drink strong and silky instead of watery.
+2. Measure the Scotch first and pour it over the ice. A blended Scotch is the classic choice for a softer, rounder result, though a lighter single malt can give the drink more character.
+3. Add the Drambuie directly into the glass. Because it is sweet and herbal, it will settle in quickly, so there is no need for shaking.
+4. Stir gently but thoroughly for about 10 to 15 seconds. You want the honeyed liqueur and whisky fully integrated while adding just a touch of chill and dilution.
+5. Taste mentally as you build: if you prefer a drier, firmer Rusty Nail, lean slightly toward more Scotch next time; if you want it richer and smoother, increase the liqueur a little.
+6. Serve immediately on the rocks. A lemon twist is optional rather than standard, but it can brighten the nose nicely without changing the drink’s character too much.
 
-To make a Rusty nail drink, follow these steps:
+## What the Rusty Nail tastes like
 
-1. Fill an Old fashioned glass with ice.
-2. Measure and pour in 45 ml of Scotch whisky.
-3. Measure and pour in 25 ml of Drambuie.
-4. Use a stirrer or spoon to stir the ingredients gently.
-5. Serve and enjoy the Rusty nail drink.
+This is a compact, spirit-forward cocktail with a warm, rounded profile. The Scotch brings grain, oak, smoke, or malt depending on the bottle, while Drambuie contributes honey, herbs, and a faint spiced sweetness. The result is mellow but not light: rich, slightly sticky on the palate, and very slow-sipping.
 
-## Tips for how to make the perfect Rusty nail
+## Getting the balance right with Scotch
 
-- Use a good quality Scotch whisky and Drambuie liqueur for the best flavor.
-- Mix the ingredients in a shaker with ice to ensure a perfectly chilled cocktail.
-- Strain the cocktail into a glass over ice and garnish with a twist of lemon or orange for an extra pop of citrus flavor.
-- If you prefer a sweeter cocktail, add a dash of honey or simple syrup to the mix.
+The Rusty Nail is simple enough that bottle choice matters. A smokier Scotch makes the drink more brooding and savory, while a gentler blend keeps it plush and approachable. If your first version feels too sweet, stir longer and use colder ice before changing ratios; dilution often helps it click into place.
 
-## Alcohol-free alternative to the Rusty nail
+## Rusty Nail backstory and bar lore
 
-One alcohol-free alternative to Rusty Nail is the "Rusty Water." It is a simple mocktail that mimics the flavor of the classic cocktail without using any alcoholic components.
+Its exact origin is a little murky, but the Rusty Nail became firmly established in mid-20th-century cocktail culture. It is widely associated with the 1950s and 1960s, when Scotch-heavy drinks gained popularity in hotel bars and supper clubs. The name’s true source is uncertain, which has helped give it an extra bit of barroom mystique.
 
-Ingredients:
-- 2 oz ginger ale
-- 2 oz orange juice
-- 1/2 oz honey
-- Dash of bitters
-- Ice
+## A zero-proof honey-herb alternative
 
-Instructions:
-1. Fill a rocks glass with ice.
-2. In a cocktail shaker filled with ice, combine the ginger ale, orange juice, honey, and bitters.
-3. Shake until well mixed.
-4. Strain the mixture into the rocks glass.
-5. Garnish with a lemon twist or orange slice (optional).
-6. Serve and enjoy your alcohol-free Rusty Water!
-
-## Rusty nail fun facts
-
-1. Rusty Nail is a cocktail made by mixing Scotch whisky and Drambuie, a Scottish liqueur made with honey, herbs, and spices.
-2. The drink was created in the early 20th century by a bartender in New York City.
-3. The cocktail was named after the rusted nails found in old Scottish shipyards, as the drink was said to have a rusty or "nail-like" taste.
-4. In Scotland, drinking Rusty Nail with ice is considered a faux pas, as it dilutes the flavors of the drink.
-5. The Rusty Nail has been featured in numerous movies and TV shows, including Mad Men and Sex and the City.
+For a non-alcoholic version, build the drink over ice with a smoky black tea concentrate or alcohol-free whisky alternative, plus a spoonful of honey syrup and a few drops of herbal bitters-style non-alcoholic elixir. Stir well and garnish with a lemon twist. It will not fully duplicate the original, but it captures the sweet, herbal, smoky mood.

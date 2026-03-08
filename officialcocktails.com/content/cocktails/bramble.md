@@ -22,33 +22,29 @@ Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake we
 
 ![](/cocktail-images/bramble.jpeg)
 
+## Building a Bramble over crushed ice
 
-## Directions for how to make the Bramble
+1. Fill an Old Fashioned glass to the top with crushed ice and set it aside to chill while you mix the drink.
+2. In a shaker, combine gin, fresh lemon juice, and sugar syrup with plenty of cubed ice. Shake hard for about 10 to 12 seconds, until the tin feels very cold.
+3. Dump any meltwater from the chilled glass, then refill it tightly with fresh crushed ice so the drink stays frosty and properly diluted.
+4. Strain the shaken mixture over the crushed ice, aiming for a clean, bright base with no large shards from the shaker.
+5. Slowly pour the blackberry liqueur over the top in a loose circular motion. It should trickle through the ice and create the Bramble’s signature deep purple streaks.
+6. Top with a little more crushed ice if needed, then garnish with a lemon slice and fresh blackberries if you have them. Serve immediately with a short straw.
 
-1. Pour all ingredients except Crème de Mûre into a cocktail shaker.
-2. Add ice to the cocktail shaker.
-3. Shake the cocktail shaker well for a few seconds.
-4. Strain the contents of the shaker into a chilled old fashioned glass filled with crushed ice.
-5. Pour the Crème de Mûre over the top of the drink in a circular motion. 
-6. Your Bramble drink is now ready to be served!
+## What the Bramble tastes like
 
-## Tips for how to make the perfect Bramble
+The Bramble drinks like a more modern gin sour with a juicy berry finish. The first sip is sharp and citrus-led, then the sweetness rounds out, and the blackberry note adds richness without making it feel heavy. Crushed ice is important here: it softens the edges as the drink opens up, making each sip a little different from the one before.
 
-- Use fresh blackberries for muddling and garnishing. Frozen berries can be used as well, but fresh ones add more flavor.
-- Make sure to use high-quality gin to give the drink a smooth and balanced taste. Avoid using cheap gin as it can make the drink taste harsh.
-- Use a high-quality raspberry liqueur for the best flavor. Chambord is a popular choice, but any good quality raspberry liqueur will do.
-- Balance the sweetness of the raspberry liqueur with tart lemon juice. Freshly squeezed lemon juice is best, but bottled lemon juice can be used as well.
-- To make the drink extra special, use a homemade blackberry syrup. Simply simmer fresh blackberries with sugar and water to make a sweet and tangy syrup that pairs perfectly with gin and raspberry liqueur.
-- Serve the drink over crushed ice and garnish with fresh blackberries and a lemon wedge. Enjoy!
+A dry, juniper-forward gin gives a classic result, while a softer contemporary gin makes it fruitier and gentler.
 
-## Alcohol-free alternative to the Bramble
+## Why the float matters
 
-An alcohol free alternative to the drink Bramble is an iced tea concoction made with blackberries and lemon. The base is brewed black tea, mixed with a homemade blackberry syrup created with fresh blackberries and sugar. The syrup is then stirred into the iced tea, along with freshly squeezed lemon juice, and garnished with fresh blackberries and a slice of lemon. This refreshing and flavorful drink offers a similar taste profile to a Bramble cocktail, but without the alcohol.
+That final pour of crème de mûre is not just for looks. Floating it over the top creates layers of flavor, so the berry character builds gradually as the drink dilutes. If you mix it in completely from the start, the drink becomes more uniform and loses some of its visual drama and progression.
 
-## Bramble fun facts
+## A modern classic with a London backstory
 
-1. Bramble was invented by a British bartender named Dick Bradsell in the 1980s.
-2. The cocktail features gin, lemon juice, sugar syrup, and blackberry liqueur.
-3. It is commonly garnished with fresh blackberries and a lemon wedge.
-4. The name Bramble comes from the way the berry liqueur swirls and spreads through the drink, resembling the thorny vines of a bramble bush.
-5. Bramble was inspired by the classic gin sour and was created to showcase the unique flavor of blackberry liqueur.
+The Bramble is widely credited to Dick Bradsell, who created it in London during the 1980s. It is often cited as one of the defining modern British cocktails, inspired by the idea of picking blackberries in the countryside. While small variations exist, that origin story is the most widely accepted and documented.
+
+## Easy alcohol-free Bramble riff
+
+For a non-alcoholic version, use a zero-proof gin alternative, fresh lemon juice, and a touch of simple syrup as the base. Replace the blackberry liqueur with a rich blackberry cordial or reduced blackberry syrup, drizzled over crushed ice in the same way. You still get the tart, floral, berry-forward profile that makes the drink so appealing.

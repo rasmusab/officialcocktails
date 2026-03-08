@@ -22,53 +22,28 @@ Pour all ingredients into cocktail shaker except the sparkling wine, shake well 
 
 ![](/cocktail-images/russian_spring_punch.jpeg)
 
+## How to build a Russian Spring Punch
 
-## Directions for how to make the Russian spring punch
+1. Fill a shaker with ice, then add the vodka, blackcurrant liqueur, simple syrup, and fresh lemon juice. Fresh juice matters here: it gives the drink its sharp, bright edge.
+2. Shake hard for about 10 to 12 seconds, until the mixture is well chilled and lightly aerated. You want enough dilution to soften the sweetness without flattening the fruit.
+3. Pack a chilled highball glass with fresh ice. Strain the shaken mixture over the ice so the base stays cold and clean.
+4. Top with sparkling wine, pouring gently to preserve the bubbles. A light stir with a bar spoon is enough to combine it without knocking out the fizz.
+5. If you like, finish with a lemon slice or a few berries for a visual cue to the cassis inside. Serve immediately while the drink is lively and sparkling.
 
-1. Pour 2.5 cl of vodka into a cocktail shaker.
-2. Add 1.5 cl of crème de cassis to the shaker.
-3. Measure 1 cl of sugar syrup and pour it in with the other ingredients.
-4. Cut a lemon in half and squeeze 2.5 cl of lemon juice into the shaker.
-5. Fill the cocktail shaker with ice and shake vigorously.
-6. Strain the contents of the shaker into a chilled tall tumbler glass.
-7. Fill the glass with ice.
-8. Top up the glass with sparkling wine.
+## What it tastes like in the glass
 
-## Tips for how to make the perfect Russian spring punch
+Russian Spring Punch drinks like a sparkling, darker-fruited cousin of a French 75. The vodka keeps the structure clean, while cassis brings deep berry notes and a rich purple hue. Lemon cuts through the sweetness, and the sparkling wine lifts everything with a dry, crisp finish.
 
-- Start by chilling all ingredients, including the glasses.
-- Combine 1 bottle of chilled champagne, 1 cup of chilled vodka, 1 cup of chilled grapefruit juice, and 1/2 cup of chilled honey syrup in a pitcher.
-- Stir gently to mix.
-- Add ice cubes to the chilled glasses and pour in the mixture.
-- Garnish the glasses with a slice of grapefruit and mint leaves.
-- Enjoy your perfectly refreshing Russian spring punch!
+It should taste refreshing rather than sugary. If it seems too sharp, a touch more syrup helps; if it feels too rich, a slightly drier sparkling wine will bring it back into balance.
 
-## Alcohol-free alternative to the Russian spring punch
+## Best way to serve it
 
-One alternative to the Russian spring punch that is alcohol-free is the "Berry Lemonade". Here's how to make it:
+This cocktail shines very cold, with plenty of ice and strong carbonation. A highball glass works well because it shows off the color and leaves room for the sparkling topper. Use solid, fresh ice to slow dilution.
 
-Ingredients:
+For parties, you can pre-batch the shaken base ahead of time and keep it chilled. Add ice and sparkling wine only when serving so the drink stays bright and fizzy.
 
-- 1/2 cup frozen mixed berries
-- 1/2 cup freshly squeezed lemon juice
-- 2 tbsp honey or sugar
-- 2 cups water
-- Ice cubes
+## A little background and an easy alcohol-free riff
 
-Instructions:
+Russian Spring Punch is a modern classic usually credited to London bartender Dick Bradsell, though exact early-date documentation varies. It belongs to the late-20th-century wave of cocktails that paired classic structure with bold, crowd-pleasing fruit flavors.
 
-1. In a blender or a food processor, puree the frozen mixed berries until smooth.
-
-2. In a pitcher, mix together the pureed berries, freshly squeezed lemon juice, honey/sugar and water until well blended.
-
-3. Serve over ice and garnish with sliced fresh strawberries and lemon slices if desired.
-
-This refreshing alternative can be enjoyed by both adults and kids alike, and is perfect for a summer day or a get-together with friends and family.
-
-## Russian spring punch fun facts
-
-1. Russian spring punch was first created in the 19th century by a Russian physician who was trying to find a cure for the common cold.
-2. The drink typically includes vodka, lemon juice, sugar, sparkling water, and fresh strawberries, making it a refreshing and fruity drink.
-3. Some variations of the drink include adding other fruits such as raspberries or blackberries.
-4. In Russia, it is often served during the springtime as a celebratory drink for the start of warmer weather.
-5. The drink gained popularity in the United States after it was featured in Martha Stewart's magazine in the 1990s.
+For a non-alcoholic version, shake lemon juice, blackcurrant cordial, and a little simple syrup with ice, then strain over fresh ice and top with alcohol-free sparkling wine or chilled soda water. You still get the punchy berry-citrus profile and celebratory sparkle.

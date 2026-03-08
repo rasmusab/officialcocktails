@@ -20,32 +20,27 @@ Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 
 ![](/cocktail-images/mimosa.jpeg)
 
+## Building a bright, balanced Mimosa
 
-## Directions for how to make the Mimosa
+1. Chill the flute thoroughly before serving so the drink stays crisp and lively from the first sip to the last.
+2. Make sure both components are very cold. A Mimosa works best when built straight from the refrigerator, without needing ice.
+3. Pour the orange juice into the flute first. This helps the sparkling wine mix gently without knocking out too many bubbles.
+4. Slowly top with the champagne, tilting the glass slightly if needed to control the foam and preserve carbonation.
+5. Give it only the lightest stir, or none at all if the pour naturally combines the drink.
+6. Serve immediately while the texture is still fresh, fizzy, and bright. If you like, add a small orange twist for aroma, but keep the garnish minimal.
 
-1. Ensure champagne and orange juice are well chilled.
-2. Pour 7.5 cl of champagne into a Champagne flute.
-3. Pour 7.5 cl of orange juice into the same glass.
-4. Gently stir the mixture with a spoon to combine.
-5. Serve the Mimosa drink immediately while it's still cold.
+## What the Mimosa tastes like
 
-## Tips for how to make the perfect Mimosa
+A Mimosa is light, citrusy, and celebratory. The orange juice softens the sharpness of the sparkling wine, creating a drink that feels juicy, refreshing, and easygoing rather than intensely boozy. It should taste clean and brisk, with enough acidity to stay refreshing and enough fruit to feel smooth. If the juice is too sweet or the wine too flat, the drink quickly loses its charm.
 
-- Start by chilling your champagne and orange juice beforehand. 
-- Use fresh-squeezed orange juice for the best taste. 
-- For a classic Mimosa, use equal parts champagne and orange juice. 
-- Gently stir the ingredients together in a champagne flute to mix. 
-- Optionally, garnish the drink with a slice of orange. 
-- Serve immediately and enjoy!
+## Best brunch service and glassware choices
 
-## Alcohol-free alternative to the Mimosa
+The classic serving style is straight up in a champagne flute, which helps highlight the bubbles and keeps the drink elegant. For the best result, use freshly opened sparkling wine and juice with a vivid, natural orange flavor. Freshly squeezed juice gives more brightness, while strained juice gives a neater texture. This is a cocktail meant to be served immediately, not batched too far in advance.
 
-One possible alcohol-free alternative to the drink Mimosa is the Virgin Mary. This is a refreshing and delicious juice-based beverage that is reminiscent of a Bloody Mary, but without the alcohol. The Virgin Mary typically contains tomato juice, Worcestershire sauce, hot sauce, lemon juice, and celery salt, and is garnished with a celery stick, a wedge of lemon, and a sprig of fresh cilantro or parsley. This drink is perfect for those who want to enjoy a refreshing and flavorful cocktail without the effects of alcohol.
+## A little Mimosa history
 
-## Mimosa fun facts
+The Mimosa is most often linked to the Ritz Hotel in Paris in the 1920s, though sparkling wine and citrus combinations existed before then. Exact origin details are not perfectly settled, but that Parisian hotel connection is the most widely repeated and credible story. It is often compared with the Buck’s Fizz, a related drink that usually uses a higher proportion of sparkling wine.
 
-1. The Mimosa was invented in 1925 at the Ritz Hotel in Paris.
-2. The classic Mimosa recipe calls for equal parts champagne and orange juice.
-3. The drink is named after the bright yellow flowers of the mimosa plant.
-4. The Mimosa is often served at brunch, as the combination of champagne and orange juice is said to cure hangovers.
-5. Variations of the Mimosa include using different types of juice, such as grapefruit or peach, or adding flavored liqueurs.
+## Easy alcohol-free brunch version
+
+For a non-alcoholic take, replace the champagne with a dry alcohol-free sparkling wine or chilled sparkling white grape beverage. Keep the same gentle build in the flute and use fresh orange juice to preserve the signature sunny character. The result is festive, crisp, and well suited to brunch or daytime celebrations.

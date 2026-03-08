@@ -21,33 +21,28 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 
 ![](/cocktail-images/alexander.jpeg)
 
+## Shaking an Alexander until silky
 
-## Directions for how to make the Alexander
+1. Chill a cocktail glass first so the drink stays properly cold and velvety after straining.  
+2. Fill a shaker with plenty of fresh ice; this cocktail depends on a hard shake to blend the dairy smoothly with the spirits.  
+3. Add equal measures of cognac, dark cacao liqueur, and fresh cream to the shaker.  
+4. Shake longer than you would for a spirit-only drink, about 12 to 15 seconds, until the tin feels very cold and the mixture turns lightly frothy.  
+5. Fine strain into the chilled glass for the smoothest texture, especially if small ice shards are present.  
+6. Serve immediately, ideally without delay, while the body is still plush and the top has a soft, creamy lift.  
+7. If you like, finish with a very light dusting of freshly grated nutmeg for aroma; it is not mandatory, but it suits the drink beautifully.
 
-1. Fill a cocktail shaker with ice cubes.
-2. Pour 30 ml of cognac into the shaker.
-3. Add 30 ml of crème de cacao (brown) to the shaker.
-4. Measure 30 ml of fresh cream and pour it into the shaker.
-5. Shake the cocktail shaker vigorously to combine the ingredients.
-6. Strain the mixture into a chilled cocktail glass.
-7. Optionally, garnish the drink with chocolate shavings or a sprinkle of nutmeg.
-8. Serve immediately and enjoy!
+## What the Alexander tastes like
 
-## Tips for how to make the perfect Alexander
+The Alexander is rich, rounded, and dessert-like without being overly heavy when shaken well. Cognac brings warmth and dried-fruit depth, the cacao element adds gentle chocolate bitterness, and the cream softens everything into a satin texture. The balance should feel elegant rather than sugary. Think milk-chocolate notes, faint spice from the brandy, and a cool, smooth finish.
 
-- Chill all ingredients, including the glass.
-- Use high-quality ingredients, such as a premium cognac and fresh heavy cream.
-- Use a cocktail shaker to thoroughly mix and aerate the ingredients before straining into the chilled glass.
-- Consider adding a pinch of nutmeg or cinnamon on top for added flavor and visual appeal.
+## Alexander backstory and bar-room lore
 
-## Alcohol-free alternative to the Alexander
+The exact origin is not perfectly settled, but the drink is widely associated with the early 20th century and appears in classic cocktail literature by the 1910s and 1920s. A related point of confusion is the original Alexander versus the Brandy Alexander: early versions were often made with gin, while the brandy-based style became so popular that many drinkers now simply call it an Alexander. The cognac version is the one most people recognize today.
 
-An alcohol-free alternative to the Alexander is a mocktail called the "Chocolatini". It is made with a combination of chocolate syrup, vanilla extract, heavy cream or coconut milk, and ice. The ingredients are mixed together in a shaker and strained into a martini glass. Garnish with a sprinkle of cocoa powder or chocolate shavings for an extra touch of decadence. This drink offers the same rich and creamy flavor as the Alexander without the use of alcohol.
+## Best way to serve it well
 
-## Alexander fun facts
+This cocktail works best very cold and in a small portion, since its creamy structure can feel heavier as it warms. It is especially good after dinner, alongside simple biscuits, or as a festive winter serve. Use fresh cream, not ultra-thick double cream, so the drink stays pourable and refined instead of dense.
 
-1. The Alexander cocktail is named after Alexander the Great, the famous king and military leader of ancient Macedonia.
-2. The original recipe for the Alexander called for gin, but it was eventually replaced with brandy due to the popularity of the Brandy Alexander variation.
-3. The Brandy Alexander is said to have been created by a bartender at the Rector's restaurant in New York City in the early 20th century.
-4. The Alexander is considered a dessert cocktail and is often served after dinner.
-5. A popular variation of the Alexander is the Coffee Alexander, which includes coffee liqueur and is often served with grated nutmeg on top.
+## A no-proof chocolate cream variation
+
+For an alcohol-free take, shake together chilled cream, a small measure of chocolate syrup or non-alcoholic cacao cordial, and a little strong cold black tea for structure. A drop of vanilla helps round it out. Shake with ice, strain into a chilled glass, and grate nutmeg on top for a convincing Alexander-style finish.

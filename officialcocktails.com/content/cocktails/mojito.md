@@ -23,45 +23,29 @@ Mix mint sprigs with sugar and lime juice. Add splash of soda water and fill the
 
 ![](/cocktail-images/mojito.jpeg)
 
+## Building a Mojito in the glass
 
-## Directions for how to make the Mojito
+1. Place the mint in a Collins glass with the lime juice and sugar. Gently press the leaves just enough to release their aroma; avoid shredding them, which can make the drink taste grassy.
+2. Add a small splash of soda water and stir to help dissolve the sugar. If using syrup instead of granulated sugar, mix until the liquid looks evenly combined.
+3. Pour in the white rum, then fill the glass about three-quarters full with ice. Crushed ice works especially well, but standard cubes are also fine.
+4. Stir from the bottom upward so the mint, lime, sweetness, and rum are distributed through the drink rather than sitting in layers.
+5. Top with more ice if needed, then finish with soda water to lengthen and lighten the cocktail.
+6. Give it one final gentle stir and garnish with a fresh mint sprig. A quick clap of the mint between your hands before garnishing helps release its fragrance.
 
-1. Take 6 sprigs of fresh mint and place them in the bottom of a Collins glass.
-2. Add two teaspoons of white cane sugar (or 2 cl of sugar syrup) to the glass.
-3. Pour 20 ml of fresh lime juice into the glass.
-4. Use a muddler or the back of a spoon to gently mash the mint leaves and sugar together, releasing the mint oil and mixing with the sugar.
-5. Once the mint and sugar are mixed together, add 45 ml of white rum to the glass.
-6. Stir the ingredients together until the sugar is dissolved and the mint leaves are well mixed.
-7. Fill the Collins glass with ice cubes.
-8. Pour soda water over the ice until the glass is almost full.
-9. Stir the drink once again to mix all of the ingredients together.
-10. Garnish with a sprig of fresh mint and a lime wedge.
-11. Your Mojito is ready to serve and enjoy!
+## What a Mojito should taste like
 
-## Tips for how to make the perfect Mojito
+A well-made Mojito is bright, cooling, and crisp. The lime brings sharp freshness, the sugar rounds off the acidity, and the mint gives the drink its signature cooling lift. Rum adds a soft cane-like sweetness underneath, while soda water keeps the whole drink lively and easy to sip.
 
-- Use fresh ingredients: Use fresh mint leaves, lime juice and good quality rum to make the perfect Mojito.
-- Muddle properly: Muddle the mint leaves and lime wedges gently so as to extract the essential oils without making the mixture too bitter.
-- Use sugar syrup: Use sugar syrup instead of granulated sugar as it dissolves faster and ensures that the sugar is evenly distributed throughout the drink.
-- Use carbonated water: Use carbonated water instead of regular tap water to give the drink a refreshing and bubbly finish.
-- Garnish with mint and lime wedges: Garnish the Mojito with fresh mint leaves and lime wedges to make it look appealing and add to its flavor.
+The balance matters: too much muddling can overwhelm with bitter mint notes, while too little sweetness can make the lime feel harsh.
 
-## Alcohol-free alternative to the Mojito
+## Collins glass, ice, and warm-weather appeal
 
-One alcohol-free alternative to the drink Mojito is a "Virgin Mojito" or "Nojito." To make it, you will need
+This drink is traditionally served over ice in a tall glass, which suits its long, sparkling style. Plenty of ice keeps it refreshing and slows dilution, especially outdoors or in hot weather. If serving to guests, making each drink individually is usually better than batching, since the mint and soda are at their best when fresh.
 
-- 1/2 lime, cut into quarters
-- 8-10 fresh mint leaves
-- 1/2 oz. simple syrup (sugar water)
-- 4 oz. club soda
-- Crushed ice
+## Havana roots and a few Mojito stories
 
-To make the drink, start by muddling the lime and mint leaves in a glass until the lime juice has been extracted and the aroma of mint is released. Add the simple syrup and mix it with the muddled lime and mint. Next, add crushed ice to fill the glass, leaving enough room for the club soda. Finally, top off the glass with club soda and give the drink a good stir. Garnish the drink with a sprig of fresh mint and a lime wedge, and enjoy your refreshing and tangy "Nojito."
+The Mojito is strongly associated with Cuba, especially Havana, though its exact origin is not fully certain. The most credible story places it as an evolution of earlier rum, lime, sugar, and herb mixtures that became more refined as rum production improved. It is often linked with La Bodeguita del Medio and with Ernest Hemingway, though some of the popular claims around both are likely exaggerated.
 
-## Mojito fun facts
+## A no-proof Mojito version
 
-1. Mojito is believed to have originated in Havana, Cuba, in the late 19th century.
-2. The traditional ingredients of a mojito include white rum, sugar, lime juice, soda water, and fresh mint leaves.
-3. The name "mojito" comes from the African word "mojo" which means "to place a little spell."
-4. Ernest Hemingway was known for enjoying mojitos at the famous La Bodeguita del Medio bar in Havana.
-5. In 2016, a giant mojito measuring over 6 feet tall was created in the Dominican Republic, earning the Guinness World Record for the largest mojito ever made.
+For a spirit-free take, skip the rum and build the drink the same way with extra soda water. For a fuller flavor, add a splash of non-alcoholic white rum alternative if available. Keep the mint, lime, and sugar balance the same, and serve it very cold for the closest Mojito character.

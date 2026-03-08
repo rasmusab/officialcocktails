@@ -23,31 +23,27 @@ Muddle fresh ginger in a shaker and add the remaining ingredients, except for th
 
 ![](/cocktail-images/penicillin.jpeg)
 
+## Building a Penicillin over ice
 
-## Directions for how to make the Penicillin
+1. Add the fresh ginger slices to the bottom of a shaker and muddle firmly to release the juice and spicy oils. You want the ginger broken up and fragrant, but not pounded into a fine pulp.
+2. Pour in the blended Scotch, lemon juice, and honey syrup. If your honey syrup is very thick, give it a quick stir first so it mixes evenly when shaken.
+3. Fill the shaker well with ice and shake hard for about 10 to 12 seconds. The goal is a cold, lively drink with enough dilution to soften the ginger and lemon.
+4. Fill a chilled old fashioned glass with fresh ice. Large cubes work especially well, since they keep the drink cold without watering it down too quickly.
+5. Double-strain the shaken mixture into the glass to catch ginger fibers and small ice shards. This keeps the texture smooth and polished.
+6. Carefully float the smoky single malt on top by pouring it slowly over the back of a bar spoon. That aromatic layer is a signature part of the drink, so serve immediately.
 
-1. Muddle fresh ginger in a shaker.
-2. Add the blended Scotch whisky, fresh lemon juice, and honey syrup to the shaker.
-3. Fill the shaker with ice.
-4. Shake the contents of the shaker.
-5. Double-strain the cocktail into a chilled old fashioned glass with ice.
-6. Float the Lagavulin whisky on top of the cocktail.
+## What the Penicillin tastes like
 
-## Tips for how to make the perfect Penicillin
+The Penicillin is bright, smoky, warming, and slightly sweet. Lemon gives it a sharp opening, honey rounds the edges, and fresh ginger adds both heat and freshness. The final float of peaty whisky creates a smoky nose that hits first, so each sip starts with campfire-like aroma before the softer honey-citrus body comes through.
 
-- Use fresh ginger: Grate and muddle fresh ginger for the best flavor in your Penicillin. Avoid using ginger powder or pre-made ginger syrup.
-- Shake with ice: Vigorously shake your ingredients with ice until the shaker is frosted. This will help combine ingredients and give your cocktail a smooth texture.
-- Float the float: When adding the Islay Scotch float, carefully pour it on top of the cocktail using the back of a spoon. This will help it gently rest on top for a beautiful presentation. 
-- Garnish with a lemon twist: Cut a small piece of lemon peel and twist it over the top of the drink to release the oils. Rub the peel around the rim and then drop it into the glass. This will add a bright citrus aroma and flavor to the cocktail.
+## Why the float matters
 
-## Alcohol-free alternative to the Penicillin
+This drink is best when the peated whisky stays distinct rather than fully mixed in. A gentle float lets the smoky aroma lead while the blended Scotch forms the base underneath. If you prefer a more integrated profile, you can stir the top lightly after pouring, but the classic presentation is layered.
 
-An alcohol-free alternative to the drink Penicillin could be a blend of fresh ginger juice, honey syrup, and fresh lemon juice topped with soda water. This mocktail would have a zesty ginger flavor with a sweet and sour kick from the honey and lemon. The soda water would add a sparkling touch that mimics the effervescence of the cocktail. To add a smoky element similar to the scotch used in the Penicillin, a dash of liquid smoke could be added to the mix. This non-alcoholic version would be a refreshing and healthy option that still satisfies the taste buds.
+## Modern classic backstory
 
-## Penicillin fun facts
+The Penicillin is widely credited to bartender Sam Ross in the mid-2000s at Milk & Honey in New York. It is often described as one of the defining modern classics of the early 21st-century cocktail revival. While small variations exist, the combination of Scotch, honey, lemon, ginger, and a peaty float is the version most closely associated with the original.
 
-1. Penicillin is a whisky-based cocktail that was created by Sam Ross in 2005 at the Milk & Honey bar in New York City. 
-2. The name "Penicillin" was inspired by the antibiotic drug of the same name, which was discovered by Alexander Fleming in 1928.
-3. The cocktail is made with two types of Scotch whisky, lemon juice, honey-ginger syrup and a float of smoky Islay single malt whisky.
-4. Penicillin has been named one of the "Most Influential Cocktails of the Past Century" by Tales of the Cocktail, a prestigious cocktail festival and conference.
-5. Penicillin has spawned numerous variations and spin-offs, including the Mezcal Penicillin (which substitutes mezcal for Scotch) and the Bourbon Renewal (which substitutes bourbon for Scotch and uses crème de cassis instead of honey-ginger syrup).
+## Easy alcohol-free riff
+
+For a zero-proof version, shake lemon juice, honey syrup, and muddled ginger with ice, then strain over fresh ice and top with a small amount of strongly brewed lapsang souchong tea or a non-alcoholic smoky spirit alternative. It keeps the drink’s signature mix of citrus, spice, sweetness, and smoke without the whisky.

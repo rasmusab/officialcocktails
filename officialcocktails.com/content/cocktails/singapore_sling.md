@@ -26,35 +26,25 @@ Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. S
 
 ![](/cocktail-images/singapore_sling.jpeg)
 
+## How to mix a balanced Singapore Sling
 
-## Directions for how to make the Singapore sling
+1. Fill a cocktail shaker generously with cold ice so the long shake chills and dilutes the drink evenly.
+2. Add the gin first, then the supporting liqueurs and herbal components, followed by the citrus, pineapple juice, grenadine, and a dash of bitters. Building it this way makes it easier to measure accurately and keeps the sweeter ingredients from sticking at the bottom.
+3. Shake hard for about 12 to 15 seconds. Because pineapple juice adds texture and foam, a confident shake helps create the Sling’s signature frothy top and fully integrates the dense fruit juices with the spirits.
+4. Strain into a well-chilled hurricane glass without ice. A fine strain is optional, but it gives a smoother finish if you want a cleaner presentation.
+5. Check the balance before serving if you can: the drink should land bright and fruity first, then finish with spice, herbs, and a light bitter edge rather than tasting candy-sweet.
+6. Garnish if desired with a pineapple wedge, cherry, or a slim lime wheel to echo the tropical aroma without overpowering the glass.
 
-1. Fill a cocktail shaker with ice cubes
-2. Add 30 ml gin, 15 ml cherry liqueur, 7.5 ml Cointreau, 7.5 ml DOM Bénédictine, 120 ml fresh pineapple juice, 15 ml fresh lime juice, 10 ml grenadine, and 1 dash Angostura bitters
-3. Shake the cocktail shaker well
-4. Strain the mixture into a Hurricane glass
-5. Serve the Singapore sling chilled and enjoy!
+## What the Singapore Sling tastes like
 
-## Tips for how to make the perfect Singapore sling
+This is a fruit-forward classic with more depth than its pink color suggests. Pineapple gives body and softness, lime keeps it lively, and the cherry and orange notes round out the middle. Underneath, the herbal richness and bitters stop it from becoming one-dimensional. Served straight up, it drinks cooler, silkier, and a bit more elegant than many tiki-adjacent cocktails.
 
-- Use fresh ingredients: The perfect Singapore sling should include fresh lime juice, pineapple juice, and cherry brandy. Avoid using canned juices or artificial syrups for a more authentic taste.
-- Experiment with the ratio: While there is a traditional recipe for the Singapore sling, feel free to experiment with the ratio of ingredients to suit your personal taste. Try adjusting the amount of gin or adding a dash of bitters for a unique twist on the classic drink.
+## Getting the hurricane glass right
 
-## Alcohol-free alternative to the Singapore sling
+A chilled hurricane glass suits the drink’s aromatic, juicy style and shows off its foamy head well. Since it is served without ice, temperature matters: chill the glass in advance so the cocktail stays brisk longer. If your version tastes too sweet, use slightly less grenadine or a touch more lime next time; if it feels too tart, a little extra pineapple usually brings it back into line.
 
-One alcohol-free alternative for Singapore sling could be a mocktail that is made with lemon juice, pineapple juice, grenadine syrup, and club soda. Ingredients and their respective quantities to make this drink are:
+## Raffles lore and a booze-free Sling
 
-- ¾ oz lemon juice
-- ¾ oz pineapple juice
-- ½ oz grenadine syrup
-- 3 oz club soda
+The Singapore Sling is most often linked to the Long Bar at Raffles Hotel in Singapore, usually in the early 20th century and commonly attributed to bartender Ngiam Tong Boon. Exact original specs are debated, and many modern recipes are later interpretations, but the Raffles connection is the most widely accepted origin story.
 
-To make the drink, take a cocktail shaker, add lemon juice, pineapple juice, and grenadine syrup. Fill the shaker with ice and shake well. Strain the drink into a tall glass filled with ice and top the drink with club soda. You can garnish the drink with a slice of pineapple or a cherry for added flavor and aesthetics. This drink is a vibrant and flavorful alternative to the quintessential cocktail Singapore sling.
-
-## Singapore sling fun facts
-
-1. The Singapore Sling was created in the early 1900s by a bartender at the Raffles Hotel in Singapore.
-2. The original recipe was lost over time, and the current recipe is an approximation.
-3. It is said that the drink was created to look and taste like fruit juice so that ladies could drink it in public without being judged.
-4. The average Singapore Sling contains gin, cherry liqueur, triple sec, Bénédictine, pineapple juice, lime juice, and grenadine.
-5. The drink gained popularity in the 1920s and 1930s and became heavily associated with the Golden Age of Travel.
+For a non-alcoholic version, combine chilled pineapple juice, fresh lime, a small splash of orange syrup or non-alcoholic triple sec alternative, cherry syrup, a few drops of herbal bitters-style non-alcoholic aromatic mixer, and soda for lift. Shake the juices first, then strain and top lightly for a Sling-inspired refresher.

@@ -23,32 +23,27 @@ Shake everything but ginger beer with ice, pour unstrained into glass, top with 
 
 ![](/cocktail-images/suffering_bastard.jpeg)
 
+## Building a proper Suffering Bastard
 
-## Directions for how to make the Suffering bastard
+1. Fill a Collins glass about three-quarters full with fresh ice so the drink stays long, cold, and lively.
+2. In a shaker, combine the gin, brandy, lime juice, and Angostura bitters with ice. Shake hard for about 10 to 12 seconds to chill thoroughly and wake up the citrus and spice.
+3. Pour the entire shaker contents into the prepared glass without straining. The small ice chips help give the drink its brisk, frosty character.
+4. Top with ginger beer, adding enough to lengthen the drink while keeping the spirits noticeable rather than buried.
+5. Give it one gentle stir from the bottom up so the ginger beer integrates without losing too much fizz.
+6. Garnish with a lime wedge, lime wheel, or a sprig of mint if you want a brighter nose before serving.
 
-1. Combine 30 ml gin, 30 ml brandy, 15 ml lime juice, and 2 dashes of Angostura bitters in a shaker.
-2. Add ice to the shaker.
-3. Shake the ingredients vigorously for several seconds.
-4. Pour the contents of the shaker unstrained into a Collins glass.
-5. Top up the glass with ginger beer.
-6. Garnish the drink with a lime wheel or wedge (optional).
-7. Serve and enjoy.
+## What it tastes like in the Collins glass
 
-## Tips for how to make the perfect Suffering bastard
+The Suffering Bastard lands somewhere between a buck, a highball, and a medicinal refresher. Gin brings botanical lift, brandy adds warmth and roundness, and lime keeps the middle sharp. The bitters deepen the drink with clove and spice, while ginger beer provides the snap that makes it feel especially thirst-quenching over ice. It should taste zesty, spicy, and brisk rather than sweet.
 
-- Use equal parts gin and brandy for the base of the drink.
-- Add lime juice, honey syrup, and Angostura bitters to balance out the flavors.
-- Serve in a tall glass with ice and top with ginger beer for a refreshing kick.
-- Garnish with a lime wedge and a sprig of mint for a beautiful finishing touch.
+## How to serve it at its best
 
-## Alcohol-free alternative to the Suffering bastard
+Use a punchy, spicy ginger beer if you want the drink to feel drier and more assertive. A milder ginger beer makes it softer and easier going, but can flatten its personality. Because it is served on the rocks, fresh ice matters: old or wet ice will dilute it fast. This works particularly well in hot weather or as a palate-resetting early-evening drink.
 
-One alcohol-free alternative to Suffering Bastard could be to use ginger ale, lime juice, pineapple juice and a dash of bitters. Ginger ale can provide the perfect balance of flavor by bringing fizziness and sweetness. Lime juice adds a tartness which works well with pineapple juice which provides some sweetness. Bitters add a bit of complexity and depth to the drink. The resulting non-alcoholic version of the Suffering Bastard is refreshing, fruity and spicy, and could be garnished with fresh mint leaves or a slice of lime to complete the inviting look.
+## Cairo roots and the story behind the name
 
-## Suffering bastard fun facts
+The most widely repeated origin story places the Suffering Bastard in Cairo during World War II, where bartender Joe Scialom is said to have created it at Shepheard’s Hotel. It was reportedly intended as a reviver for tired, overindulged soldiers. Exact details vary depending on the source, but the wartime Cairo connection is the most credible version and has become central to the drink’s legend.
 
-1. Suffering Bastard was first created by a bartender named Joe Scialom in Cairo, Egypt during World War II.
-2. The drink was originally concocted as a hangover cure for British officers stationed in North Africa.
-3. Suffering Bastard is made with equal parts bourbon and gin, as well as lime juice, ginger beer, and Angostura bitters.
-4. The drink's name is said to have been inspired by the hangovers suffered by its original drinkers.
-5. Suffering Bastard became popular in the 1940s and 1950s as a tiki drink, and was frequently served in tropical-themed bars and restaurants.
+## A booze-free bastard
+
+For a non-alcoholic version, use juniper-forward zero-proof spirit and a brandy-style alcohol-free alternative, then build with fresh lime, a couple dashes of aromatic bitters if acceptable, and spicy ginger beer. If fully alcohol-free bitters are preferred, skip them and add a tiny pinch of allspice or clove syrup for similar warmth.

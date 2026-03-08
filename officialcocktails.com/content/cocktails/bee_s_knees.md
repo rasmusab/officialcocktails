@@ -22,31 +22,27 @@ Combine gin, honey syrup and lemon juice into a mixing tin. Shake. Strain into c
 
 ![](/cocktail-images/bee_s_knees.jpeg)
 
+## Shaking a Bee’s Knees the right way
 
-## Directions for how to make the Bee's knees
+1. Chill a cocktail glass first so the drink stays brisk and silky from the first sip to the last. A few minutes in the freezer works well, or fill it with ice water while you prep.
+2. Add your gin, fresh lemon juice, and honey syrup to a shaker tin. If your honey syrup has been sitting awhile, give it a quick stir first so it pours evenly and blends smoothly.
+3. Fill the shaker generously with ice. Shake hard for about 10 to 15 seconds, until the tin feels very cold in your hands. This both chills the drink and gives it the right light texture.
+4. Empty the chilling ice water from the glass, if using. Double strain the cocktail into the chilled glass for a cleaner, more polished finish without tiny ice shards or pulp.
+5. Express a strip of lemon peel over the surface by bending it gently skin-side down to release the oils, then either drop it in or rest it neatly on the rim.
+6. Serve immediately, straight up and ice-free, while the balance of citrus, botanicals, and honey is at its brightest.
 
-1. Combine 2 oz of gin, 1 oz of honey syrup and 1 oz of lemon juice into a mixing tin.
-2. Shake the mixture well to combine the ingredients.
-3. Fill a cocktail glass with ice to cool it down.
-4. Strain the mixture into the chilled cocktail glass.
-5. Garnish with a lemon peel to add an extra touch of flavor and aesthetic appeal. 
-6. Serve and enjoy your delicious Bee's Knees drink.
+## Why the Bee’s Knees tastes so appealing
 
-## Tips for how to make the perfect Bee's knees
+This drink is a simple sour, but the honey gives it a softer, rounder sweetness than plain sugar syrup. The lemon keeps it lively and bright, while the gin brings herbal, floral, or juniper-forward notes depending on the bottle you choose. If it tastes too sharp, use a slightly richer honey syrup; if it feels too sweet, a touch more lemon usually fixes it.
 
-- Use fresh lemon juice for a tart and zesty taste
-- Use local honey to provide a unique and floral sweetness
-- Shake with ice to create a frothy texture
-- Garnish with a lemon twist for an extra touch of citrus flavor
+## Pro tips for a cleaner, brighter cocktail
 
-## Alcohol-free alternative to the Bee's knees
+A London dry gin makes a more crisp and classic version, while a softer contemporary gin can turn it more floral and delicate. Fresh lemon juice matters here more than almost anything else. For honey syrup, a 1:1 mix of honey and warm water is common and easy to shake into the drink without clumping.
 
-An alcohol-free alternative to the Bee's Knees cocktail could be a mocktail made with honey, lemon juice, and tonic water. To make the mocktail, simply mix 2 ounces of honey syrup (equal parts honey and water) and 1 1/2 ounces of fresh lemon juice in a shaker with ice. Shake well and strain into a glass filled with ice. Top with tonic water and garnish with a lemon wheel. You can also add a dash of bitters to add some complexity to the drink. This mocktail is refreshing, tangy, and slightly sweet – a perfect alternative to a classic Bee's Knees cocktail.
+## Prohibition-era roots and a bit of uncertainty
 
-## Bee's knees fun facts
+The Bee’s Knees is generally linked to the Prohibition era in the 1920s. It is often said that honey and lemon helped cover the rough edges of bathtub gin, though that origin story is hard to prove completely. The name comes from a popular slang phrase of the time meaning “the best,” which helped cement its Jazz Age charm.
 
-1. Bee's knees is a cocktail that originated in the prohibition era, when people added honey and lemon to their gin to mask the taste of poor quality alcohol.
-2. The name "Bee's Knees" was a popular slang phrase in the 1920s which meant "the best" or "the height of excellence".
-3. Some variations of the Bee's Knees include adding orange juice or substituting the gin with bourbon or rum.
-4. The drink was featured in the popular television series, Mad Men, where it was ordered by the character Roger Sterling.
-5. The Bee's Knees is commonly garnished with a lemon twist or a sprig of fresh rosemary for added flavor.
+## A booze-free honey-lemon riff
+
+For a non-alcoholic version, shake honey syrup and lemon juice with a splash of chilled water plus a small amount of non-alcoholic gin alternative. If you do not have one, use cold brewed juniper tea or a few drops of juniper and citrus bitters-style non-alcoholic flavoring. Serve it up in the same glass with a lemon twist for a convincing nod to the original.

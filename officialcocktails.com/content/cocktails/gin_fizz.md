@@ -22,45 +22,29 @@ Shake all ingredients with ice cubes, except soda water. Pour into glass. Top wi
 
 ![](/cocktail-images/gin_fizz.jpeg)
 
+## Building a bright, foamy Gin Fizz
 
-## Directions for how to make the Gin fizz
+1. Fill a shaker with ice, then add the gin, freshly squeezed lemon juice, and simple syrup. Fresh citrus matters here: bottled juice makes the drink flatter and harsher.
+2. Shake hard for about 10 to 15 seconds until the tin feels very cold. The goal is not just chilling, but also giving the lemon and sugar enough agitation to create the fizz’s lightly frothy texture.
+3. Strain into a chilled old fashioned glass. A fine strain helps keep out small ice shards and lemon pulp, giving the drink a cleaner finish.
+4. Add a small splash of soda water on top. Pour gently so you keep the lift and don’t knock out the bubbles right away.
+5. Give it only the lightest stir, if any. The best version keeps the sparkling top lively while the base stays silky and tart.
+6. Serve immediately while the foam is still fresh and the carbonation is at its brightest.
 
-Steps to make a Gin fizz drink:
+## What the Gin Fizz tastes like
 
-1. Fill a shaker with ice cubes.
-2. Pour 4.5 cl gin into the shaker.
-3. Add 3 cl fresh lemon juice to the shaker.
-4. Pour 1 cl simple syrup into the shaker.
-5. Shake all ingredients in the shaker together.
-6. Add a splash of soda water to the shaker and give a light shake to combine.
-7. Pour the mix into an Old fashioned glass.
-8. Add more ice cubes if needed.
-9. Top the drink with a splash of soda water.
-10. Optionally, garnish the drink with lemon slices or mint leaves.
-11. Serve immediately and enjoy your freshly made Gin fizz drink!
+A Gin Fizz drinks like a sharper, lighter cousin of the Tom Collins. It is citrus-forward, crisp, and dry-leaning, with just enough sweetness to soften the lemon’s edge. The gin’s botanicals come through clearly, especially if you choose a classic London Dry, but the soda keeps everything airy rather than heavy.
 
-## Tips for how to make the perfect Gin fizz
+Because it is served straight up and not over ice, balance is especially important: too much syrup makes it limp, too little makes it aggressively sour.
 
-- Use a good quality gin and fresh ingredients. Freshly squeezed lemon juice is essential for that perfect tartness.
+## Why this classic still matters
 
-- Do not shake the carbonated water with other ingredients as it can cause the drink to become flat. Instead, stir it in before serving.
+The Gin Fizz is one of the old sours that helped define classic bar structure: spirit, citrus, sugar, and dilution. It became especially popular in the late 19th and early 20th centuries, when “fizzes” were a recognized family of drinks in American bartending.
 
-- If you want your gin fizz to have a smooth texture, add an egg white to your cocktail shaker before shaking.
+Its exact first origin is hard to pin down, but the most credible story is simply that it evolved from the broader sour tradition as bartenders began adding sparkling water for lift and refreshment.
 
-- Use plenty of ice to create a refreshing and chilled cocktail. 
+## Small tweaks and a no-proof version
 
-- Before pouring the gin fizz into the glass, measure it against a jigger to ensure that you have the right proportions.
+For a softer, more floral version, try a gentler gin with pronounced citrus or lavender notes. If you want more texture, an egg white turns it into a richer silver fizz style.
 
-- Garnish with a lemon twist or a slice of lemon for a decorative and zesty finish.
-
-## Alcohol-free alternative to the Gin fizz
-
-One of the most refreshing and delicious alcohol-free alternative to the drink Gin fizz is the Virgin Mojito. It is made with fresh lime juice, mint leaves, and a sweetener like sugar syrup or agave nectar, filled with soda water or sparkling water. The combination of fresh ingredients and sparkling water gives this drink a light, fizzy texture just like gin fizz. The lime juice adds a tangy, citrusy flavor to the drink, while the mint leaves offer a cooling and refreshing sensation. It is perfect for hot summer days as it contains no alcohol and can be enjoyed by everyone, any time of the day.
-
-## Gin fizz fun facts
-
-1. The Gin fizz was invented in New Orleans in the late 19th century and was originally known as the "New Orleans fizz."
-2. The drink became popular among troops stationed in the American South during World War II, leading to a surge in its popularity across the country.
-3. The frothy texture of the Gin fizz is achieved by vigorously shaking the gin, lemon juice, sugar, and soda water together with ice.
-4. The Gin fizz was a favorite drink of author F. Scott Fitzgerald, who famously included it in his novel "The Great Gatsby."
-5. A Ramos Gin Fizz is a variation on the Gin fizz that includes cream, egg whites, orange flower water, and vanilla extract, and is shaken for an even longer time to create an even frothier texture.
+For a non-alcoholic riff, use a zero-proof gin alternative or a mix of juniper tea and a few drops of tonic concentrate, then shake with lemon and syrup and finish with soda. You still get the bright, zippy character that makes the drink so appealing.

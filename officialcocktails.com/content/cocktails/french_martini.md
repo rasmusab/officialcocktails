@@ -21,47 +21,25 @@ Pour all ingredients into shaker with ice cubes. Shake well and strain into a ch
 
 ![](/cocktail-images/french_martini.jpeg)
 
+## How to mix a French Martini
 
-## Directions for how to make the French martini
+1. Chill a cocktail glass first so the drink stays cold and silky after pouring. A few minutes in the freezer works well, or fill the glass with ice water while you prepare the cocktail.
+2. Add vodka, raspberry liqueur, and fresh pineapple juice to a shaker filled with solid ice cubes. Fresh juice is especially helpful here because it gives the drink its signature light foam and brighter fruit character.
+3. Shake hard for about 12 to 15 seconds. The goal is not just to chill the drink, but to aerate the pineapple juice enough to create a smooth, creamy-looking top.
+4. Empty the chilling ice or water from the glass, then fine strain the cocktail into the cold glass to keep out small ice shards and pineapple pulp.
+5. Express a strip of lemon peel over the surface by pinching it gently so the citrus oils mist across the top. This adds a subtle lift that keeps the drink from feeling overly sweet.
+6. Drop the peel in or discard it, depending on the presentation you want, and serve immediately while the frothy head is still fresh.
 
-1. Add ice cubes to a cocktail shaker
-2. Pour 4.5 cl vodka, 1.5 cl Chambord Raspberry Liqueur, and 1.5 cl fresh pineapple juice into the shaker
-3. Shake the shaker vigorously to mix the ingredients well
-4. Strain the mixture into a chilled Cocktail glass
-5. Take a lemon peel and express the oils over the drink by squeezing the peel. 
-6. Garnish with a slice of pineapple or a cocktail cherry on a skewer, if desired
-7. Serve and enjoy the classic French martini drink.
+## What the French Martini tastes like
 
-## Tips for how to make the perfect French martini
+The French Martini is soft, fruity, and polished, with vodka providing a clean base, black raspberry notes bringing richness, and pineapple adding tropical sweetness and texture. Despite the name, it is not a classic dry martini relative at all. It is sweeter and more approachable, with a plush mouthfeel and a lightly tart finish if made with fresh juice and a touch of lemon oil.
 
-- Chill the martini glass by filling it with ice cubes and some water beforehand, and then emptying it right before pouring in the drink.
-- Use high-quality ingredients, such as a good-quality vodka, Chambord raspberry liqueur, and freshly squeezed pineapple juice, to get a well-rounded flavor profile. 
-- Shake the ingredients together vigorously with ice cubes to blend them well and create a frothy texture, then strain the drink into the chilled martini glass for a sophisticated presentation. 
-- Garnish the drink with a twist of lemon or a couple of fresh raspberries to add a pop of color and an extra burst of flavor.
+## Why the lemon peel matters
 
-## Alcohol-free alternative to the French martini
+That final citrus expression is easy to skip, but it changes the balance more than many people expect. The aroma sharpens the nose, adds freshness, and helps frame the berry and pineapple flavors. Serve it very cold and straight up in a cocktail glass, ideally as an early-evening cocktail or a dessert-adjacent drink that does not feel too heavy.
 
-A mocktail that could be an alcohol-free alternative to the French Martini would be the Raspberry Lemonade Mocktail. It's a refreshing blend of sweet and tangy flavors that's perfect for any occasion.
+## A little history and a simple alcohol-free riff
 
-Ingredients:
-- 2 cups raspberry lemonade
-- 1/4 cup fresh raspberry puree
-- 1/4 cup freshly squeezed lemon juice
-- 1/4 cup simple syrup
-- 1 cup ice cubes
-- Raspberry and lemon wedges for garnish
+The French Martini is generally linked to the cocktail revival of the 1980s and 1990s, especially in New York. Exact origin details are a bit murky, but it is widely associated with bartender Keith McNally’s bar scene and the era’s taste for modern, fruit-forward martinis. The “French” part of the name is usually credited to the French raspberry liqueur that defines its character.
 
-Directions:
-
-1. In a blender, add raspberry lemonade, raspberry puree, lemon juice, simple syrup, and ice cubes. Blend well until smooth.
-2. Chill the mixture in a refrigerator for at least 10 minutes.
-3. Add ice cubes to a serving glass, pour in the raspberry lemonade mixture, and garnish with a raspberry and lemon wedge.
-4. Serve and Enjoy!
-
-## French martini fun facts
-
-1. Despite its name, the French martini was actually invented in New York City in the 1980s.
-2. It is made with vodka, pineapple juice, and Chambord, a raspberry liqueur.
-3. The original recipe for the French martini did not include Chambord, and instead used framboise, a raspberry brandy.
-4. Some versions of the French martini include a splash of lemon juice for added tartness.
-5. The French martini is often garnished with a slice of pineapple or a lemon twist.
+For a non-alcoholic version, shake chilled pineapple juice with raspberry syrup, a small splash of non-alcoholic botanical spirit or water, and a few drops of lemon juice. Strain into a chilled glass and express lemon peel over the top for a similar aromatic finish.

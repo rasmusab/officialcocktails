@@ -21,37 +21,27 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 
 ![](/cocktail-images/boulevardier.jpeg)
 
+## Mixing a Boulevardier with balance and chill
 
-## Directions for how to make the Boulevardier
+1. Place a cocktail glass in the freezer for a few minutes, or fill it with ice water while you mix, so the finished drink stays properly cold.
+2. Add whiskey, Campari, and sweet vermouth to a mixing glass filled generously with fresh ice. A bourbon version leans rounder and softer; rye gives a drier, spicier edge.
+3. Stir steadily for about 20 to 30 seconds. You want the mixture very cold and slightly diluted, which helps knit together the spirit, bitterness, and vermouth sweetness.
+4. Taste a drop with a bar spoon if you like. If it feels too hot or sharp, give it a few more stirs rather than adding more ingredients.
+5. Empty the chilling ice from the serving glass if needed, then strain the drink into the cold cocktail glass.
+6. Garnish, if desired, with an orange twist expressed over the surface to add bright citrus oils without changing the drink’s core character.
 
-1. Pour 45 ml of bourbon or rye whiskey into a mixing glass filled with ice cubes.
-2. Add 30 ml of bitter Campari to the mixing glass.
-3. Add 30 ml of sweet red vermouth to the mixing glass.
-4. Stir the mixture well using a mixing spoon until the ingredients are completely blended and the mixture is chilled.
-5. Strain the mixture into a chilled cocktail glass.
-6. Enjoy your Boulevardier!
+## What the Boulevardier tastes like
 
-## Tips for how to make the perfect Boulevardier
+The Boulevardier is often described as a whiskey Negroni, but it has its own personality. It is rich, bittersweet, and silky, with dark fruit and herbal notes from the vermouth and a firm orange-red bitterness from Campari. Bourbon brings caramel and vanilla; rye shifts the drink toward spice, structure, and a slightly leaner finish.
 
-- Use high-quality ingredients: A Boulevardier is made with equal parts bourbon or rye whiskey, sweet vermouth, and Campari. To make the perfect Boulevardier, use top-shelf bourbon or rye whiskey, a high-quality sweet vermouth, and a fresh bottle of Campari.
-- Stir it well: The Boulevardier is a stirred drink, not a shaken one, so it's important to stir it well. Add ice to a mixing glass, then pour in the bourbon, sweet vermouth, and Campari. Use a bar spoon to stir the ingredients for 20-30 seconds until well combined and chilled.
-- Garnish with a twist: The final touch to a perfect Boulevardier is a twist of orange peel. Hold a piece of orange peel in one hand and a lighter in the other, then hold the peel over the drink and use the flame to gently warm the peel for a few seconds. Twist the peel over the drink to release its oils, then drop it in as a garnish.
+## Best way to serve it
 
-## Alcohol-free alternative to the Boulevardier
+Serve it straight up and very cold. Because there is no ice in the glass, temperature matters more than people think: a warm glass makes the drink feel heavier and sweeter. This is an excellent pre-dinner cocktail, but it also works after dinner for drinkers who enjoy bitter profiles. If you want a softer expression, choose a plush sweet vermouth and bourbon; for a more assertive one, go with rye and a more herbal vermouth.
 
-One possible alcohol-free alternative to a Boulevardier is a "Boulevardier mocktail." To make this drink, mix together:
+## A little history in the coupe
 
-- 1 oz. fresh-squeezed orange juice
-- 1 oz. non-alcoholic Campari substitute (such as Gnista)
-- 1 oz. non-alcoholic sweet vermouth (such as Lyre's)
-- Dash of bitters (optional)
+The Boulevardier dates to the 1920s and is most commonly linked to *Barflies and Cocktails*, a 1927 book by Harry McElhone of Harry’s New York Bar in Paris. It is usually associated with Erskine Gwynne, an American writer in Paris who published a magazine called *Boulevardier*. Exact origin details are not perfectly documented, but that connection is the most widely accepted.
 
-Stir together with ice and strain into a rocks glass over fresh ice. Garnish with an orange twist or cherry, if desired. This drink has a similar bitter-sweet flavor profile to the original Boulevardier, but without the alcohol content.
+## A no-proof Boulevardier-style riff
 
-## Boulevardier fun facts
-
-1. The Boulevardier is a classic whiskey cocktail that originated in Paris during the 1920s.
-2. It is a variation of the Negroni cocktail but instead of gin, it uses whiskey or bourbon as the base spirit.
-3. The name Boulevardier comes from the French word "boulevard," which refers to the wide, tree-lined avenues that are common in Paris.
-4. The Boulevardier was a popular drink among American expats in Paris during the 1920s and 1930s, including famous writers such as Ernest Hemingway and F. Scott Fitzgerald.
-5. The Boulevardier has enjoyed a resurgence in popularity in recent years with the rise of the craft cocktail movement.
+For a non-alcoholic version, stir together a zero-proof whiskey alternative, a bitter Italian-style aperitif substitute, and a non-alcoholic sweet vermouth-style aperitif over ice, then strain into a chilled glass. Keep the same proportions and finish with an orange twist. The result will not be identical, but it can still deliver the drink’s signature bittersweet, citrus-herbal shape.

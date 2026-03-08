@@ -27,56 +27,30 @@ All ingredients except the soda are poured in a mixing glass, dry shaken (no ice
 
 ![](/cocktail-images/ramos_fizz.jpeg)
 
+## Building a proper Ramos fizz
 
-## Directions for how to make the Ramos fizz
+1. Chill a Collins or other tall glass well before you start. This drink depends on staying cold and holding a tall, creamy head.
+2. Add the gin, fresh citrus juices, simple syrup, cream, egg white, orange flower water, and vanilla to a shaker or mixing tin. Start with a **dry shake** without ice for about 2 minutes to fully emulsify the cream and egg white.
+3. Add plenty of ice and shake again, hard, for about 1 minute. The goal is a dense, silky texture rather than a quick chill alone.
+4. Strain into the chilled glass with **no ice**. Leave a little room at the top.
+5. Top carefully with soda water. The fizz should lift the foam upward into a smooth, cloudlike crown.
+6. Let it settle for a moment before serving. If the head rises too quickly, pause the soda; if it sits low, add a touch more.
+7. Serve immediately, ideally without a straw, so the first sip catches both the airy foam and the bright citrus beneath.
 
-1. Combine gin, fresh lime juice, fresh lemon juice, simple syrup, cream, egg white, orange flower water, and vanilla extract in a mixing glass. 
-2. Dry shake the ingredients (without ice) for 2 minutes. 
-3. Add ice to the mixing glass and shake hard for another 1 minute. 
-4. Strain the mixture into a Collins glass without ice. 
-5. Top the drink with soda water. 
-6. Serve and enjoy your delicious Ramos fizz!
+## What the Ramos fizz tastes like
 
-## Tips for how to make the perfect Ramos fizz
+This is one of the creamiest classics in the canon, but it should still feel light. Gin brings structure, the lemon and lime keep it bright, and the orange flower water gives it that unmistakable floral signature. Vanilla rounds the edges, while the soda turns the whole drink into something almost weightless.
 
-- Shake the ingredients vigorously for at least 12 minutes to achieve the signature frothy texture 
-- Use fresh ingredients such as lemon juice and egg whites to enhance the flavor and texture of the drink 
-- Use ice to chill the drink while shaking to prevent the mixture from getting too warm and losing its frothiness 
-- Add a splash of orange blossom water to give the drink a floral aroma and flavor 
-- Strain the mixture through a fine mesh strainer before serving to remove any small bits of ice or lemon pulp
+Done well, it tastes rich without being heavy, closer to a citrus cream cloud than a dessert drink.
 
-## Alcohol-free alternative to the Ramos fizz
+## New Orleans roots and the famous long shake
 
-An alcohol-free alternative to Ramos fizz can be made by combining a few simple ingredients. Here is the recipe:
+The Ramos fizz is most closely associated with New Orleans and is generally credited to Henry C. Ramos in the late 19th century. Some small details of its early evolution are debated, but that origin is the most widely accepted.
 
-Ingredients:
-- 1 oz. fresh lemon juice
-- 1 oz. fresh lime juice
-- 1 egg white
-- 1 tablespoon superfine sugar
-- 2 oz. cream
-- 2 oz. sparkling water
+Its legend comes from the shake. Stories from the city describe bartenders handing the shaker down the line because the drink demanded so much agitation. Whether every tale is fully true or slightly embellished, the reputation is deserved: this cocktail really does need serious shaking to achieve its signature texture.
 
-Instructions:
+## Getting the lift right, plus an easy alcohol-free riff
 
-1. Add the lemon and lime juice, egg white, and sugar to a cocktail shaker.
+Use very cold ingredients if possible, and don’t overdo the floral notes; just a few drops too many can make the drink taste soapy. A narrow, tall glass helps the foam stack higher and look more dramatic.
 
-2. Shake vigorously until the egg white becomes frothy.
-
-3. Add the cream and ice to the shaker and shake again until well combined.
-
-4. Strain the mixture into a tall glass filled with ice.
-
-5. Top with sparkling water and stir gently.
-
-6. Garnish with a lemon twist and serve immediately.
-
-This mocktail has a similar creamy texture and tangy flavor as the original Ramos fizz, but without the alcohol. It is a refreshing and satisfying drink that can be enjoyed anytime, anywhere.
-
-## Ramos fizz fun facts
-
-1. Ramos fizz was invented in 1888 by Henry C. Ramos at his bar in New Orleans.
-2. The original recipe requires shaking the cocktail for a full 12 minutes to achieve its signature frothy texture.
-3. The drink was so popular that during the peak of its popularity in the early 1900s, the Roosevelt Hotel in New Orleans had to employ an entire staff of bartenders just to keep up with demand.
-4. The Ramos fizz was famously enjoyed by writer Ernest Hemingway, who would drink up to a dozen in a single sitting.
-5. In 2019, a Guinness World Record was set for the largest Ramos fizz ever made, which weighed over 300 pounds and contained more than 1,000 eggs.
+For a non-alcoholic version, replace the gin with a botanical zero-proof spirit or a mix of chilled juniper tea and a splash of white grape juice. Keep the citrus, cream, egg white or aquafaba, floral water, vanilla, and soda. The result keeps the aroma and texture that make the Ramos fizz memorable.

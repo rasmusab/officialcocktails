@@ -22,31 +22,28 @@ Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice. Shake 
 
 ![](/cocktail-images/french_75.jpeg)
 
+## Shaking and finishing a French 75
 
-## Directions for how to make the French 75
+1. Chill a Champagne flute first so the drink stays crisp and lively from the first sip. A few minutes in the freezer works well, or fill the glass with ice water while you prep.
+2. Add the gin, fresh lemon juice, and simple syrup to a shaker filled with plenty of cold ice. Fresh citrus matters here; bottled juice will make the drink taste flatter and less bright.
+3. Shake hard for about 10 to 12 seconds until the mixture is well chilled and lightly aerated. You want it cold, but not overly diluted.
+4. Empty the flute if you used ice water, then fine strain the shaken mixture into the chilled glass. Fine straining helps keep the texture polished and free of small ice shards.
+5. Slowly top with well-chilled Champagne. Pouring gently helps preserve the bubbles and keeps the drink from foaming over.
+6. Give it one delicate stir—just enough to combine the sparkling wine with the citrus-gin base without knocking out too much carbonation.
+7. If you like, finish with a thin lemon twist for aroma. Serve immediately while the drink is still taut, bright, and effervescent.
 
-1. Combine gin, simple syrup, and lemon juice in a cocktail shaker.
-2. Fill the cocktail shaker with ice.
-3. Shake the ingredients vigorously for about 15 seconds.
-4. Strain the mixture into a chilled champagne flute.
-5. Top up the glass with Champagne.
-6. Stir the drink gently.
-7. Serve and enjoy the French 75 drink.
+## What it tastes like in the glass
 
-## Tips for how to make the perfect French 75
+The French 75 drinks like a sparkling gin sour: dry, citrusy, and brisk, with a sharp edge softened by sugar and lifted by Champagne. It feels more elegant than heavy, with a clean botanical backbone and a celebratory finish. Despite its light appearance, it can be deceptively strong.
 
-- **Use quality ingredients:** The French 75 is a classic cocktail that calls for only a few ingredients, so make sure you use the best quality gin, fresh lemons, and a good quality champagne or sparkling wine. 
-- **Shake well with ice:** To get the perfect balance of flavors, make sure to shake the gin, lemon juice, and simple syrup well with ice before straining into a champagne flute. 
-- **Top with champagne:** Finally, top the cocktail with chilled champagne or sparkling wine to give it that signature effervescence. Garnish with a lemon twist or zest for an extra touch of flavor.
+## Why the flute and temperature matter
 
-## Alcohol-free alternative to the French 75
+This cocktail is best very cold and served straight up. A flute helps concentrate the bubbles and keeps the sparkling wine feeling focused rather than loose. Use cold sparkling wine and a chilled glass; if either is warm, the drink loses its snap quickly.
 
-A non-alcoholic alternative to the French 75 cocktail could be a sparkling lemonade or a citrus mocktail. The bubbly texture of the sparkling beverage replaces the champagne in the original recipe, while the tangy citrus flavors mimic the tartness of the lemon juice. To create a citrus mocktail, combine fresh lemon juice and simple syrup with soda water in a tall glass filled with ice. Garnish with a lemon twist and a sprig of fresh mint for a refreshing and alcohol-free alternative to the French 75.
+## A brief story behind the name
 
-## French 75 fun facts
+The most widely repeated origin story links the drink to the French 75 field gun used in World War I, supposedly because the cocktail hit with similar force. Exact authorship is a bit murky, but the drink is strongly associated with early 20th-century bar culture in Paris, especially the Harry’s New York Bar orbit. However it began, it became one of the enduring Champagne cocktails of the classic canon.
 
-1. The French 75 is a potent cocktail made with gin, lemon juice, and champagne.
-2. The drink is believed to have been created during World War I and named after a French field gun.
-3. The French 75 is said to have been a favorite of author Ernest Hemingway.
-4. The cocktail was famously served at the Stork Club in New York during the 1930s and 40s.
-5. In the film Casablanca, Humphrey Bogart's character Rick Blaine orders a French 75.
+## A no-proof French 75-style riff
+
+For a non-alcoholic version, shake alcohol-free gin with lemon and syrup, then strain into a flute and top with chilled non-alcoholic sparkling wine or dry sparkling lemonade. Keep the sweetness restrained so it still feels sharp and refreshing rather than soft and soda-like.

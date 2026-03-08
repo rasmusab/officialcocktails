@@ -20,46 +20,27 @@ Add the crème de cassis to the bottom of the glass, then top up with wine.
 
 ![](/cocktail-images/kir.jpeg)
 
+## Building a Kir in the wine glass
 
-## Directions for how to make the Kir
+1. Chill a white wine glass first so the drink stays crisp from the first sip to the last. A colder glass also helps preserve the refreshing character of the wine.
+2. Measure the crème de cassis and pour it into the bottom of the glass. Starting with the liqueur creates the classic look and lets it slowly mingle with the wine.
+3. Gently add well-chilled dry white wine. Pour slowly to avoid knocking out too much aroma and to keep the texture elegant rather than fizzy or splashed.
+4. If you like a more integrated drink, give it one brief, delicate stir. If you prefer the traditional presentation, leave it unstirred and let the flavors combine naturally as you drink.
+5. Serve immediately, straight up and without ice. The Kir is at its best when cold, light, and clean, with no dilution.
+6. Adjust future pours to taste: a touch more cassis makes it rounder and fruitier, while a drier white keeps it sharper and more aperitif-like.
 
-1. Take a Wine glass (white).
-2. Measure and pour 1 cl (1 part) of crème de cassis into the bottom of the glass.
-3. Measure and pour 9 cl (9 parts) of white wine into the glass, filling it up to the top.
-4. Stir the mixture in the glass gently.
-5. Add ice if desired.
-6. Serve and enjoy!
+## What the Kir tastes like
 
-## Tips for how to make the perfect Kir
+Kir is a simple wine cocktail with a gently sweet, dark-berry accent layered over a dry white-wine base. The cassis adds blackcurrant richness, color, and a soft liqueur body, while the wine keeps the drink bright and lean. The result is low-effort but elegant: fruity, lightly tart, and very easy to sip before a meal.
 
-- Chill the wine and the crème de cassis before preparing the drink.
-- Use a 1:5 ratio of crème de cassis to wine for the perfect balance of sweetness and acidity.
-- Swirl the crème de cassis at the bottom of the glass before pouring the wine on top for a beautiful color gradient.
-- Garnish with a twist of lemon peel for an extra pop of flavor.
+## Choosing the wine and serving it well
 
-## Alcohol-free alternative to the Kir
+A dry, neutral-to-crisp white works best. Wines with fresh acidity help balance the sweetness of the blackcurrant liqueur, keeping the drink from feeling heavy. Serve it quite cold in a white wine glass, ideally alongside salty snacks, mild cheeses, or simple canapés. If your wine is already slightly aromatic or off-dry, use a lighter hand with the cassis.
 
-An alcohol-free alternative to the drink Kir is a mocktail called “Berry Fizz”. 
+## Burgundy roots and a famous name
 
-Ingredients: 
-- 1/2 cup mixed berries (such as strawberries, raspberries, and blueberries)
-- 1 tbsp honey
-- 1/2 lime, juiced
-- 1/2 cup sparkling water
-- Ice
+The Kir is most closely associated with Burgundy, France. It is widely linked to Félix Kir, a priest, Resistance member, and later mayor of Dijon, who helped popularize the drink in the mid-20th century. Exact origin details are a little murky, but this Burgundy connection is the most credible and commonly accepted account.
 
-Instructions:
-1. In a blender, blend mixed berries, honey, and lime juice until smooth.
-2. Strain the mixture into a glass filled with ice.
-3. Top with sparkling water and stir gently.
-4. Garnish with a lime wedge and a few fresh berries. 
+## A no-alcohol cassis spritz version
 
-Enjoy your refreshing and fruity non-alcoholic alternative to Kir!
-
-## Kir fun facts
-
-1. Kir is a French apéritif made by combining white wine with crème de cassis (blackcurrant liqueur).
-2. Kir was named after Félix Kir, a mayor of the Burgundy region in France, who popularized the drink in the 1940s.
-3. The classic ratio for Kir is four parts white wine to one part crème de cassis, but variations include using red wine instead of white or adding a splash of raspberry liqueur.
-4. In France, Kir is typically served before a meal as a palate cleanser and to stimulate the appetite.
-5. A variation of Kir, called Kir Royale, substitutes champagne for white wine, creating a more decadent and celebratory cocktail.
+For a non-alcoholic adaptation, use chilled alcohol-free white wine or a dry white grape sparkling drink with a small measure of blackcurrant syrup or alcohol-free cassis alternative. Keep the same build style in the glass and aim for balance rather than sweetness. The result won’t be identical, but it captures the Kir’s berry-and-white-wine feel surprisingly well.

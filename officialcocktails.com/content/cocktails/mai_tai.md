@@ -24,30 +24,27 @@ Add all ingredients into a shaker with ice. Shake and pour into a double rocks g
 
 ![](/cocktail-images/mai_tai.jpeg)
 
+## Building a Mai Tai over crushed ice
 
-## Directions for how to make the Mai Tai
+1. Chill an old fashioned glass, then fill a shaker with ice. If you have time, also pack the serving glass with crushed or shaved ice so the drink stays frosty longer.
+2. Add the two rums, orange liqueur, orgeat, fresh lime juice, and a small measure of simple syrup to the shaker. The goal is a balance of tart lime, nutty sweetness, and deep rum character.
+3. Shake hard for about 10 to 12 seconds. You want the drink well chilled, but not overly diluted, since it will continue to open up over crushed ice.
+4. Dump the ice from the serving glass if you pre-chilled it, then fill it with fresh crushed or shaved ice.
+5. Strain or open-pour the shaken drink into the glass. A slightly “dirty dump” with small shards of shaker ice works well here and gives a classic texture.
+6. Top with a little more crushed ice to form a mound. Garnish if you like with a spent lime shell, mint, or both, and serve immediately with a short straw.
 
-1. Fill a shaker with ice.
-2. Add 30 ml amber Jamaican rum, 30 ml Martinique molasses rhum, 15 ml orange curaçao, 15 ml orgeat syrup (almond), 30 ml fresh lime juice and 7.5 ml simple syrup to the shaker.
-3. Close the shaker and shake it well.
-4. Prepare an Old fashioned glass or a highball glass.
-5. Strain the Mai Tai mixture from the shaker into the glass.
-6. Garnish with a slice of lime and a sprig of mint (optional).
-7. Serve the drink and enjoy!
+## What the Mai Tai should taste like
 
-## Tips for how to make the perfect Mai Tai
+A proper Mai Tai is not a sugary tropical punch. It should be bright, dry-leaning, and layered: funky rum on the nose, sharp lime up front, orange depth through the middle, and a rounded almond finish from the orgeat. The mix of Jamaican rum and Martinique molasses rhum gives it both richness and lift.
 
-- Use fresh juices: The Mai Tai is all about balance, and fresh lime and orange juice are key to achieving that balance. Avoid using bottled juices that can add unwanted sweetness or acidity. Squeeze the juice yourself or use a high-quality store-bought brand.
-- Use high-quality rum: The Mai Tai relies heavily on rum, so it’s important to use a good quality one. Aged rums with caramel and vanilla notes work particularly well. Avoid using spiced or flavored rums as they can overpower the other ingredients.
+If it tastes flat, it usually needs more lime or colder ice. If it feels too sharp, a touch more syrup or orgeat can soften the edges.
 
-## Alcohol-free alternative to the Mai Tai
+## Trader Vic, rum lore, and a common misconception
 
-A tropical fruit punch could be a great alcohol-free alternative to Mai Tai. Mix together equal parts of pineapple, orange, and passion fruit juice with a splash of grenadine syrup. Serve the fruit punch in a tiki glass with a colorful umbrella, sliced pineapple, and a maraschino cherry as a garnish. This refreshing and fruity drink is perfect for any occasion, particularly on hot summer days.
+The Mai Tai is most credibly linked to Trader Vic in the 1940s, though tiki history is full of rival claims and strong opinions. One important detail often missed: the Martinique rum in early versions was not agricole made from fresh cane juice, but a molasses-based rhum with a distinctive, “rummy” profile. That difference matters, because it changes the drink from grassy and lean to fuller and rounder.
 
-## Mai Tai fun facts
+## Best way to serve it tonight
 
-1. The original recipe for the Mai Tai was created by a bartender by the name of Victor J. Bergeron in Oakland, California in 1944.
-2. The name "Mai Tai" actually means "good" or "excellent" in Tahitian.
-3. The Mai Tai was a favorite drink of Elvis Presley, who would reportedly order them frequently during his stays at the Hilton Hawaiian Village in Waikiki.
-4. In 1953, the Mai Tai was recognized as the best drink in America by the New York Times.
-5. The Mai Tai is traditionally garnished with a sprig of fresh mint, a lime wedge, and a totem pole shaped like a tiki idol.
+Crushed ice is part of the recipe, not just presentation. It chills fast, softens the drink gradually, and gives the Mai Tai its relaxed, beach-bar texture. An old fashioned glass is the standard move, though a highball works if you want extra ice and a slightly longer drink.
+
+For a zero-proof riff, shake fresh lime juice, almond syrup, orange cordial, and a splash of demerara syrup with crushed ice, then top with a float of strong black tea or a non-alcoholic dark rum alternative for depth.

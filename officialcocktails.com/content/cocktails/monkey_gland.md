@@ -22,33 +22,27 @@ Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.
 
 ![](/cocktail-images/monkey_gland.jpeg)
 
+## How to mix a Monkey Gland
 
-## Directions for how to make the Monkey gland
+1. Chill a cocktail glass first so the drink stays properly cold and crisp when served straight up. A few minutes in the freezer works well.
+2. Fill a shaker with fresh ice, then add gin, orange juice, grenadine, and just a small measured splash of absinthe. The absinthe is powerful, so accuracy matters.
+3. Shake hard for about 10 to 15 seconds. You want the citrus fully integrated and the drink nicely aerated, with a light froth from the juice.
+4. Taste a drop if you like before straining: the ideal balance is bright orange up front, a touch of red-fruit sweetness, and a faint herbal lift rather than a heavy anise note.
+5. Discard any ice or water from the chilled glass, then fine-strain the cocktail into it for a smoother texture and cleaner presentation.
+6. Serve immediately, without ice. If desired, a small orange twist can sharpen the aroma, though the drink is often presented without garnish.
 
-To make a Monkey gland drink: 
+## What the Monkey Gland tastes like
 
-1. Fill a cocktail shaker with ice cubes.
-2. Add the gin, orange juice, absinthe, and grenadine into the shaker.
-3. Shake well for approximately 10-15 seconds to ensure that the ingredients are mixed properly.
-4. Strain the mixture into a chilled cocktail glass.
-5. Garnish the drink with a twist of orange zest, if desired.
-6. Enjoy your Monkey gland drink!
+This is a citrus-led classic with an unusual edge. The base spirit keeps it dry and botanical, while the orange brings roundness and freshness. Grenadine adds sweetness and color, but the defining accent is the absinthe: just enough to give a subtle licorice-herbal echo that makes the drink memorable. Done well, it should taste lively and slightly exotic, not syrupy.
 
-## Tips for how to make the perfect Monkey gland
+## A little notorious backstory
 
-- Use equal parts of orange juice and soda (such as coke or ginger ale) as the base of the drink.
-- Add a tablespoon of Worcestershire sauce and a tablespoon of tomato sauce.
-- Stir well and add a shot of brandy.
-- Garnish with a slice of orange and a cherry. Serve in a highball glass with ice.
+The Monkey Gland is usually linked to Harry MacElhone of Harry’s New York Bar in Paris during the 1920s. The name is famously odd, likely inspired by a then-sensational medical craze involving gland transplants promoted by surgeon Serge Voronoff. Exact details of the naming are hard to verify, but that Parisian interwar connection is the most widely accepted context.
 
-## Alcohol-free alternative to the Monkey gland
+## Best way to serve it
 
-An alcohol-free alternative to the drink Monkey Gland is the Monkey Boost juice. This refreshing and healthy drink is made with fresh ingredients such as kale, spinach, apple, banana, and ginger. It is packed with essential vitamins, minerals, and antioxidants that can boost your energy level, improve your digestion, and strengthen your immunity. The Monkey Boost juice is perfect for those who want to enjoy a delicious beverage without the negative effects of alcohol. It can be enjoyed anytime, anywhere, and it is a great way to hydrate your body and replenish your nutrients. So next time you're looking for a refreshing drink to quench your thirst, try the Monkey Boost juice and enjoy a healthy and tasty alternative to Monkey Gland.
+Because it contains juice, this cocktail is at its best very cold and freshly shaken. Use a dry gin with a firm juniper backbone if you want a sharper classic profile, or a softer modern gin for a rounder drink. If your orange juice is very sweet, slightly reducing the grenadine can help keep the finish from becoming cloying.
 
-## Monkey gland fun facts
+## Alcohol-free Monkey Gland riff
 
-1. Despite its name, Monkey gland does not contain any monkey parts or products.
-2. Monkey gland was invented by a bartender named Harry MacElhone in the 1920s in his bar called Harry's New York Bar in Paris, France.
-3. The name Monkey gland comes from the mistaken belief that the sauce used in the recipe contained actual monkey glands to enhance virility. 
-4. The original recipe for Monkey gland contained equal portions of gin and orange juice, as well as a splash of grenadine and a dash of absinthe. 
-5. Monkey gland is still a popular cocktail today, with variations of the original recipe including different types of alcohol and juices.
+For a zero-proof version, use a non-alcoholic gin alternative, fresh orange juice, grenadine, and a few drops of anise-based alcohol-free spirit or rinse the glass with a non-alcoholic absinthe substitute. Shake with ice and strain as usual. You’ll keep the bright citrus and distinctive herbal accent, even without the alcohol.

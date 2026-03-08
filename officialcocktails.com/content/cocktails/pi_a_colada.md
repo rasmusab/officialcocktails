@@ -21,33 +21,29 @@ Blend all the ingredients with ice in an electric blender, pour into a large gob
 
 ![](/cocktail-images/pi_a_colada.jpeg)
 
+## Blending a smooth, bar-style Piña Colada
 
-## Directions for how to make the Piña colada
+1. Fill a blender with a generous scoop of fresh ice so the finished drink comes out thick and frosty rather than watery.
+2. Add white rum, coconut cream, and pineapple juice in the proper balance, aiming for a rich texture with bright tropical fruit at the front.
+3. Blend on high until the mixture is fully smooth and creamy, with no large ice pieces left. If it looks too stiff, add a small splash of pineapple juice; if it seems loose, blend in a little more ice.
+4. Taste before pouring. A good Piña Colada should feel lush and sweet, but still lively from the pineapple’s acidity.
+5. Pour into a chilled Poco Grande glass, or another large curved goblet if that is what you have.
+6. Serve immediately while the texture is still frozen and airy. A pineapple wedge or cherry works well if you want a classic tropical finish.
 
-1. Add 5 parts of white rum to the blender.
-2. Add 3 parts of coconut cream into the blender.
-3. Add 5 parts of freshly squeezed pineapple juice into the blender.
-4. Add a generous amount of ice cubes into the blender.
-5. Blend all the ingredients together until smooth and frothy.
-6. Pour the mixture into a Poco Grande glass or Hurricane glass.
-7. Garnish with a slice of pineapple, a cherry, or a cocktail umbrella.
-8. Serve immediately and enjoy!
+## What the Piña Colada should taste like
 
-## Tips for how to make the perfect Piña colada
+This drink is all about creamy tropical balance. The rum brings light warmth, coconut cream gives it a dessert-like body, and pineapple juice keeps the whole thing from becoming heavy. When made well, it should be velvety and cold, with a texture closer to a drinkable sorbet than a standard shaken cocktail.
 
-- Use fresh pineapple juice and coconut cream for the best flavor. 
-- Use crushed ice to achieve the perfect texture. 
-- Don't be afraid to adjust the sweetness to your personal preference with additional pineapple juice or simple syrup. 
-- Serve in a chilled, frosted glass with a pineapple wedge and a maraschino cherry for a beautiful presentation.
+Because it is blended, dilution matters a lot. Too much ice and it goes flat; too little and it becomes overly rich. The sweet spot is thick enough to mound slightly when poured.
 
-## Alcohol-free alternative to the Piña colada
+## Puerto Rico, fame, and disputed beginnings
 
-A popular alcohol-free alternative to the Piña colada is the Virgin Piña colada. This refreshing tropical drink consists of coconut milk, pineapple juice, and ice, blended together until smooth. It has the same creamy texture and tropical flavor as the original cocktail, but without the added alcohol. Another option is to make a mocktail combining pineapple juice, coconut water, lime juice, and a splash of grenadine for a colorful twist. This drink is perfect for those who want to enjoy the taste of a Piña colada without the effects of alcohol.
+The Piña Colada is most closely associated with Puerto Rico and is widely treated as the island’s signature cocktail. Its exact origin is debated, with several bartenders and bars claiming to have created it in the 20th century. The most widely repeated story credits Ramón “Monchito” Marrero at the Caribe Hilton in San Juan in the 1950s, though competing claims exist.
 
-## Piña colada fun facts
+Whatever its precise birthplace, by the mid-20th century it had become one of the defining tropical cocktails worldwide.
 
-1. The Piña Colada was first created in Puerto Rico in the 1950s, although there is some debate over who first invented the drink.
-2. The name "Piña Colada" means "strained pineapple" in Spanish.
-3. The Piña Colada is the official drink of Puerto Rico.
-4. In 1978, Rupert Holmes wrote a song called "Escape (The Piña Colada Song)" that became a hit in the United States.
-5. The Piña Colada was declared the official drink of Puerto Rico in 1978.
+## Easy zero-proof tropical version
+
+For a non-alcoholic take, leave out the rum and increase the pineapple juice slightly, or add a small splash of coconut water to lighten the texture. Blend as usual with ice for a frozen pineapple-coconut cooler.
+
+If you want more complexity without alcohol, a few drops of vanilla extract can add warmth and roundness. Keep the drink cold and serve right away for the best creamy texture.

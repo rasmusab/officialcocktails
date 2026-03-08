@@ -21,38 +21,27 @@ In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add i
 
 ![](/cocktail-images/daiquiri.jpeg)
 
+## Shaking a clean, razor-bright Daiquiri
 
-## Directions for how to make the Daiquiri
+1. Chill a cocktail glass first so the drink stays crisp and cold from the first sip to the last.
+2. Add the rum, fresh lime juice, and superfine sugar to a shaker without ice. Stir briefly to help the sugar dissolve before chilling the mix.
+3. Taste the unshaken base if you like: it should seem slightly sharp and a touch sweet, since dilution will soften both edges.
+4. Fill the shaker well with cold ice, then shake hard for about 10 to 15 seconds until the tin feels very cold.
+5. Double strain into the chilled glass for the smoothest texture, especially if any lime pulp or undissolved sugar remains.
+6. Serve immediately, ideally without garnish or with a small lime twist only if you want a subtle aromatic lift.
 
-1. Add 60 ml white Cuban rum to a cocktail shaker.
-2. Add 20 ml fresh lime juice to the same cocktail shaker.
-3. Add 2 bar spoons of superfine sugar to the cocktail shaker.
-4. Stir well to dissolve the sugar and ensure all ingredients are mixed together thoroughly.
-5. Add ice to the cocktail shaker.
-6. Shake the cocktail shaker vigorously to blend all the ingredients well.
-7. Strain the mixture into a chilled cocktail glass.
-8. Serve immediately and enjoy your delicious Daiquiri drink!
+## What a proper Daiquiri should taste like
 
-## Tips for how to make the perfect Daiquiri
+A classic Daiquiri is light-bodied, taut, and refreshing rather than sugary. The rum brings soft cane notes and a gentle tropical character, while lime supplies a bright snap of acidity. Sugar should round the drink, not dominate it. When balanced well, it feels elegant and dry-ish, with a clean finish that makes it one of the purest rum cocktails.
 
-- Use fresh ingredients: Squeeze the lime juice just before making the Daiquiri and use quality rum. 
+## Getting the balance right in the glass
 
-- Make it cold: Use ice to chill the drink and shake it well until it becomes frosty. 
+Fresh lime matters more here than in almost any other sour-style drink. Bottled juice makes the cocktail taste flat and harsh. A Cuban-style white rum is traditional, but any clean, lightly funky white rum can work. If the drink seems too sharp, increase sweetness only slightly; if too soft, a touch more lime will restore its edge. This cocktail is best served very cold and consumed soon after pouring.
 
-- Balance the sweetness: Use just the right amount of simple syrup to balance the tartness of the lime juice. 
+## Daiquiri origins and enduring appeal
 
-- Use a strainer: Use a fine-mesh strainer to remove any ice chips or lime pulp for a smooth texture. 
+The Daiquiri is widely associated with Cuba, most often linked to the late 19th or early 20th century near Daiquirí, a town and iron-mining area close to Santiago de Cuba. Exact origin stories vary, but that Cuban connection is the most credible and widely accepted. It later became an international classic, helped by its simplicity and by its reputation as a favorite of writers, bartenders, and rum devotees.
 
-- Serve it straight up: Serve the Daiquiri in a chilled glass without ice to prevent dilution and enjoy the pure flavors.
+## A zero-proof daiquiri-style alternative
 
-## Alcohol-free alternative to the Daiquiri
-
-An alcohol-free alternative to the drink Daiquiri could be a "Virgin Daiquiri" which consists of fruit juices, sugar or sweetener, and ice blended together. This mocktail can be made with a variety of fruit juices such as strawberry, lime, or pineapple, and can be garnished with fresh fruit or a sliced lime. Another option could be a "Mocktail Mojito" made with soda water, fresh mint leaves, lime juice, and sugar or sweetener. This refreshing and non-alcoholic beverage is a great option for those who want to enjoy the taste of a traditional daiquiri without the effects of alcohol.
-
-## Daiquiri fun facts
-
-1. The Daiquiri was invented by an American engineer, Jennings Cox, in Cuba in 1898.
-2. The original Daiquiri recipe consisted of only three ingredients: white rum, lime juice, and sugar.
-3. The Daiquiri was a favorite of writer Ernest Hemingway, who frequented a bar called El Floridita in Havana that served his preferred version, which included grapefruit juice and maraschino liqueur.
-4. During World War II, the Daiquiri became a popular drink among American soldiers in Cuba, and it was even served on U.S. naval ships.
-5. The frozen Daiquiri was invented in 1938 by a New Orleans bartender named Pat O'Brien, who created it as a way to use up excess rum during Prohibition.
+For a non-alcoholic version, shake fresh lime juice, a small amount of cane syrup, and a splash of chilled white tea or alcohol-free white rum alternative with ice. Strain into a chilled cocktail glass. It will not have the same weight as rum, but it can still deliver the bright, tart, cane-forward shape that makes a Daiquiri so satisfying.

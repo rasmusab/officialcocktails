@@ -23,31 +23,32 @@ Pour the whiskey, syrup, lemon juice, and egg white into shaker with ice cubes. 
 
 ![](/cocktail-images/new_york_sour.jpeg)
 
+## How to build a New York Sour with a clean red wine float
 
-## Directions for how to make the New York sour
+1. Fill a shaker with ice, then add your whiskey, sweetener, citrus, and a small amount of egg white. If you want a silkier foam, you can first dry shake without ice for a few seconds, then add ice and shake again.
+2. Shake hard until the tin is very cold. The goal is not just chilling but also properly combining the citrus, sugar, and egg white so the drink lands with a smooth texture rather than a sharp split between sour and spirit.
+3. Strain into a rocks glass over fresh ice. Large cubes work especially well here because they keep the drink cold without watering it down too quickly.
+4. To create the signature layered top, slowly pour the red wine over the back of a bar spoon so it floats across the surface instead of mixing straight in.
+5. Finish with a strip of lemon or orange zest and, if you like, a cherry. Serve immediately so the guest gets the visual contrast before the layers begin to blend.
 
-1. Pour the whiskey, syrup, lemon juice, and egg white into a shaker with ice cubes.
-2. Shake the mixture vigorously.
-3. Strain the mixture into a chilled rocks glass that is already filled with ice.
-4. Float red wine on top of the mixture.
-5. Garnish with lemon or orange zest and a cherry.
+## What it tastes like in the glass
 
-## Tips for how to make the perfect New York sour
+A New York Sour starts like a classic whiskey sour: bright, tart, lightly sweet, and whiskey-led. The wine float changes the experience dramatically. You get dark fruit, a touch of tannin, and a dry aromatic layer on top that gradually folds into the drink as you sip.
 
-- Use a bold and spicy rye whiskey, such as Bulleit Rye or Rittenhouse Rye, for maximum flavor.
-- When creating the foam topping, be sure to shake the egg white, lemon juice, and simple syrup vigorously without ice to create a frothy and silky consistency before adding ice and the rest of the ingredients. 
-- Float the red wine on top of the foam by gently pouring it over the back of a spoon. This creates a beautiful layered effect and adds a fruity complexity to the drink. 
-- Serve the New York Sour in a rocks glass over a large ice cube to keep it chilled without diluting the flavors too quickly. 
-- Garnish with a lemon twist and a cherry to complement the citrus and fruit flavors in the drink.
+Bourbon makes it rounder and softer, while rye gives the cocktail more spice and snap. A bold but not overly oaky red works best so the float adds contrast without dominating.
 
-## Alcohol-free alternative to the New York sour
+## Why the float matters
 
-One alcohol-free alternative to New York sour is a mocktail named the New York Sweet. This drink is made with ingredients such as apple cider vinegar, maple syrup, lemon juice, and sparkling water. Instead of whiskey, the drink can use black tea to give it a similar depth of flavor. The drink is topped with a splash of cranberry juice, giving it a sweet and sour taste similar to a New York sour. This alcohol-free alternative is perfect for those who want to enjoy a flavorful drink without the alcohol.
+The wine is not just decoration. It adds aroma first, then structure. The first sip can be fruity and vinous at the surface, followed by citrus and whiskey underneath. As the layers mingle, the drink becomes deeper and slightly more savory.
 
-## New York sour fun facts
+For presentation, use a wine with good color density. The visual band of red over pale sour is part of the appeal.
 
-- The New York sour is a classic cocktail that originated in the United States during the 19th century.
-- The drink gets its unique name from the "sour" aspect of the cocktail, which involves the addition of fresh lemon juice.
-- While the classic recipe calls for rye whiskey, some variations may use bourbon or even scotch.
-- A signature aspect of the New York sour is the "float" on top of the drink, which consists of a layer of red wine that is gently poured over the top.
-- The New York sour is a popular choice among whiskey lovers, but it can also be a great introduction to the world of whiskey cocktails for those who are new to the spirit.
+## A little history and bar lore
+
+Despite the name, the exact New York origin is not fully certain. Most credible accounts connect it to the broader family of whiskey sours that became popular in the late 19th century, with the red wine float appearing as a later flourish. It has also been linked to older serves once called a Continental Sour.
+
+Whatever the precise lineage, it survives because it is both theatrical and balanced.
+
+## Easy alcohol-free take
+
+For a zero-proof version, use a non-alcoholic whiskey alternative or strong brewed black tea with a dash of bitters-style NA flavoring. Keep the lemon and syrup structure, then float a small amount of dealcoholized red wine or unsweetened red grape juice diluted with a little tart cherry juice. You still get the layered look and the dark-fruit top note that defines the drink.

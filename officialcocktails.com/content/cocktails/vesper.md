@@ -21,35 +21,27 @@ Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and str
 
 ![](/cocktail-images/vesper.jpeg)
 
+## Shake the Vesper until razor-cold
 
-## Directions for how to make the Vesper
+1. Chill a cocktail glass first so the drink stays crisp from the first sip to the last. A few minutes in the freezer works well, or fill the glass with ice water while you mix.
+2. Add the gin, vodka, and Lillet Blanc to a shaker filled generously with fresh ice. Use plenty of cold, solid cubes to get fast chilling and proper dilution.
+3. Shake hard for about 10 to 15 seconds. The Vesper is meant to be brisk, very cold, and slightly aerated, so a confident shake suits its style better than a gentle stir.
+4. Empty the chilling ice from the glass if needed, then fine strain the drink into the chilled cocktail glass for a clear, polished look.
+5. If you like, finish with a long lemon peel expressed over the surface. The bright citrus oils lift the drink and sharpen its elegant, dry character.
+6. Serve immediately, straight up and ice-free, while the texture is still taut and the aromatics are vivid.
 
-1. Fill a cocktail shaker with ice cubes.
-2. Pour in 45 ml of gin, 15 ml of vodka, and 7.5 ml of Lillet Blanc.
-3. Shake the cocktail shaker vigorously, making sure that all ingredients blend together.
-4. Take a chilled cocktail glass.
-5. Strain the contents of the cocktail shaker into the chilled cocktail glass.
-6. Serve immediately and enjoy your Vesper cocktail.
+## What the Vesper tastes like
 
-## Tips for how to make the perfect Vesper
+The Vesper is lean, strong, and aromatic. Gin brings the backbone with juniper and herbal notes, vodka smooths and lightens the profile, and Lillet Blanc adds a subtle wine-like softness with faint citrus and floral edges. It drinks drier and more forcefully than many classic shaken cocktails, with a clean finish that feels cool and precise.
 
-- Use high quality gin and vodka. The Vesper is a strong drink, so it's important to use spirits that you enjoy drinking on their own.
-- Stir the drink for at least 30 seconds with ice to achieve the desired dilution and temperature. Strain into a chilled cocktail glass.
-- Use Lillet Blanc as the vermouth. This French aperitif wine adds a slightly sweet and floral flavor to the drink.
-- Garnish with a thin slice of lemon peel. Express the oils over the drink by twisting the peel before placing it in the glass.
+## Bond, books, and the cocktail's reputation
 
-## Alcohol-free alternative to the Vesper
+The Vesper is most closely linked to Ian Fleming's 1953 novel *Casino Royale*, where James Bond orders and names it after Vesper Lynd. That literary origin is the most credible and widely accepted source of the drink's fame. Modern versions usually use Lillet Blanc; the original recipe referred to Kina Lillet, a more bitter formulation that is no longer made in the same style.
 
-One alcohol-free alternative to the Vesper cocktail could be a "Vesper mocktail". This refreshing drink can be made by mixing non-alcoholic gin or vodka with some grapefruit juice, lemon juice, and a simple syrup. Garnish it with a slice of grapefruit or lemon, and you have a delicious and tasty beverage that is perfect for those who don't drink alcohol or who want to limit their alcohol intake. The mocktail version of Vesper can provide you with a fruity and tangy flavor that is similar to the original cocktail but without any alcohol content.
+## Best way to serve it today
 
-## Vesper fun facts
+This cocktail rewards cold glassware and exact proportions. Because it is spirit-forward and served without ice, even small changes in dilution or temperature are noticeable. If you want a slightly softer version, use a touch more aromatized wine or garnish with lemon to brighten the nose and make it feel more approachable.
 
-1. The Vesper is a concoction of gin, vodka and Lillet Blanc that was first introduced by Ian Fleming in his 1953 James Bond novel "Casino Royale".
+## A zero-proof Vesper-style alternative
 
-2. The cocktail was named after Vesper Lynd, the fictional character who was James Bond's love interest in "Casino Royale".
-
-3. In the book, James Bond gives explicit instructions to the bartender on how to make his signature drink: "Three measures of Gordon's, one of vodka, half a measure of Kina Lillet. Shake it very well until it's ice-cold, then add a large thin slice of lemon peel."
-
-4. The Vesper was not actually a popular drink until it was featured in the 2006 James Bond film "Casino Royale", where it was famously ordered by Daniel Craig's Bond. The exposure in the film led to a resurgence of interest in the cocktail.
-
-5. The original recipe for Kina Lillet was discontinued in the 1980s, which has led to some variation in the recipe for the Vesper. Some bartenders substitute the Kina Lillet with Lillet Blanc or Cocchi Americano to replicate the original flavor.
+For a non-alcoholic riff, combine a juniper-forward alcohol-free spirit with a clean neutral zero-proof spirit and a small measure of a bitter white aperitif alternative. Shake with ice and strain into a chilled cocktail glass, then garnish with lemon peel. The result will not fully mimic the weight of the original, but it can echo the Vesper's brisk, citrusy, botanical profile.

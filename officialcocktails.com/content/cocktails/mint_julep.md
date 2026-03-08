@@ -22,54 +22,27 @@ In a highball glass gently muddle the mint, sugar and water. Fill the glass with
 
 ![](/cocktail-images/mint_julep.jpeg)
 
+## Building a properly frosted Mint Julep
 
-## Directions for how to make the Mint julep
+1. Place the mint leaves in a silver julep cup or a highball glass with the sugar and a small splash of water. Gently press the mint just enough to release its oils; avoid shredding the leaves, which can make the drink taste grassy.
+2. Add a small handful of cracked or crushed ice and stir briefly to dissolve the sugar and chill the base. This helps distribute the mint aroma before the bourbon goes in.
+3. Pour in the bourbon, then pack the glass tightly with more crushed ice, mounding it slightly above the rim if you like the classic presentation.
+4. Stir for 15 to 20 seconds, lifting from the bottom so the sugar is fully incorporated and the outside of the cup turns cold and frosty. That icy exterior is part of the drink’s appeal.
+5. Top with a little extra crushed ice if needed, then insert a fresh mint sprig near the rim. Lightly clap the sprig between your hands first to wake up its aroma.
+6. Serve immediately, ideally with a short straw so the first thing you smell with each sip is the mint.
 
-1. In a highball glass, gently muddle 4 mint leaves, 1 teaspoon of powdered sugar, and 2 teaspoons of water.
-2. Fill the glass with cracked ice.
-3. Add 6 cL (2.0 US fl oz) of bourbon whiskey.
-4. Stir well until the glass is well frosted.
-5. Garnish with a mint sprig.
+## What the Mint Julep tastes like
 
-## Tips for how to make the perfect Mint julep
+A Mint Julep is cool, rich, and deceptively simple. The bourbon brings vanilla, oak, and caramel notes, while mint adds a bright herbal lift. Sugar softens the edges and the crushed ice slowly opens the whiskey as you drink. Done well, it should feel brisk and refreshing rather than overly sweet.
 
-- Use fresh mint: Ensure you have fresh mint leaves and not dried ones. This will give your mint julep an aromatic and fresh flavor.
+## Best way to serve it
 
-- Crush the ice: For a perfect mint julep, crushing the ice is important. Use a mallet or your blender to crush the ice until it's small and powdery. This will create a perfect consistency with the cocktail.
+The traditional silver cup is not just for looks: metal gets ice-cold fast and creates the signature frost. If you do not have one, a sturdy highball works well. Use crushed or finely cracked ice rather than cubes; the texture and quick dilution are essential to the style. Fresh mint matters here more than almost any other ingredient.
 
-- Use the right bourbon: While you may be tempted to use any bourbon, ensure you use a high-quality bourbon with at least 90 proof. Remember, the bourbon makes up the bulk of the cocktail, so using a high-quality one will enhance the taste.
+## Kentucky roots and derby fame
 
-- Don't over muddle: When muddling the mint, don't overdo it. Simply press the mint gently to release the oils without crushing it too much.
+The Mint Julep is closely associated with the American South, especially Kentucky, and became famous as a bourbon showcase in the 19th century. Earlier “julep” drinks likely evolved from medicinal or refreshing mixed drinks with sugar, herbs, and spirits. Its exact origin is a bit murky, but Kentucky and horse-racing culture cemented its modern identity. It is now strongly linked with the Kentucky Derby.
 
-- Use sugar syrup: In place of granulated sugar, use sugar syrup to sweeten the cocktail. This will ensure that the sugar is completely dissolved, giving the cocktail a smooth taste.
+## A spirit-free julep-style option
 
-- Serve it in a chilled glass: Ensure that both the glass and the ice are chilled before serving. This will ensure that your mint julep stays cold for longer.
-
-## Alcohol-free alternative to the Mint julep
-
-One non-alcoholic alternative to Mint Julep could be the Virgin Mint Julep. It is a refreshing and cooling drink made with a combination of fresh mint leaves, sugar syrup, lime juice, and soda water. To make a Virgin Mint Julep, you can follow these simple steps:
-
-Ingredients:
-- 8-10 fresh mint leaves
-- 1/2 oz sugar syrup
-- 1/4 oz lime juice
-- 4-5 oz soda water
-- Crushed ice
-
-Instructions:
-1. In a mixing glass, muddle the fresh mint leaves with sugar syrup and lime juice.
-2. Fill a highball glass with crushed ice.
-3. Pour the muddled mint mixture into the glass.
-4. Top the glass with soda water and stir gently.
-5. Garnish with a sprig of fresh mint leaves and a slice of lime.
-6. Serve chilled.
-
-This drink is perfect for those who want to enjoy a minty and refreshing drink without the alcohol. It is also easy to customize according to taste preferences.
-
-## Mint julep fun facts
-
-1. Mint julep is the official drink of the Kentucky Derby, an annual horse race held in Louisville, Kentucky.
-2. The first known mention of a mint julep was in a book written in 1803 by John Davis titled "Travels of Four Years and a Half in the United States of America".
-3. Mint juleps were originally made with rum or brandy before bourbon became the common liquor used in the 20th century.
-4. The traditional way to serve a mint julep is in a silver or pewter cup, which helps to keep the drink extra cold.
-5. The term "julep" comes from the Persian word "gulab," which means rose water, a common ingredient in early variations of the drink.
+For a non-alcoholic version, keep the mint, sugar, and crushed ice, then replace the whiskey with chilled black tea or a zero-proof bourbon alternative. Strong tea works especially well because it adds tannin and a little bitterness, giving the drink more structure than plain water or soda.

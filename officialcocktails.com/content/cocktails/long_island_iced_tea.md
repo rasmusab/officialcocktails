@@ -26,40 +26,27 @@ Add all ingredients into highball glass filled with ice. Stir gently. Optionally
 
 ![](/cocktail-images/long_island_iced_tea.jpeg)
 
+## Building a Long Island Iced Tea in the glass
 
-## Directions for how to make the Long Island iced tea
+1. Fill a **highball glass** generously with fresh ice so the drink stays cold and properly diluted as you sip.
+2. Pour in the five spirits, using equal measures for each, then add the citrus and sugar components. The balance matters here: the lemon keeps the drink bright, while the syrup softens the sharp edges.
+3. Stir briefly but thoroughly in the glass to combine everything before adding the topper. This helps prevent the cola from doing all the mixing on its own.
+4. Add a small splash of cola over the top—just enough to give the drink its signature tea-like color and a light caramel note.
+5. Give it one gentle final stir so the top and bottom are evenly integrated without flattening the fizz too much.
+6. If you like, finish with a lemon slice or wedge. Serve immediately with plenty of ice.
 
-Steps to make a Long Island iced tea:
+## What it tastes like when balanced well
 
-1. Fill a highball glass with ice.
-2. Pour in 15 ml each of tequila, vodka, white rum, Cointreau, and gin.
-3. Add 30 ml of lemon juice to the glass.
-4. Pour in 20 ml of simple syrup.
-5. Stir the mixture gently.
-6. Top with cola until the glass is filled.
-7. Optionally, garnish with a lemon slice.
-8. Serve immediately and enjoy!
+A good Long Island Iced Tea should taste more **citrusy, lightly sweet, and cola-lifted** than aggressively boozy. Despite the lineup of base spirits, no single one should dominate. Instead, you get a fast, bright hit of lemon first, a touch of orange complexity from the liqueur, and a familiar cola finish. If it tastes harsh, it usually needs either more dilution, better stirring, or a more careful cola top.
 
-## Tips for how to make the perfect Long Island iced tea
+## Why it became famous
 
-- Use quality ingredients: The Long Island iced tea requires multiple liquors such as vodka, gin, tequila, and rum, along with triple sec and sour mix. Using good quality ingredients is essential to achieve the perfect flavor.
+The exact origin is debated, but the most widely repeated story credits **Robert “Rosebud” Butt** with creating it in the 1970s during a cocktail contest in Long Island, New York. Whether or not that account is the full story, the drink clearly rose to fame in the late 20th century as a barroom staple. Its name comes from the drink’s resemblance to iced tea, even though it contains no tea at all.
 
-- Stick to the correct ratios: The perfect Long Island iced tea should have equal parts of each liquor, with a little less of the sour mix and just a splash of coke. Stick to these ratios to ensure that the drink is balanced and not overpowering. 
+## Best way to serve it
 
-- Don't forget the garnish: A slice of lemon and a straw are the classic garnishes for a Long Island iced tea. Don't forget to add these finishing touches to give your drink a professional touch. 
+This cocktail works best **very cold** and **freshly made**, not pre-batched in the glass too far ahead. Use plenty of ice and a restrained hand with the cola; too much turns it into soda, too little leaves it sharp and raw. It suits casual parties, late-night orders, and anyone who wants a tall drink with a deceptively easy profile.
 
-- Mix well: Once you've added all the ingredients, stir or shake the drink thoroughly to ensure that everything is well combined. The Long Island iced tea tastes best when served ice-cold and well mixed. 
+## Alcohol-free idea: No-Long-Island Cola Cooler
 
-- Don't skimp on the ice: The Long Island iced tea should be served over plenty of ice. This helps to dilute the strong spirits and makes the drink refreshing and enjoyable. Be sure to fill the glass to the top with ice before adding the other ingredients.
-
-## Alcohol-free alternative to the Long Island iced tea
-
-One option for an alcohol free alternative to Long Island iced tea is "Virgin Long Island". This mocktail replaces the liquor with tea and other sweet and sour juices, resulting in a refreshing and flavorful drink. To make a Virgin Long Island, mix equal parts lemon juice, lime juice, orange juice, and cranberry juice in a shaker with ice. Shake well and strain into a glass with fresh ice. Top off with unsweetened iced tea and garnish with a lemon wedge or mint sprig. The combination of juices and tea gives a similar taste to Long Island iced tea without the added alcohol.
-
-## Long Island iced tea fun facts
-
-1. Despite its name, Long Island iced tea does not contain any tea.
-2. It was first created in the 1970s by a bartender named Robert "Rosebud" Butt at the Oak Beach Inn on Long Island, New York.
-3. Long Island iced tea typically contains five different types of alcohol: vodka, gin, rum, tequila, and triple sec.
-4. The drink's high alcohol content and sweet taste have earned it the nickname "liquid panty remover."
-5. In 2010, a woman in New Jersey was arrested for serving Long Island iced teas to minors at a party.
+For a zero-proof version, combine **lemon juice, orange syrup or triple-sec-style non-alcoholic alternative, a little simple syrup, and cola** over ice. A tiny splash of non-alcoholic juniper spirit can add extra complexity. It won’t mimic the original exactly, but it captures the same sweet-citrus-cola character in a lighter, more sessionable style.

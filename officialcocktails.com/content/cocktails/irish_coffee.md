@@ -22,32 +22,27 @@ Pour the coffee into a preheated glass, add whiskey and sugar, and stir until di
 
 ![](/cocktail-images/irish_coffee.jpeg)
 
+## Building an Irish Coffee with a proper cream cap
 
-## Directions for how to make the Irish coffee
+1. Warm an Irish coffee mug or heatproof stemmed glass with hot water, then empty it. A preheated glass helps keep the drink hot from first sip to last.
+2. Add the sugar to the glass, then pour in freshly brewed hot coffee. Stir well so the sugar fully dissolves before adding anything else.
+3. Pour in the Irish whiskey and stir again. Taste briefly if you like—this is the point to adjust sweetness slightly, since the cream will mute the edges.
+4. Lightly whip or loosen very cold fresh cream until it is just thickened but still pourable. It should float, not sink.
+5. Hold a spoon just above the surface of the coffee and slowly pour the cream over the back of the spoon so it settles into a distinct top layer.
+6. Serve immediately without stirring. The classic experience is to drink the hot, sweetened whiskey-coffee through the cool cream.
 
-1. Preheat an Irish coffee mug by adding hot water.
-2. While the mug is preheating, brew a cup of hot coffee and chill fresh cream.
-3. Discard the hot water from the mug and pour in the hot coffee.
-4. Add Irish whiskey and sugar to the coffee and stir until the sugar is dissolved.
-5. Gently pour the chilled fresh cream over the back of a spoon, so that it floats on top of the coffee.
-6. Serve the Irish coffee immediately and enjoy!
+## What it should taste like
 
-## Tips for how to make the perfect Irish coffee
+A well-made Irish Coffee is rich but not heavy: warm roasted coffee, mellow whiskey spice, gentle sweetness, and a silky cold cream finish. The contrast matters as much as the flavor. You want a hot base and a cool floating top, with enough sugar to round out bitterness and support the cream.
 
-- Use freshly brewed hot coffee and pour it into a pre-warmed glass.
-- Add a teaspoon of brown sugar and stir until dissolved.
-- Pour in a shot of Irish whiskey and stir briefly.
-- Gently pour cold whipped cream over the top, being careful not to mix it in too much.
-- Enjoy while hot and sip slowly through the cream.
+## Small details that make a big difference
 
-## Alcohol-free alternative to the Irish coffee
+Use strong coffee rather than something thin or acidic. A medium to dark roast usually works best. The cream should be cold and only lightly thickened; if it is too loose, it disappears, and if too stiff, it sits like whipped topping instead of forming a smooth layer. A clear glass or classic Irish coffee mug shows off the layered look best.
 
-An alcohol-free alternative to Irish coffee could be a hot chocolate or a hot cider. One could add a whipped cream and sprinkle cinnamon or other spices for an extra touch of flavor. Another option could be a chai latte with a shot of espresso. It is a comforting and warming drink that is perfect for cold nights. One could add a little bit of honey or vanilla syrup and top it off with frothed milk for a delicious, non-alcoholic alternative to Irish coffee.
+## The story behind Irish Coffee
 
-## Irish coffee fun facts
+Irish Coffee is most often linked to Joe Sheridan, a chef at Foynes airbase in Ireland in the 1940s, who reportedly created it to warm cold transatlantic passengers. The drink later became internationally famous after being introduced in the United States, especially at the Buena Vista Cafe in San Francisco. Exact retellings vary, but that Foynes origin is the most widely accepted account.
 
-1. Irish coffee was invented by a chef named Joe Sheridan in 1942 at an airport in Ireland to warm up travelers.
-2. The coffee used in Irish coffee is typically brewed strong, and Irish whiskey is added to the coffee.
-3. To make the drink, sugar is added to the coffee, then Irish whiskey and cream are poured on top to create a layered effect.
-4. The drink gained popularity in the United States in the 1950s and 1960s thanks to a travel writer named Stanton Delaplane, who brought the recipe to San Francisco's Buena Vista Cafe.
-5. The Buena Vista Cafe claims to have served more than 40,000 Irish coffees per year since the drink was introduced, making their version of the drink famous around the world.
+## Easy alcohol-free version
+
+For a zero-proof take, use a robust decaf or regular coffee with a spoonful of brown sugar and a splash of alcohol-free whiskey alternative, if available. Top with the same lightly whipped cream. You still get the signature hot-and-cool contrast, with much of the original comfort intact.

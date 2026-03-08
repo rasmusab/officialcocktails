@@ -19,32 +19,27 @@ In a highball glass filled with ice pour the ginger beer and top floating with t
 
 ![](/cocktail-images/dark__n__stormy.jpeg)
 
+## Building a Dark 'n' Stormy Over Ice
 
-## Directions for how to make the Dark 'n' stormy
+1. Fill a chilled highball glass nearly to the top with fresh, solid ice cubes. Plenty of ice keeps the drink cold and helps preserve the ginger beer’s sparkle.
+2. Pour the ginger beer into the glass first. Starting with the mixer creates the classic layered look once the rum is added.
+3. Slowly float the dark rum over the top by pouring it gently across the back of a spoon, or by trickling it down the inside of the glass. This keeps the dark cap visually distinct.
+4. Give the drink either a very light stir or leave it partially layered, depending on how dramatic you want the presentation to be. A brief stir softens the contrast and blends the spice sooner.
+5. Add a lime wedge or thin lime slice to the rim. If you like a brighter edge, squeeze the wedge lightly before dropping it in.
+6. Serve immediately while the ginger beer is lively and the rum still shows as a storm-cloud layer on top.
 
-1. Fill a highball glass with ice.
-2. Pour 100 ml of ginger beer into the glass.
-3. Float 60 ml of Goslings Rum on top of the ginger beer.
-4. Stir gently with a bar spoon to lightly blend the ingredients.
-5. Optionally, garnish with a lime wedge or a slice of fresh ginger.
-6. Serve and enjoy your Dark 'n' stormy drink!
+## What It Tastes Like in the Glass
 
-## Tips for how to make the perfect Dark 'n' stormy
+A Dark 'n' Stormy is crisp, spicy, and bold without being complicated. The ginger beer brings sharp heat and fizz, while the dark rum adds caramel, molasses, and a slightly smoky richness. Lime lifts the whole drink with a fresh citrus snap. It reads refreshing first, then deeper and moodier as the rum opens up.
 
-- Use Gosling's Black Seal Rum: This is the traditional rum used for Dark 'n' Stormy drinks and has a unique flavor that complements the ginger beer.
-- Choose a high-quality ginger beer: The ginger beer is a crucial component of this drink, so make sure to select a brand that is flavorful, spicy, and not too sweet.
-- Use freshly squeezed lime juice: A squeeze of lime juice adds a bright flavor to the drink, balancing out the sweetness of the ginger beer and the richness of the rum.
-- Serve over ice in a highball glass: Fill a glass with ice, pour in the rum and ginger beer, and then add the lime juice.
-- Garnish with a lime wedge: A fresh lime wedge on the rim of the glass looks visually appealing and adds an extra touch of flavor to the drink.
+## Why Goslings Is So Closely Tied to It
 
-## Alcohol-free alternative to the Dark 'n' stormy
+The drink is most strongly associated with Bermuda, where it became linked to Goslings Black Seal Rum and local ginger beer culture. The exact early timeline is not perfectly documented, but the Bermuda connection is the most credible and widely accepted origin story. In fact, the name Dark 'n' Stormy is famously tied to Goslings in a particularly strong brand sense.
 
-A good alcohol-free alternative to the drink Dark 'n' Stormy is the Dark 'n' Spicy. This simple mocktail is made with ginger beer, lime juice, and a splash of blackstrap molasses to give it that dark and robust flavor that is characteristic of the original drink. To make the Dark 'n' Spicy, fill a highball glass with ice and add 6 ounces of ginger beer. Squeeze in the juice of half a lime and stir in a teaspoon of blackstrap molasses until it is dissolved. Garnish with a slice of lime and enjoy! The Dark 'n' Spicy is a refreshing and flavorful alternative that is perfect for those who are looking to enjoy a cocktail without the effects of alcohol.
+## Best Way to Serve It
 
-## Dark 'n' stormy fun facts
+This drink works best very cold, with lively ginger beer and minimal dilution at the start. A tall glass suits it because the carbonation stays expressive and the layered look stands out. If you prefer a drier version, use a fiercer, less sweet ginger beer; if you want it softer, add a fresh squeeze of lime and stir more fully.
 
-1. The Dark 'n' Stormy is the national drink of Bermuda.
-2. The ingredients for a Dark 'n' Stormy, Gosling's Black Seal Rum and ginger beer, are trademarked by Gosling's Rum.
-3. The name "Dark 'n' Stormy" is said to come from the drink's dark color and the "stormy" look created by the ginger beer when poured into the glass.
-4. In 2020, Bermuda celebrated the 100th anniversary of the creation of the Dark 'n' Stormy.
-5. The Dark 'n' Stormy is a popular cocktail among sailors and yachters due to its refreshing taste and the alleged medicinal properties of ginger beer for seasickness.
+## Easy Spirit-Free Stormy
+
+For a non-alcoholic version, use a rich non-alcoholic dark rum alternative or a small splash of molasses syrup with extra ginger beer and lime. The goal is to mimic the dark, earthy depth while keeping the peppery bite and refreshing finish intact.

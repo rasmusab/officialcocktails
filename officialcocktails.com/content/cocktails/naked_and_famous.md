@@ -22,49 +22,30 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled
 
 ![](/cocktail-images/naked_and_famous.jpeg)
 
+## How to shake a Naked and Famous properly
 
-## Directions for how to make the Naked and famous
+1. Chill a cocktail glass first so the drink stays crisp and bright once strained. A few minutes in the freezer works well, or fill it with ice water while you prep.
+2. Measure equal parts mezcal, yellow Chartreuse, Aperol, and freshly squeezed lime juice into a shaker. Because the build is perfectly balanced, accurate measuring matters more here than in many cocktails.
+3. Add plenty of cold ice and shake hard for about 10 to 12 seconds. You want full chilling and enough dilution to soften the sharp edges of the lime and the herbal intensity.
+4. Dump the ice water from the glass if using, then fine strain into the chilled cocktail glass for a smooth, polished texture.
+5. Serve immediately, straight up and very cold. No garnish is required, though an expressed lime peel can add a little extra aroma if you like.
 
-To make a Naked and famous cocktail, follow the steps below:
+## What the drink tastes like
 
-1. Prepare a cocktail shaker and fill it up with ice cubes.
-2. Add 2.25 cl of mezcal to the shaker.
-3. Add 2.25 cl of yellow Chartreuse to the shaker.
-4. Add 2.25 cl of Aperol to the shaker.
-5. Squeeze 2.25 cl of fresh lime juice and pour it into the shaker.
-6. Cover the shaker with a lid and shake it well for a few seconds.
-7. Remove the lid and strain the cocktail into chilled cocktail glass.
-8. Garnish the drink with a slice of lime or a twist of lime peel if desired.
-9. Serve and enjoy your Naked and famous cocktail.
+The Naked and Famous is smoky, bittersweet, herbal, and sharply citrusy all at once. Mezcal gives it an earthy campfire note, while yellow Chartreuse brings honeyed herbs and spice. Aperol adds orange-like bitterness and a vivid color, and lime keeps everything taut and refreshing.
 
-## Tips for how to make the perfect Naked and famous
+Despite its equal-parts structure, it is not heavy. It drinks with the snap of a modern sour and the layered complexity of a last-word-style cocktail.
 
-- Use high-quality ingredients, such as premium vodka, fresh-squeezed grapefruit juice, and a hint of elderflower liqueur.
-- Keep the cocktail simple by using only a few quality ingredients and shaking well with ice before serving. Garnish with a grapefruit twist for added flavor and visual appeal.
+## Why this modern classic stands out
 
-## Alcohol-free alternative to the Naked and famous
+This drink is widely credited to Joaquín Simó, who created it in the late 2000s at Death & Co. in New York. It is often described as a riff on the Last Word and also related in spirit to the Paper Plane, using equal proportions to build a cocktail that feels both precise and effortless.
 
-A possible alcohol-free alternative to the cocktail Naked and Famous is a blend of fresh lime juice, grapefruit juice, agave nectar, and sparkling water or soda. This refreshing and zesty concoction is reminiscent of the citrusy and smoky notes of the original cocktail but without the alcoholic kick. Here's a recipe for this mocktail:
+Its name came from the song “Tricky Kid” by Tricky, which includes the line “naked and famous.”
 
-Ingredients:
-- 1 oz freshly squeezed lime juice
-- 1 oz freshly squeezed grapefruit juice
-- 1/2 oz agave nectar
-- 3-4 oz sparkling water or soda
-- Ice cubes
+## Best way to serve it
 
-Instructions:
-1. In a shaker or mixing glass, combine the lime juice, grapefruit juice, and agave nectar.
-2. Add a few ice cubes and stir or shake until well combined and chilled.
-3. Strain the mixture into a tall glass filled with ice cubes.
-4. Top up with sparkling water or soda.
-5. Give it a gentle stir and garnish with a slice of lime or grapefruit, if desired.
-6. Enjoy your alcohol-free version of Naked and Famous!
+Serve it very cold in a stemmed cocktail glass. Because there is no ice in the finished drink, temperature is part of the balance: as it warms, the herbal sweetness can come forward quickly. This makes it an excellent first-round cocktail before richer drinks.
 
-## Naked and famous fun facts
+## A zero-proof smoky-bitter riff
 
-1. Naked and Famous is a modern cocktail that was invented in 2011 by bartender Joaquín Simó at Death & Co. in New York City. 
-2. It has a bold and unique flavor profile that combines smoky mezcal, tart lime juice, bitter Aperol, and sweet yellow Chartreuse. 
-3. Despite being a relatively new cocktail, Naked and Famous has gained a cult following and has become a staple on many bar menus. 
-4. The bright yellow-green color of the drink is achieved by adding a few drops of green Chartreuse to the mix. 
-5. The name "Naked and Famous" is a playful nod to the classic 1950s Hollywood movie "A Star is Born" featuring Judy Garland, in which her character sings "Born in a Trunk (Naked and Afraid)."
+For a non-alcoholic version, combine a smoky zero-proof spirit, a gentian- or herbal-style NA aperitif, a lightly sweet herbal syrup, and fresh lime in equal parts. Shake with ice and strain up. It will not be identical, but you can capture the same smoky, bitter-citrus, herb-driven shape.

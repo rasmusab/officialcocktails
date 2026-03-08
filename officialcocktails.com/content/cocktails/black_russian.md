@@ -20,32 +20,27 @@ Pour the ingredients into the old fashioned glass filled with ice cubes. Stir ge
 
 ![](/cocktail-images/black_russian.jpeg)
 
+## Building a Black Russian over ice
 
-## Directions for how to make the Black Russian
+1. Fill an old fashioned glass with fresh, solid ice cubes. Larger cubes work especially well here because they melt more slowly and keep the drink from thinning out too fast.
+2. Pour in the vodka first, then add the coffee liqueur. Adding them directly over the ice helps chill both ingredients immediately.
+3. Stir gently for about 10 to 15 seconds. You want the drink cold and integrated, but not overly diluted.
+4. Taste if you like a more pronounced coffee character or a drier finish. A slightly longer stir softens the edges; a shorter stir keeps it firmer and more spirit-forward.
+5. Serve immediately with no garnish, or add a light orange twist if you want a subtle citrus lift that plays nicely against the dark coffee notes.
+6. Sip slowly as the ice opens the drink up. The flavor shifts nicely over a few minutes, becoming rounder and smoother.
 
-1. Prepare an old fashioned glass by filling it with ice cubes.
-2. Measure 50 ml of vodka and pour it into the glass with the ice.
-3. Measure 20 ml of coffee liqueur and pour it into the glass with the vodka and ice.
-4. Gently stir the mixture until the ingredients are well combined.
-5. Garnish with a twist of orange peel or a coffee bean, if desired.
-6. Serve and enjoy your Black Russian drink!
+## What it tastes like in the glass
 
-## Tips for how to make the perfect Black Russian
+The Black Russian is simple but distinctive: rich coffee aroma, a lightly sweet middle, and a clean vodka backbone. Despite having only two components, it can feel surprisingly balanced when properly chilled. It is fuller and darker than many vodka drinks, with a dessert-adjacent mood, but it is not as creamy or soft as its White Russian relative.
 
-- Fill a rocks glass with ice cubes.
-- Pour 2 oz vodka over the ice.
-- Add 1 oz coffee liqueur to the glass.
-- Stir gently until the liqueur and vodka are combined.
-- Garnish with a cherry or a twist of orange peel, if desired.
+## Best moment to serve it
 
-## Alcohol-free alternative to the Black Russian
+This is a strong, low-effort after-dinner cocktail that suits cool evenings, intimate gatherings, or any time you want something unfussy and spirit-led. Because it is served on the rocks, quality ice matters more than people expect. If your coffee liqueur is very sweet, use slightly more vodka or extra ice to keep the drink from becoming syrupy.
 
-An alcohol-free alternative to the drink Black Russian could be a virgin White Russian, which is made with similar ingredients but excludes the vodka. To make a virgin White Russian, combine coffee liqueur, heavy cream, and ice in a shaker, and shake until the mixture is frothy. Strain the mixture into a rocks glass filled with ice, and garnish with a sprinkle of cocoa powder or coffee beans. This drink has a creamy, sweet flavor that can satisfy your cravings without the alcohol. Another alternative could be a mocktail made of coffee, chocolate syrup, and milk or cream, blended with ice and topped with whipped cream, creating a similar taste profile as Black Russian.
+## Black Russian backstory
 
-## Black Russian fun facts
+The drink is generally traced to the late 1940s in Brussels, where bartender Gustave Tops is often credited with creating it for Perle Mesta, a U.S. ambassador. The “Russian” part refers to vodka rather than a confirmed Russian origin. That attribution is widely repeated, though cocktail history from the period is not always perfectly documented.
 
-1. The Black Russian was created in 1949 by Belgian bartender Gustave Tops for the US ambassador to Luxembourg.
-2. The original recipe contained only vodka and coffee liqueur, with no added mixers or garnishes.
-3. The Black Russian is the perfect drink for coffee lovers who prefer a boozy kick – it tastes like a cup of coffee with a buzz!
-4. The drink gained popularity in the 1960s and became a staple in stylish bars around the world. 
-5. Variations on the Black Russian include the White Russian (made with cream) and the Colorado Bulldog (made with cola).
+## Easy alcohol-free version
+
+For a zero-proof take, build it the same way using a non-alcoholic vodka alternative and a coffee concentrate or alcohol-free coffee spirit over ice. If needed, add a small splash of simple syrup to mimic the rounded sweetness of a liqueur. The result keeps the dark, chilled coffee profile without the alcohol.

@@ -21,50 +21,27 @@ Combine vodka and ginger beer in a highball glass filled with ice. Add lime juic
 
 ![](/cocktail-images/moscow_mule.jpeg)
 
+## Build a crisp Moscow Mule in a copper mug
 
-## Directions for how to make the Moscow mule
+1. Fill a chilled copper mug generously with fresh ice, ideally solid cubes that melt slowly and keep the drink sharp rather than watery.
+2. Pour in the vodka first so it settles evenly through the ice. Add the lime juice next; freshly squeezed juice gives the drink a brighter, cleaner snap.
+3. Top with ginger beer, leaving a little room at the top so the drink can be stirred without losing carbonation.
+4. Give it one brief, gentle stir—just enough to combine the citrus, spirit, and ginger beer. Over-stirring will flatten the fizz.
+5. Taste if you like: if it feels too sharp, add a touch more ginger beer; if it feels too soft, a small squeeze of lime will tighten it up.
+6. Garnish with a lime wedge or wheel. A sprig of mint is optional, but it adds a fresh aroma that works especially well with the spicy ginger.
 
-To make a Moscow mule, you will need:
-- Vodka
-- Lime juice
-- Ginger beer
-- Ice
-- Lime or mint for garnish
-- Copper mug (optional)
+## What the Moscow Mule tastes like
 
-Follow these steps:
-1. Fill a highball glass or copper mug with ice.
-2. Add 4.5 cl (9 parts) of vodka to the glass.
-3. Pour in 12 cl (24 parts) of ginger beer.
-4. Add 1 cl (2 parts) of lime juice.
-5. Stir the ingredients gently to combine.
-6. Garnish with a lime wedge or mint sprig.
-7. Serve and enjoy your refreshing Moscow mule!
+A Moscow Mule is light, fizzy, and cold, with a clean vodka base that lets the ginger beer do most of the talking. The lime adds a tart edge that keeps the sweetness in check, while the ginger brings peppery heat and a slightly earthy finish. It is refreshing rather than boozy, which is part of why it became such a durable crowd-pleaser.
 
-## Tips for how to make the perfect Moscow mule
+## Why the copper mug matters
 
--  Use a high-quality vodka: The vodka is the star of the Moscow mule, so make sure you use a high-quality vodka that you would enjoy on its own.
+The copper mug is more than a visual trademark. It chills quickly and makes the drink feel extra cold in the hand and on the lips, which heightens the Mule’s refreshing character. If you do not have one, a highball glass works perfectly well, but the copper vessel is a big part of the classic experience.
 
-- Use freshly squeezed lime juice: Avoid using pre-made lime juice as they often contain artificial flavors and preservatives. Squeeze fresh lime juice for the best taste.
+## A short origin story
 
-- Use ginger beer: Ginger beer is the key to a great Moscow mule. It's important to choose a good quality ginger beer that is not too sweet, and has a sharp ginger flavor.
+The Moscow Mule is generally traced to the United States in the 1940s, most often linked to Los Angeles. The most widely accepted story connects a vodka distributor, a ginger beer producer, and a seller of copper mugs who helped popularize the drink together. Some details vary depending on the source, but its role in boosting vodka’s profile in America is widely repeated.
 
-- Use a copper mug: A copper mug not only gives the drink a classic look, but it also keeps the drink cold for longer, thanks to the metal's temperature-conducting properties.
+## Easy zero-proof Mule
 
-- Garnish with fresh mint and a lime wedge: A sprig of fresh mint and a wedge of lime add a pop of color and flavor to your Moscow mule. 
-
-- Don't overdo it on the ice: A few large ice cubes will keep your drink chilled without watering it down too quickly. 
-
-- Remember the ratio: The classic Moscow mule ratio is 2:1:1 (2 parts vodka, 1 part lime juice, 1 part ginger beer). Adjust to your personal taste.
-
-## Alcohol-free alternative to the Moscow mule
-
-An alcohol free alternative to the drink Moscow mule could be a virgin or alcohol-free Moscow mule. This can be made using the same ingredients as the original cocktail with the exception of vodka. Instead of vodka, ginger beer and lime juice are mixed with ice and served in a copper mug for an authentic feel to the drink. Another alternative could be a ginger ale or soda infused with lime juice and a dash of bitters for a tangy and refreshing non-alcoholic beverage.
-
-## Moscow mule fun facts
-
-1. Moscow Mule is a cocktail made with vodka, ginger beer, and lime juice, often served in a copper mug.
-2. The Moscow Mule was created in the 1940s, when a liquor importer and a ginger beer maker teamed up to sell both products.
-3. The copper mugs are not just for show - they actually help keep the drink colder for longer due to their temperature-conductive properties.
-4. The Moscow Mule is sometimes referred to as a "Mule" for short.
-5. In the 1950s, the Moscow Mule became popular with Hollywood actors and celebrities, leading to a surge in its popularity across the United States.
+For a non-alcoholic version, skip the vodka and use extra ginger beer with fresh lime over ice. If you want more body, add a splash of chilled soda water or a non-alcoholic spirit alternative. Keep the copper mug, the lime garnish, and the cold temperature—the style still works beautifully without alcohol.

@@ -23,41 +23,27 @@ Pour all ingredients into a cocktail shaker, shake well with ice, double-strain 
 
 ![](/cocktail-images/southside.jpeg)
 
+## How to shake a Southside properly
 
-## Directions for how to make the Southside
+1. Chill a cocktail glass first so the drink stays crisp and cold once poured. A Southside is best served very cold and without ice in the glass.
+2. Add the gin, fresh lemon juice, simple syrup, and mint leaves to a shaker. If using egg white, add just a few drops here as well for a softer texture and a light foam.
+3. Gently press the mint once or twice before shaking, just enough to release its oils. Avoid over-muddling, which can make the drink taste grassy or bitter.
+4. Fill the shaker well with ice and shake hard until the tin feels thoroughly frosted. If you included egg white, shake especially vigorously to build texture.
+5. Double-strain into the chilled cocktail glass through both a Hawthorne strainer and a fine mesh strainer. This keeps out mint fragments and gives the drink a clean surface.
+6. Serve immediately. A small mint leaf can work as garnish, but keep it restrained so the drink stays elegant rather than overly aromatic.
 
-1. Take a cocktail shaker and fill it with ice.
-2. Add 60 ml London Dry gin to the shaker.
-3. Pour 30 ml of lemon juice in.
-4. Add 15 ml of simple syrup.
-5. Put 5-6 mint leaves into the shaker.
-6. Optionally add a few drops of egg white.
-7. Shake the mixture well for at least 10-15 seconds.
-8. Double-strain the mixture into a chilled cocktail glass.
-9. Optionally garnish the drink with a sprig of mint.
+## What the Southside tastes like
 
-## Tips for how to make the perfect Southside
+The Southside sits in the same refreshing family as a gin sour, but mint gives it a cooler, cleaner finish. London Dry gin brings juniper and citrus peel, lemon adds sharp brightness, and the syrup rounds it out. When egg white is included, the texture becomes silkier and slightly more plush without changing the flavor much.
 
-- Use fresh ingredients: The key to a perfect Southside drink is using fresh ingredients. Use fresh mint leaves, lime juice, and good quality gin.
+## Best moments to serve it
 
-- Don't skimp on the mint: Mint is the star ingredient in a Southside drink, so don't be afraid to use a lot of it. Muddle several sprigs of mint in the bottom of your cocktail shaker before adding the other ingredients.
+This is an excellent aperitif cocktail: light, brisk, and polished. It works especially well in warm weather, at garden parties, or anywhere a Martini might feel too severe. Because it is served straight up, dilution matters, so shake thoroughly but serve at once.
 
-- Balance the sweet and sour: A great Southside drink is a balance between sweet and sour. Use simple syrup or sugar to sweeten the drink and fresh lime juice for the sour component.
+## Southside background and bar lore
 
-- Shake, shake, shake: Make sure to shake the drink well to ensure that all the flavors are fully mixed and the drink is ice cold.
+The exact origin is a bit uncertain. The most repeated story links the drink either to Chicago’s South Side during the Prohibition era or to East Coast private clubs such as New York’s 21 Club. The most credible takeaway is that it emerged as an early-20th-century gin-and-mint sour with strong pre-Prohibition or Prohibition-era roots.
 
-- Don't forget the garnish: A sprig of fresh mint and a lime wedge are classic garnishes for a Southside drink. Not only do they look great, but they also add extra flavor to the drink.
+## A zero-proof Southside-style version
 
-- Serve in a chilled glass: Serve the drink in a chilled glass to keep it cold and refreshing. A coupe or martini glass works well for a Southside drink.
-
-## Alcohol-free alternative to the Southside
-
-An alcohol-free alternative to Southside is a beverage called "Virgin Southside". This drink consists of fresh lime juice, simple syrup or honey, and mint leaves. It is a refreshing and citrusy drink that is perfect for those who want to enjoy the taste of Southside without the alcohol. To make the Virgin Southside, add fresh lime juice, simple syrup or honey, and mint leaves to a cocktail shaker. Fill the shaker with ice, and shake vigorously for about 10-15 seconds. Strain the mixture into a glass filled with ice, and garnish with a sprig of fresh mint. Enjoy!
-
-## Southside fun facts
-
-1. The Southside cocktail originated in Chicago during the Prohibition era, where it was popularized by notorious gangster Al Capone and his associates.
-2. The classic recipe for a Southside includes gin, mint, simple syrup, and fresh lime juice, but variations may include other ingredients like cucumber or grapefruit.
-3. The Southside was reportedly a favorite of American presidents Franklin D. Roosevelt and John F. Kennedy.
-4. The cocktail's name comes from the South Side neighborhood of Chicago, where it was first created and often served in local speakeasies.
-5. Some bartenders suggest shaking a Southside vigorously before straining it into a glass to create a frothy, almost creamy texture.
+For a non-alcoholic take, use a juniper-forward alcohol-free spirit in place of gin. Shake it with lemon, simple syrup, and mint exactly the same way, then double-strain into a chilled glass. You keep the bright herbal snap and refreshing structure, just without the alcohol.

@@ -21,38 +21,27 @@ Build all ingredients into a wine glass filled with ice. Stir gently.
 
 ![](/cocktail-images/spritz.jpeg)
 
+## Building a classic Spritz over ice
 
-## Directions for how to make the Spritz
+1. Fill a chilled white wine glass generously with fresh ice. Plenty of ice is important here: it keeps the drink brisk and slows dilution so the bubbles stay lively.
+2. Pour in the sparkling wine first, aiming down the inside of the glass to preserve carbonation. A dry, bright Prosecco is the usual choice and gives the drink its light, orchard-fruit backbone.
+3. Add your bitter aperitivo next. Select gives a more traditional Venetian feel, Aperol makes it softer and orange-forward, Campari pushes it more bitter and vivid, and Cynar adds a darker herbal note.
+4. Top with a small splash of soda water rather than a heavy pour. The goal is lift and freshness, not to wash out the balance between wine and bitters.
+5. Stir gently once or twice with a bar spoon. You want the ingredients combined without knocking too much fizz out of the drink.
+6. Serve immediately while cold and sparkling. If you like, a slice of orange or a green olive can reinforce the style of aperitivo you chose.
 
-1. Fill a white wine glass with ice.
-2. Pour 9 cl of Prosecco into the glass.
-3. Choose between Select, Aperol, Campari or Cynar, and pour 6 cl of one of them into the glass.
-4. Add a splash of soda water.
-5. Stir gently.
-6. Serve immediately.
+## What a Spritz tastes like
 
-## Tips for how to make the perfect Spritz
+A Spritz is all about contrast: bubbly, lightly sweet, distinctly bitter, and very refreshing. The sparkling wine keeps it crisp, while the aperitivo brings citrus peel, herbs, and a softly bitter finish. With Aperol it reads easygoing and sunny; with Campari it becomes sharper and more adult; with Select it lands somewhere in between, with a classic Venetian aperitif character.
 
-- Start with Prosecco: The perfect Spritz requires a good quality Prosecco. Make sure to choose a dry Prosecco as it balances the sweetness of the Aperol or Campari. 
+## Venetian roots and modern fame
 
-- Add Aperol or Campari: A Spritz needs either Aperol or Campari to give it the distinct citrus and bittersweet flavor. Add just the right amount according to your taste. 
+The Spritz is most closely associated with Venice and the wider Veneto region. Its deeper origin is a little fuzzy, but the most credible story traces the name to the German *spritzen*, referring to adding a splash of water to local wine during the Habsburg era. Over time, sparkling wine and Italian bitter aperitivi turned that simple habit into the modern cocktail now seen everywhere from canal-side bars to summer terraces worldwide.
 
-- Add Soda Water: The final ingredient to the recipe is soda water or sparkling water. Add a splash or two to create the perfect balance of fizz and refreshing taste. 
+## Best way to serve it
 
-- Ice and a slice of orange: Top off the drink with some ice and a slice of orange for a beautiful and delicious presentation. Enjoy your perfect Spritz!
+This drink works best as a pre-dinner aperitif alongside salty snacks, olives, crisps, or light seafood. Use lots of ice, serve it very cold, and don’t over-stir. If making one for someone new to bitter drinks, choose Aperol or use a slightly smaller measure of the bitter component at first.
 
-## Alcohol-free alternative to the Spritz
+## A no-alcohol Spritz-style alternative
 
-One popular alcohol-free alternative to Spritz is the "Mocktail Spritz." This refreshing beverage is made with sparkling water, muddled fruit (such as raspberries, strawberries or citrus), and mixers like simple syrup or elderflower syrup. It can be served in a wine glass or a lowball glass over ice with a slice of fruit for garnish. Another alternative is a Blueberry Lemonade Spritz made with blueberries, lemon juice, simple syrup, and soda water. The mixture is then poured over ice and garnished with a lemon slice and a sprig of fresh mint.
-
-## Spritz fun facts
-
-1. **Originated in Italy:** Originally created in northeastern Italy, the Spritz has become a beloved cocktail all around the world.
-
-2. **Aperol is the most popular liqueur to use:** Aperol is the most used liqueur for a Spritz, but the drink can be made with other liqueurs such as Campari or Cynar.
-
-3. **The name comes from the German Word Spritzeń:** Spritz means “splash” or “spray” in German.
-
-4. **It's usually enjoyed as an aperitif:** The drink is a popular aperitif in Italy and is perfect for sipping before a meal.
-
-5. **Variations exist:** Variations of the drink can be made by adding different flavors such as cucumber, lemon, or strawberry to give the drink a unique flavor.
+For a zero-proof version, build the drink with alcohol-free sparkling wine, a non-alcoholic Italian-style bitter aperitif, and soda over ice. Keep the same structure and garnish with orange. You’ll get the same bubbly, bittersweet aperitivo vibe without the alcohol.

@@ -24,41 +24,25 @@ Pour all ingredients except the wine into cocktail shaker, shake well with ice, 
 
 ![](/cocktail-images/old_cuban.jpeg)
 
+## How to build an Old Cuban
 
-## Directions for how to make the Old Cuban
+1. Chill a cocktail glass first so the drink stays brisk and lively once poured. A well-chilled glass also helps preserve the sparkle added at the end.
+2. Place the mint leaves in a shaker and add the rum, fresh lime, syrup, and bitters. Give the mint a very gentle press if needed, but avoid crushing it hard; you want aromatic oils, not bitter green flavors.
+3. Fill the shaker well with ice and shake until the tin feels thoroughly cold. This drink benefits from a firm shake because it needs both dilution and lift before the sparkling topper goes in.
+4. Double strain into the chilled glass to catch mint fragments and tiny ice shards. The result should look clean and elegant rather than leafy.
+5. Top with the sparkling wine slowly, leaving enough room for a small fragrant garnish. Stirring is usually unnecessary; the bubbles will integrate the drink naturally.
+6. Finish with a fresh mint sprig, ideally slapped once between your hands to wake up its aroma, then serve immediately while the mousse is still bright.
 
-1. Pour 4.5 cl of aged rum into a cocktail shaker.
-2. Add 2.25 cl of fresh lime juice to the shaker.
-3. Pour 3 cl of simple syrup into the shaker.
-4. Add 2 dashes of Angostura bitters to the shaker.
-5. Tear 6-8 mint leaves and add them to the shaker.
-6. Fill the shaker with ice and shake well.
-7. Strain the mixture into a chilled elegant cocktail glass.
-8. Top up the glass with 6 cl of champagne brut or Prosecco.
-9. Garnish the cocktail with mint sprigs before serving.
+## What it tastes like in the glass
 
-## Tips for how to make the perfect Old Cuban
+The Old Cuban sits somewhere between a Mojito and a French 75, but with deeper, warmer character from aged rum. Expect bright lime up front, cooling mint on the nose, a touch of spice from bitters, and a dry sparkling finish that keeps the sweetness in check. It feels festive and refreshing, yet a little richer than most champagne-topped cocktails.
 
-- Start with high-quality ingredients, including fresh lime juice and mint leaves. 
+## Why the Old Cuban became a modern classic
 
-- Use a good quality aged rum for a richer flavor. 
+Despite its name, this is not a pre-Prohibition Cuban classic. It is generally credited to Audrey Saunders of Pegu Club in New York in the early 2000s. The name nods to old-school Cuban rum-and-mint traditions, but the drink itself is a modern creation that quickly earned contemporary-classic status.
 
-- Muddle the mint leaves and lime juice together before adding the other ingredients. 
+## Best pour, garnish, and easy alcohol-free riff
 
-- Add simple syrup and Angostura bitters for a sweet yet balanced taste. 
+Use a dry sparkling wine rather than anything sweet, or the drink can turn soft and syrupy. A coupe or cocktail glass suits its polished style best.
 
-- Top off with a splash of champagne for a bit of fizz and sophistication. 
-
-- Serve in a chilled glass and garnish with a mint sprig and lime wheel.
-
-## Alcohol-free alternative to the Old Cuban
-
-One alternative to the alcoholic drink Old Cuban could be a non-alcoholic mojito. This drink can be made by muddling fresh mint leaves and lime wedges together in a glass, and then adding ice and topping it off with 7-up or another soda. This drink provides the refreshing taste of mint and lime, without the added alcohol content of the Old Cuban. Another option could be a virgin daiquiri made with fresh fruit juices and blended ice for a frozen, fruity drink without the alcohol. For those who prefer a more sophisticated drink, a virgin Mary Pickford can be made with pineapple juice, grenadine, and soda water, served over ice with a garnish of pineapple and a maraschino cherry. These alcohol-free alternatives are perfect for those who want to enjoy the flavors and experience of a classic cocktail, without the alcohol.
-
-## Old Cuban fun facts
-
-1. Old Cuban is a cocktail that originated in New York City in the 1990s, despite its name evoking images of Cuba.
-2. The drink is a champagne cocktail made with rum, mint, lime juice, simple syrup, and Angostura bitters.
-3. The Old Cuban was created by bartender Audrey Saunders, who is known as the "queen of cocktails" and has won multiple awards for her creations.
-4. The cocktail is named after its key ingredient, rum, which was historically associated with sailors and pirates who were often referred to as "old salts" or "old seadogs."
-5. Some variations of the Old Cuban call for the use of cava instead of champagne, and others use different types of rum or mint varieties to create unique flavor profiles.
+For a non-alcoholic version, shake lime juice, simple syrup, a few mint leaves, and a couple dashes of non-alcoholic aromatic bitters with ice, then strain and top with chilled non-alcoholic sparkling wine or sparkling tea. It keeps the same celebratory mint-citrus profile without the rum.

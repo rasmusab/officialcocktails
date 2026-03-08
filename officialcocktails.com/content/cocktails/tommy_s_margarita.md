@@ -21,33 +21,26 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into a 
 
 ![](/cocktail-images/tommy_s_margarita.jpeg)
 
+## Building a Tommy’s Margarita over ice
 
-## Directions for how to make the Tommy's margarita
+1. Chill a rocks glass while you prepare the drink, then fill it with fresh ice so the final pour stays crisp and cold.
+2. Add reposado tequila, freshly squeezed Persian lime juice, and agave syrup to a shaker tin. Using fresh juice matters here: the drink is simple, so any flat or bottled citrus will stand out.
+3. Fill the shaker generously with ice and shake hard for about 10 to 15 seconds. You want the mix properly chilled and slightly aerated, with enough dilution to soften the lime’s sharp edge.
+4. Discard the ice from the chilling step if it has melted too much, then refill the glass with solid cubes. Fresh ice helps keep the texture bright rather than watery.
+5. Strain the cocktail into the prepared rocks glass over ice. A fine strain is optional, but it can remove tiny shards and pulp for a cleaner look.
+6. Taste mentally before garnishing: Tommy’s Margarita is usually presented very simply, often without a salted rim, so balance in the shaker is the main event.
+7. If needed, make a tiny adjustment next round rather than in the glass: a touch more agave for roundness, or a little more lime for extra snap.
 
-1. Combine 60 ml of Tequila agave 100% reposado, 30 ml of Fresh lime juice (Persiano), and 30 ml of Agave syrup (1/2 water + 1/2 agave nectar) in a cocktail shaker.
-2. Add ice to the cocktail shaker.
-3. Shake the cocktail shaker well.
-4. Strain the mixture into a chilled rocks glass.
-5. Fill the rocks glass with ice.
-6. Garnish with a lime wedge, if desired.
-7. Serve and enjoy!
+## What makes Tommy’s different from a classic Margarita
 
-## Tips for how to make the perfect Tommy's margarita
+This version swaps orange liqueur for agave syrup, giving the drink a more direct agave character and a softer, earthier sweetness. The result is lean, vivid, and focused on tequila rather than citrus-and-orange complexity. Reposado adds gentle oak, spice, and a mellow backbone that works especially well on the rocks.
 
-- Use high-quality, 100% agave tequila for the best flavor.
-- Freshly squeezed lime juice is crucial for a tart and refreshing taste. Avoid using bottled lime juice.
-- Use agave nectar instead of simple syrup for a smoother flavor.
-- Shake the margarita with ice until well chilled, then strain into a salt-rimmed glass for the perfect balance of sweetness and saltiness.
-- Feel free to customize with different types of tequila, such as reposado or añejo, for slightly different flavor profiles.
+## Tommy’s Margarita: origin and bar lore
 
-## Alcohol-free alternative to the Tommy's margarita
+Tommy’s Margarita is widely credited to Julio Bermejo of Tommy’s Mexican Restaurant in San Francisco, developed in the late 1980s or early 1990s. That origin is well accepted in modern cocktail culture, though exact first-date details vary by source. The drink became hugely influential because it helped push bartenders and drinkers toward better tequila and a deeper appreciation of agave spirits.
 
-One alcohol-free alternative to Tommy's Margarita is the Virgin Margarita. The ingredients are lime juice, orange juice, agave syrup, and soda water. To create it, combine 1 oz lime juice, 1 oz orange juice, and 1 oz agave syrup in a cocktail shaker with ice, and shake well. Strain the mixture over ice in a glass, and then top with soda water. Garnish the drink with a lime wedge and enjoy!
+## Best ways to serve it, plus a booze-free take
 
-## Tommy's margarita fun facts
+Serve it very cold, with good dense ice and no fussy garnish. It pairs especially well with salty snacks, grilled food, and bright salsas.
 
-1. Tommy's margarita was created in the 1990s by Julio Bermejo at his family's restaurant, Tommy's Mexican Restaurant, in San Francisco.
-2. The recipe for Tommy's margarita only includes three ingredients: 100% agave tequila, lime juice, and agave nectar.
-3. Unlike traditional margaritas made with triple sec or another orange liqueur, Tommy's margarita allows the flavor of the tequila to shine through.
-4. Tommy's margarita has become so popular that it spurred a movement to create "The Tommy's Margarita Standard," a set of guidelines for making the perfect Tommy's margarita.
-5. Tommy's margarita is often referred to as a "skinny margarita" because the use of agave nectar instead of simple syrup reduces the calorie count.
+For a non-alcoholic riff, use a quality non-alcoholic tequila alternative, fresh lime juice, and the same agave syrup. Shake and strain over ice as usual. Add a tiny pinch of salt if you want a bit more structure and a closer Margarita-like finish.

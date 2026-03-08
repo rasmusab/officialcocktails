@@ -21,33 +21,27 @@ Shake together over ice.  Strain into cocktail glass and serve chilled.
 
 ![](/cocktail-images/paradise.jpeg)
 
+## Shaking a Paradise that stays bright and silky
 
-## Directions for how to make the Paradise
+1. Fill a shaker with plenty of cold ice so the drink chills quickly without turning watery.
+2. Pour in the gin, apricot brandy, and fresh orange juice. Freshly squeezed juice gives a cleaner citrus snap and keeps the drink from tasting flat.
+3. Shake hard for about 10 to 12 seconds. The goal is a very cold, lightly aerated mix with the fruit fully integrated into the spirits.
+4. Strain into a well-chilled cocktail glass. A fine strain is helpful if your orange juice has lots of pulp.
+5. Serve immediately, straight up and ice-free, while the texture is still taut and the aroma is vivid.
+6. If you want a slightly drier version, use a more restrained apricot brandy pour or choose a less sweet apricot liqueur style.
 
-1. Fill a cocktail shaker with ice.
-2. Add 3.5 cl (7 parts) gin to the shaker.
-3. Add 2 cl (4 parts) apricot brandy to the shaker.
-4. Add 1.5 cl (3 parts) orange juice to the shaker.
-5. Shake the shaker vigorously for 10-15 seconds.
-6. Place a cocktail strainer on top of the shaker.
-7. Pour the mixture through the strainer into a chilled cocktail glass.
-8. Serve immediately and enjoy your Paradise drink!
+## What Paradise tastes like
 
-## Tips for how to make the perfect Paradise
+Paradise sits in a classic sweet-tart zone: juniper and botanicals from the gin up front, soft stone-fruit sweetness in the middle, and a bright orange finish that keeps it lively. It is not as bracing as a Martini and not as juicy as a modern brunch cocktail. The balance works best when the orange juice is fresh and the apricot note stays supportive rather than syrupy.
 
-- Use fresh and high-quality ingredients, such as freshly squeezed orange juice and premium rum. 
-- Use a cocktail shaker and shake vigorously with ice to ensure the ingredients are well-mixed and chilled. 
-- Garnish with a slice of pineapple or orange to add a nice touch of tropical flair. 
-- Experiment with different fruit juices and rum blends to find your preferred flavor profile.
+## Getting the glass and temperature right
 
-## Alcohol-free alternative to the Paradise
+This drink benefits from real chill. Put the cocktail glass in the freezer for a few minutes before mixing, or fill it with ice water while you shake, then dump it before straining. Because it is served without ice, temperature matters more than dilution once it hits the glass. A small coupe or cocktail glass helps it stay cold to the last sip.
 
-One alcohol-free alternative to the drink Paradise would be a mocktail made with fruit juices, such as orange, pineapple, and cranberry, mixed with a splash of club soda or sparkling water for a fizzy finish. To enhance the sweetness, honey or agave syrup can be added as a natural sweetener. A garnish of a pineapple wedge or orange slice can add a tropical touch and visually enhance the drink's appeal. This mocktail can provide a refreshing and fruity drink option that can be enjoyed by all, regardless of alcohol preferences.
+## A classic with slightly hazy origins
 
-## Paradise fun facts
+Paradise is counted among the IBA’s *Unforgettables*, which places it in the company of early 20th-century classics. Exact origin details are not perfectly settled, but it is generally associated with the interwar era, when fruit-accented gin cocktails were especially fashionable. Its staying power comes from its simplicity: just three components, but a profile that feels elegant rather than obvious.
 
-1. Paradise is a tiki-style cocktail that was first documented in the 1930s and has since become a classic drink in the world of mixology.
-2. The drink is made with gin, apricot brandy, and orange juice, and is often garnished with a cherry and a slice of orange or pineapple.
-3. Despite its name, the Paradise cocktail has no actual connection to the tropical fruit or the concept of paradise - it is simply a catchy name that was chosen by the drink's creator.
-4. The Paradise cocktail is often associated with beach culture and tiki bars, and is frequently served in tiki-themed glassware.
-5. There are many variations of the Paradise cocktail, with some recipes including ingredients like lemon juice, grenadine, or bitters, and others using different types of brandy or liqueurs.
+## A zero-proof Paradise-inspired version
+
+For a non-alcoholic take, combine a juniper-forward alcohol-free spirit, apricot nectar or a non-alcoholic apricot cordial, and fresh orange juice. Shake with ice and strain into a chilled coupe. If it tastes too soft, add a few drops of lemon juice to sharpen the finish.

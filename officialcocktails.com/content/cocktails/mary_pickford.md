@@ -22,32 +22,26 @@ Shake and strain into a chilled large cocktail glass
 
 ![](/cocktail-images/mary_pickford.jpeg)
 
+## Shaking a Mary Pickford the classic way
 
-## Directions for how to make the Mary Pickford
+1. Chill a large cocktail glass first. A few minutes in the freezer works best, or fill it with ice water while you prep the drink.
+2. Add white rum, fresh pineapple juice, grenadine, and maraschino liqueur to a cocktail shaker. Fresh juice matters here: canned pineapple can make the drink taste heavier and sweeter.
+3. Fill the shaker generously with cold ice and shake hard for about 10 to 15 seconds. You want the mixture properly chilled and lightly aerated so the pineapple brightens rather than turns syrupy.
+4. Empty the chilling ice from the glass, then fine strain the drink into the glass to keep out small ice shards and pineapple pulp.
+5. Serve immediately, straight up and very cold. If you like, add a cherry or a small pineapple leaf for a simple period-style garnish, but the drink is often served without much decoration.
 
-1. Add 4.5 cl of white rum to a cocktail shaker.
-2. Add 4.5 cl of fresh pineapple juice to the cocktail shaker.
-3. Measure 0.5 cl of Grenadine and add it to the cocktail shaker.
-4. Measure 0.75 cl of Maraschino and add it to the cocktail shaker.
-5. Fill the shaker with ice.
-6. Shake vigorously for about 10-15 seconds.
-7. Strain the mixture into a chilled cocktail glass.
-8. Garnish with a pineapple wedge or cherry if desired.
-9. Serve and enjoy!
+## What the Mary Pickford tastes like
 
-## Tips for how to make the perfect Mary Pickford
+This is a small, elegant rum cocktail with a soft pink hue and a deceptively friendly profile. The pineapple gives it a lush tropical roundness, while grenadine adds color and a gentle berry-like sweetness. Maraschino brings a dry cherry-almond edge that keeps the drink from becoming one-note. The result is fruity but not quite a “juice drink,” especially when the balance stays crisp and cold.
 
-- Use fresh pineapple juice and muddle some pieces of ripe pineapple to add depth to the flavor.
-- Use real maraschino liqueur instead of the bright red syrupy version commonly found in stores.
+## Hollywood ties and Prohibition-era glamour
 
-## Alcohol-free alternative to the Mary Pickford
+The Mary Pickford is usually linked to the 1920s and named for the silent-film superstar Mary Pickford. It is often associated with Havana, a favorite refuge for Americans during Prohibition, and with the circle of bartenders and celebrities traveling through Cuba at the time. Exact authorship is a bit uncertain, but the Havana connection is the most widely accepted version of its story.
 
-One alcohol-free alternative to the drink Mary Pickford is the "Virgin Pineapple Coconut Cooler". This refreshing tropical drink is made with freshly squeezed pineapple juice, coconut water, and a splash of lime juice. To make it, simply mix equal parts pineapple juice and coconut water in a glass with ice, and add a squeeze of fresh lime juice. Garnish with a slice of pineapple or a sprig of mint for added flavor and visual appeal. This drink is perfect for anyone who wants to enjoy a refreshing beverage without the added calories and effects of alcohol.
+## Best ways to serve it well
 
-## Mary Pickford fun facts
+This drink benefits from restraint. Because both pineapple and grenadine can read sweet quickly, keep the pour accurate and the shake brisk. A drier white rum can make the cocktail feel more refined, while a rich, funky rum can push it into a more tropical direction. Serve it before dinner or early in the evening, when its bright fruit and polished texture feel most at home.
 
-1. The drink is named after the popular silent film actress Mary Pickford, who was known as "America's Sweetheart" in the 1910s.
-2. It was created during prohibition in Cuba, where Pickford frequently vacationed.
-3. The drink features a unique combination of white rum, pineapple juice, Grenadine syrup, and maraschino liqueur.
-4. The drink is traditionally served over crushed ice and garnished with a maraschino cherry.
-5. The Mary Pickford was one of the most popular cocktails of the 1920s and is still enjoyed by cocktail enthusiasts today.
+## A no-proof Mary Pickford-style riff
+
+For a non-alcoholic version, combine fresh pineapple juice with a small barspoon of grenadine and a few drops of cherry syrup or non-alcoholic maraschino-style cherry liquid. Shake with ice and strain into a chilled cocktail glass. If it needs structure, add a tiny squeeze of lime to sharpen the finish.

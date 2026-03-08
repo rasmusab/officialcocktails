@@ -21,34 +21,27 @@ Stirred over ice, strained into a chilled glass, garnished, and served up.
 
 ![](/cocktail-images/hanky_panky.jpeg)
 
+## Stir, chill, and balance the Hanky Panky
 
-## Directions for how to make the Hanky panky
+1. Place a cocktail glass in the freezer for a few minutes, or fill it with ice water while you mix so the finished drink stays properly cold.
+2. Fill a mixing glass with plenty of fresh ice. Add the gin first, then the sweet vermouth, followed by the small but crucial measure of Fernet-Branca.
+3. Stir steadily for about 20 to 25 seconds. You want thorough chilling and dilution, not aeration; the drink should come out silky and clear rather than frothy.
+4. Empty the chilling ice from the serving glass if needed, then strain the mixture finely into the cold cocktail glass.
+5. Garnish with an orange twist, expressing the oils over the surface before dropping it in or discarding it, depending on your preference.
+6. Serve immediately, straight up and very cold. If the first sip feels too stern, let it sit for half a minute; the aromatics open up quickly.
 
-1. Fill a mixing glass with ice
-2. Pour 45 ml of London dry gin over the ice
-3. Add 45 ml of sweet red vermouth 
-4. Add 7.5 ml of Fernet-Branca
-5. Stir the ingredients in the mixing glass until well chilled
-6. Strain the cocktail into a chilled Cocktail glass
-7. Garnish with an orange twist
-8. Serve the cocktail up.
+## Why this one tastes so distinctive
 
-## Tips for how to make the perfect Hanky panky
+The Hanky Panky drinks like a martini’s darker, more mischievous cousin. The base is rich and botanical, with the vermouth bringing sweetness and depth while Fernet adds menthol, bitter herbs, and a dry, lingering finish. That tiny herbal accent is what makes the drink memorable: too little and it feels flat, too much and it can turn aggressively medicinal.
 
-- Use high-quality gin and sweet vermouth for the best taste.
-- Don't skimp on the ice - use plenty of it to keep the drink cold and balanced.
-- Stir the ingredients in a mixing glass filled with ice for at least 30 seconds to ensure proper dilution and a smooth texture.
-- Strain the mixture into a chilled cocktail glass for the perfect presentation.
-- Garnish with a lemon twist for a refreshing aroma and added flavor.
+## Savoy roots and its famous name
 
-## Alcohol-free alternative to the Hanky panky
+The drink is most commonly linked to Ada Coleman, legendary head bartender at the American Bar in London’s Savoy Hotel in the early 1900s. The usual story is that she created it for actor Sir Charles Hawtrey, who reportedly exclaimed that it was a “hanky panky.” Exact details are hard to verify perfectly, but Coleman’s authorship is widely accepted and the cocktail has long been counted among the classic early 20th-century standards.
 
-As an AI language model, I cannot promote or encourage the consumption of alcohol or any specific alcoholic beverage. However, an alcohol-free alternative for Hanky Panky could be a mocktail with similar flavors such as a peppermint hot chocolate or a virgin chocolate martini made with chocolate syrup and cream, and topped with a dash of peppermint extract.  This could be enjoyed without the effects of alcohol.
+## Best way to serve it well
 
-## Hanky panky fun facts
+This is at its best before dinner, very cold, and in a small stemmed glass. A fresh orange twist lifts the nose and softens Fernet’s stern edge. If you like Manhattan-style drinks or Martinez-family cocktails, this often lands beautifully.
 
-1. The Hanky Panky cocktail was created by Ada "Coley" Coleman, who was the head bartender at the American Bar at the Savoy Hotel in London in the early 1900s.
-2. The name "Hanky Panky" came from a phrase used by Coleman's patrons to describe the effect the cocktail had on them.
-3. The original recipe calls for equal parts gin and sweet vermouth, with a small amount of Fernet-Branca, an Italian bitter liqueur.
-4. The Hanky Panky cocktail was a favorite of James Bond creator Ian Fleming, who frequently drank it at the American Bar.
-5. The Hanky Panky cocktail has experienced a resurgence in popularity in recent years and is now available at many craft cocktail bars around the world.
+## Zero-proof idea with similar intrigue
+
+For a non-alcoholic version, stir together equal parts non-alcoholic gin alternative and a dealcoholized rosso-style aperitif, then add a barspoon or two of a bitter herbal spirit alternative. Stir over ice, strain up, and finish with orange peel. Keep the bitter element restrained so it stays complex rather than overpowering.

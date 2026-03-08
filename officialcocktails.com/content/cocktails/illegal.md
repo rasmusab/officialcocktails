@@ -25,40 +25,27 @@ Pour all ingredients into shaker with ice cubes. Shake vigorously. Strain into c
 
 ![](/cocktail-images/illegal.jpeg)
 
+## How to mix an Illegal properly
 
-## Directions for how to make the Illegal
+1. Chill your serving vessel first: either a cocktail glass for the straight-up version or a clay/terracotta mug if you want it over ice. A cold glass helps keep the drink tight and aromatic.
+2. Add the smoky agave spirit, overproof white rum, falernum, maraschino liqueur, fresh lime juice, and simple syrup to a shaker. If you want a softer texture and a light froth, add a few drops of egg white.
+3. Fill the shaker well with ice and shake hard for about 10 to 15 seconds. The goal is not just chilling, but fully integrating the sweet, sour, smoky, and spiced elements.
+4. For a silkier texture when using egg white, you can briefly dry shake first without ice, then shake again with ice. This is optional but gives a more polished finish.
+5. Strain into the chilled cocktail glass for the up version. If serving on the rocks, strain over fresh ice in the clay mug.
+6. Serve immediately. No garnish is essential, but the drink benefits from being presented simply so the aroma of mezcal and spice leads.
 
-1. Prepare a cocktail shaker.
-2. Add 3 cl Mezcal (espadin), 1.5 cl Jamaica overproof white rum, 1.5 cl Falernum, 1 barspoon maraschino Luxardo, 2.25 cl fresh lime juice, 1.5 cl simple syrup, and a few drops of egg white (optional) into the shaker.
-3. Add a handful of ice cubes to the shaker.
-4. Shake the mixture vigorously for about 20 seconds.
-5. Strain the mixture into a chilled cocktail glass or, if preferred, over ice into a traditional clay or terracotta mug.
-6. Serve and enjoy!
+## Why Illegal tastes the way it does
 
-## Tips for how to make the perfect Illegal
+Illegal is a sharp, modern sour with a split personality: mezcal brings smoke and earthy depth, while the rum keeps the drink lively and high-toned. Falernum contributes clove, ginger, and almond-like spice, and the maraschino adds a dry cherry-nut accent rather than obvious sweetness. Lime keeps the whole thing taut.
 
-- **Use high-quality ingredients**: If you want your illegal drink to be a hit, use ingredients that are both tasty and of high quality. Never skimp on the ingredients.
+Straight up, it feels more focused and elegant. On the rocks, it opens gradually and becomes a little more relaxed and refreshing.
 
-- **Experiment with different flavors**: Creating the perfect illegal drink requires you to be creative with different flavors. Try out different mixtures and combinations until you find the perfect taste.
+## Clay mug or cocktail glass?
 
-- **Mix the ingredients properly**: Always mix the ingredients properly to ensure that the flavors are well-blended.  Shake or stir the drink to perfection.
+The two serving styles create noticeably different experiences. In a cocktail glass, the drink reads as a brisk, structured modern classic. In a clay or terracotta mug, it leans rustic, cooler, and slightly more aromatic, especially as the vessel emphasizes the mezcal’s earthy side. If using the mug, solid fresh ice matters more than crushed ice so the balance stays intact.
 
-- **Balance alcohol content**: Know the perfect amount of alcohol content needed for your illegal drink. Too little will make it weak, while too much can make it unpalatable.
+## A little backstory and a zero-proof idea
 
-- **Presentation is key**: How your drink is presented will affect how it is received. Use quality glasses, garnishes, and decorations to make it look impressive.
+The exact origin story is not always told consistently, but Illegal is widely associated with the modern mezcal-cocktail revival and likely takes its name from Ilegal Mezcal, the brand closely linked to its popularity.
 
-- **Serve chilled**: For a refreshing drink, serve it chilled. Chill the drink for a while before serving. 
-
-- **Don't drink too much**: Enjoy your drink in moderation. Keep in mind that it is illegal, and excess consumption can lead to unwanted attention or trouble.
-
-## Alcohol-free alternative to the Illegal
-
-There are several alcohol-free alternative drinks to Illegal that one can try. One of them is Seedlip, a non-alcoholic spirit that has been distilled from natural ingredients such as herbs, fruits, and spices. The drink comes in three different flavors: Spice 94, Garden 108, and Grove 42. The Spice 94 variety features a blend of aromatic spices such as allspice, cardamom, and oak, while the Garden 108 has a combination of peas, hay, and mint. The Grove 42, on the other hand, is made up of zesty citrus fruits such as blood orange, mandarin, and lemon. These non-alcoholic spirits can be mixed with tonic or soda water to create a refreshing, complex drink that has no negative health impact like traditional alcoholic beverages. Other alternatives include alcohol-free beers, ciders, and wines.
-
-## Illegal fun facts
-
-1. Illegal is a premium mezcal produced and bottled in Oaxaca, Mexico.
-2. Its logo features a rabbit, which represents the Mexican mythological figure Mayahuel, the goddess of agave.
-3. The founders of Illegal were inspired to create the brand after discovering a hidden mezcal bar in Oaxaca that served illegal mezcal.
-4. The agave used in Illegal's production is harvested when the plant is 8-12 years old, which contributes to its complex flavor profile.
-5. Illegal's mezcal is produced in small batches and bottled by hand, ensuring quality and attention to detail in each bottle.
+For a non-alcoholic adaptation, use a smoked agave-style NA spirit or a mix of lapsang souchong tea and a touch of alcohol-free white rum alternative. Combine that with a falernum syrup, fresh lime, and a few drops of aquafaba instead of egg white. The result won’t fully mimic the original, but it preserves the smoky-citrus-spice profile that makes the drink memorable.

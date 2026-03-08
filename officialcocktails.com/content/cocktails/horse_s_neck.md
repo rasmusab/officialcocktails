@@ -21,36 +21,28 @@ Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gen
 
 ![](/cocktail-images/horse_s_neck.jpeg)
 
+## Building a Horse’s Neck over ice
 
-## Directions for how to make the Horse's neck
+1. Fill a chilled highball glass nearly to the top with fresh ice. Large, solid cubes work best because they melt more slowly and keep the drink lively instead of watered down.
+2. If you want the classic look, cut a long spiral of lemon peel before you start. Twist it gently over the glass to release its oils, then drape it inside so the peel hangs down like a “neck.”
+3. Pour the brandy over the ice first, letting it settle through the glass. This gives the drink its warm, rounded base.
+4. Top slowly with chilled ginger ale. Pouring gently helps preserve carbonation, which is a big part of the drink’s refreshing character.
+5. Stir once or twice with a bar spoon—just enough to combine, not enough to flatten the bubbles.
+6. Add a dash or two of aromatic bitters if you want a slightly spicier, more layered finish. This version is often called a “Horse’s Neck with a Kick.”
+7. Finish by expressing the lemon peel over the top and leaving it in the glass for aroma as you sip.
 
-1. Prepare a highball glass and fill it with ice cubes.
-2. Pour 4 cL (1 part) of Brandy into the glass.
-3. Add 12 cL (3 parts) of Ginger Ale to the glass.
-4. Gently stir the mixture.
-5. If desired, add a dash of Angostura Bitter to the drink.
-6. Garnish the drink with lemon zest.
-7. Serve the Horse's Neck drink and enjoy!
+## What it tastes like
 
-## Tips for how to make the perfect Horse's neck
+The Horse’s Neck is light, fizzy, and easygoing, with brandy providing mellow fruit and oak beneath bright citrus and ginger spice. Without bitters, it drinks crisp and simple; with bitters, it becomes deeper and more old-school. It is a great choice for anyone who likes a refreshing highball that still feels a little refined.
 
-- Use a quality bourbon or rye whiskey for the base of your drink.
-- Make sure to use a long, spiraled strip of lemon peel for the horse's neck garnish.
-- Add a few dashes of aromatic bitters to balance out the sweetness of the ginger ale.
-- Serve over ice in a highball glass for the perfect refreshing sip.
+## Why the lemon peel matters
 
-## Alcohol-free alternative to the Horse's neck
+This cocktail is famous for its long lemon twist, and it is more than decoration. The peel adds a fragrant citrus note that sharpens the sweetness of the soda and lifts the richer notes of the spirit. If the peel is short, the drink still works—but the dramatic spiral is part of its identity.
 
-Horse's neck is a cocktail typically made with brandy and ginger ale, often garnished with a long, thin twist of lemon peel. An alcohol-free alternative to this drink could be a mocktail called the "Stablemate," which includes ginger beer, fresh lemon juice, and honey syrup. 
+## A bit of bar history
 
-To make a Stablemate, combine 6 oz of ginger beer in a cocktail shaker with ice. Add 1 oz of fresh lemon juice and 1 oz of honey syrup (which can be made by combining equal parts honey and hot water, and letting it cool). Shake until well mixed and strain into a chilled glass filled with ice. Garnish with a lemon twist or a slice of fresh ginger. 
+The Horse’s Neck dates back to the late 19th century or early 20th century, though exact origins are murky. Early versions were sometimes non-alcoholic, built from ginger ale and lemon peel alone. The brandy version became a classic later, and bitters were eventually added in some recipes to give it extra snap.
 
-This refreshing and flavorful mocktail has the same bright citrus and spicy ginger flavors as a Horse's neck, but without the alcohol. It's perfect for anyone looking for a non-alcoholic option that still has lots of character and taste.
+## Easy alcohol-free version
 
-## Horse's neck fun facts
-
-1. Horse's neck is a non-alcoholic drink made with ginger ale and a spiral of lemon peel.
-2. The drink is named after the shape of the lemon peel that resembles the neck of a horse.
-3. Horse's neck was a popular drink in the United States during the 19th century and is still served in some bars today.
-4. In Japan, Horse's neck is made with brandy or whiskey instead of ginger ale.
-5. Some variations of Horse's neck include adding a splash of bitters or substituting the lemon peel with lime or orange.
+For a zero-proof take, use a good spicy ginger ale or ginger beer over ice with the same long lemon twist. Add a dash of non-alcoholic aromatic bitters if you have them. It keeps the bright, zesty personality of the original while staying entirely booze-free.

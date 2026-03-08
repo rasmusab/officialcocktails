@@ -21,33 +21,27 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 
 ![](/cocktail-images/white_lady.jpeg)
 
+## Shaking a White Lady to a clean, silky finish
 
-## Directions for how to make the White lady
+1. Chill a cocktail glass first so the drink stays bright and cold after straining. A few minutes in the freezer works well, or fill the glass with ice water while you prepare the cocktail.
+2. Add gin, orange liqueur, and fresh lemon juice to a shaker. Freshly squeezed citrus matters here: bottled juice tends to flatten the drink’s crisp edge.
+3. Fill the shaker generously with ice. Plenty of ice helps the drink chill quickly while giving just enough dilution to soften the citrus and alcohol.
+4. Shake hard for about 10 to 15 seconds, until the outside of the shaker feels very cold. The goal is a texture that is brisk and smooth rather than watery.
+5. Empty the chilling ice from the glass if needed, then fine strain the cocktail into the glass for a polished, clear serve with no ice shards.
+6. Serve immediately, optionally with a thin lemon twist if you want a little extra aroma over the top.
 
-1. Fill a cocktail shaker with ice.
-2. Pour 4 cl of gin into the shaker.
-3. Add 3 cl of Triple Sec to the shaker.
-4. Measure 2 cl of lemon juice and pour it into the shaker.
-5. Close the cocktail shaker and shake it well for a few seconds.
-6. Strain the cocktail into a large cocktail glass.
-7. Garnish the drink with a twist of lemon or a cherry, if desired.
-8. Serve and enjoy your White lady drink.
+## What the White Lady tastes like
 
-## Tips for how to make the perfect White lady
+A White Lady is lean, citrus-led, and elegant. The gin brings dry botanical structure, the orange liqueur adds sweetness and perfume, and the lemon keeps everything sharp and lively. It drinks a bit like a brighter, more angular cousin to other classic sours, with a finish that feels crisp rather than heavy.
 
-- Use high-quality ingredients, such as top-shelf gin and Cointreau, for a smooth and sophisticated flavor.
-- Shake the ingredients vigorously with ice for at least 10 seconds to achieve a silky texture, then strain into a chilled cocktail glass.
-- Garnish with a lemon peel or twist to add a burst of citrus aroma that complements the cocktail's floral notes.
-- Experiment with different ratios of gin, Cointreau, and lemon juice to find the perfect balance of sweet, sour, and boozy flavors that suit your taste buds.
+## Sidecar family resemblance
 
-## Alcohol-free alternative to the White lady
+This drink is widely regarded as a close relation of the Sidecar, swapping brandy for gin and shifting the balance toward a lighter, more aromatic profile. Its exact origin is debated, but the version most often credited today is linked to Harry MacElhone of Harry’s New York Bar in Paris during the early 20th century. As with many classics, recipes varied before the modern formula settled into place.
 
-One alcohol-free alternative to the White Lady is the "Virgin Lady." This cocktail can be made by combining 1 ounce of lemon juice, 1 ounce of honey syrup, and 1 ounce of egg white substitute in a cocktail shaker. Shake the mixture vigorously, then add ice to the shaker and shake again. Strain the mixture into a chilled cocktail glass and garnish with a lemon twist or edible flower. This mocktail has a zesty citrus flavor and a frothy texture similar to the White Lady, but without the alcohol content.
+## Best way to serve it well
 
-## White lady fun facts
+Because it is served straight up, temperature is important. A properly chilled glass and a confident shake make a noticeable difference. If the lemon is especially sharp, a tiny adjustment in orange liqueur can round it out, but the drink should still feel dry and snappy, not sweet.
 
-1. The White Lady cocktail was first created in the 1920s, but gained popularity in the 1930s and 1940s.
-2. It is believed to have been named after the famous haunted mansion in Cornwall, England called the White Lady.
-3. The White Lady is made with gin, Cointreau (a type of triple sec), and lemon juice, and is usually served in a chilled cocktail glass.
-4. The cocktail was a favorite of Ian Fleming, the author of James Bond novels, and was featured in the book "Casino Royale" as one of Bond's favorite drinks.
-5. Variations of the White Lady have been created over the years, including the addition of egg white or the substitution of gin with vodka.
+## A no-proof White Lady idea
+
+For a non-alcoholic riff, use a zero-proof gin alternative, a non-alcoholic orange aperitif or orange syrup, and fresh lemon juice. Shake with ice exactly as you would the original. Keep the orange component modest so the drink stays crisp and grown-up instead of turning into lemonade.

@@ -21,60 +21,29 @@ Pour the tequila and orange juice into glass over ice.  Add the grenadine, which
 
 ![](/cocktail-images/tequila_sunrise.jpeg)
 
+## Building a Tequila Sunrise with the classic gradient
 
-## Directions for how to make the Tequila sunrise
+1. Fill a Collins glass generously with fresh ice so the drink stays cold and the color layers remain distinct.
+2. Pour in the tequila, then add the orange juice. Stir these together briefly before adding anything sweet, so the base is bright and evenly mixed.
+3. Slowly pour the grenadine down the inside of the glass or over the back of a spoon. It should sink toward the bottom because of its density.
+4. Wait a few seconds, then give the drink one very gentle stir if you want a soft transition from red to orange. For a more dramatic look, leave it mostly untouched.
+5. Garnish with an orange slice, half-wheel, or a cherry if you like a more retro presentation.
+6. Serve immediately with no shake and no strain—the visual effect is part of the experience, and it looks best right after building.
 
-1. Fill a Collins glass with ice.
-2. Pour 4.5 cl of tequila into the glass.
-3. Add 9 cl of orange juice to the glass.
-4. Slowly pour in 1.5 cl of grenadine syrup, allowing it to sink to the bottom of the glass.
-5. Stir the drink gently, creating a gradual blend of the grenadine and other ingredients.
-6. Add a slice of orange and a cherry to garnish the drink.
-7. Serve and enjoy your delicious Tequila sunrise!
+## What the Tequila Sunrise tastes like
 
-## Tips for how to make the perfect Tequila sunrise
+This is an easygoing, fruit-forward mixed drink with a soft tequila backbone. Orange juice brings sweetness and acidity, while grenadine adds a candy-like pomegranate note and the signature red base. The overall profile is smooth, juicy, and approachable rather than spirit-heavy.
 
-- Use high quality tequila for the best flavor. Blanco or reposado tequila work well in a Tequila sunrise. 
+If you want it less sweet, use fresh orange juice and a lighter hand when stirring. If you want it richer and more nostalgic, a slightly sweeter orange juice style works well.
 
-- Add the ingredients in the correct order: ice, tequila, orange juice, and then grenadine. This will create the signature sunrise effect in the glass. 
+## Getting the sunrise look and serving it well
 
-- Use fresh squeezed orange juice for the best flavor. Avoid using juice from concentrate or pre-bottled juice. 
+The key is density and patience. Grenadine belongs at the end, and the less you disturb the drink, the more striking the layered “sunrise” effect will be. Plenty of ice helps slow dilution and keeps the color separation cleaner for longer.
 
-- Shake the tequila and orange juice with ice in a cocktail shaker before pouring over fresh ice in the glass. This helps to blend the flavors together. 
+A Collins glass suits the drink well because the tall shape shows off the gradient. This cocktail is best served right away, especially in warm weather or at brunch, poolside, or casual parties.
 
-- Use a barspoon to slowly pour the grenadine down the inside of the glass. This will create the desired sunrise effect. 
+## A little history and a zero-proof version
 
-- Garnish the drink with a slice of orange and a cherry for a beautiful presentation.
+The modern Tequila Sunrise is most often linked to California in the early 1970s, especially the version made with tequila, orange juice, and grenadine. Earlier drinks with the same name existed, so the full origin is a little murky, but the contemporary recipe became famous through pop culture and rock-era bar menus.
 
-## Alcohol-free alternative to the Tequila sunrise
-
-One possible alcohol-free alternative to the tequila sunrise is a Virgin Sunrise. The Virgin Sunrise is made with orange juice, grenadine syrup and ginger ale. To make a Virgin Sunrise, follow these instructions:
-
-Ingredients:
-- 2 oz orange juice
-- 1 oz grenadine syrup
-- 3 oz ginger ale
-- Ice
-- Orange slice and cherry for garnish
-
-Instructions:
-1. Fill a cocktail shaker with ice.
-2. Add orange juice and grenadine syrup, and shake well.
-3. Pour the mixture into a tall glass filled with ice.
-4. Add ginger ale and stir gently.
-5. Garnish with an orange slice and cherry.
-6. Serve and enjoy!
-
-The Virgin Sunrise is a refreshing and fruity drink that is perfect for those who prefer to avoid alcohol. It has a similar appearance and taste to the tequila sunrise, but without the alcohol.
-
-## Tequila sunrise fun facts
-
-1. Tequila sunrise was created in the 1930s in Arizona by a bartender at the Arizona Biltmore Hotel.
-
-2. The drink gets its name from the way the orange juice and grenadine mixture looks when it is poured into the tequila and ice mixture. It resembles a sunrise.
-
-3. Mick Jagger is rumored to have been the first one to introduce tequila sunrise to the rock and roll scene.
-
-4. The Eagles wrote a song called "Tequila Sunrise" in 1973, which became a chart-topping hit.
-
-5. The International Bartenders Association has an official recipe for tequila sunrise, which includes tequila, orange juice, and grenadine. However, it is a versatile drink, which can be altered to taste with the addition of other fruit juices and flavors.
+For a non-alcoholic take, replace the tequila with a splash of non-alcoholic agave spirit or simply use extra orange juice with a squeeze of lime. Build it the same way so you still get the classic sunrise effect.

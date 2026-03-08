@@ -21,33 +21,28 @@ Pour the Campari and vermouth over ice into an old fashioned glass, add a splash
 
 ![](/cocktail-images/americano.jpeg)
 
+## Building the Americano over ice
 
-## Directions for how to make the Americano
+1. Fill an old fashioned glass generously with fresh, solid ice. Plenty of ice keeps the drink cold while slowing dilution, which is important for a low-proof, spirit-forward highball like this.
+2. Pour in equal parts bitter red aperitif and sweet Italian vermouth. Adding them directly over the ice begins chilling and lightly integrating the two fortified ingredients.
+3. Stir briefly, about 5 to 8 seconds, just enough to combine and cool the mixture before the fizz goes in.
+4. Add a small splash of chilled soda water. You want lift and freshness, not a fully lengthened spritz, so keep the carbonation restrained.
+5. Give the drink one gentle final stir to avoid knocking out too much effervescence.
+6. Garnish with half an orange slice and a lemon twist. Express the lemon peel over the glass first if you want a brighter citrus aroma on the nose.
+7. Serve immediately while the bubbles are lively and the balance between bitterness, sweetness, and dilution is at its best.
 
-1. Fill an old fashioned glass with ice
-2. Pour 3cl of Campari over the ice
-3. Pour 3cl of sweet red vermouth over the Campari
-4. Add a splash of soda water
-5. Garnish with half orange slice and a lemon twist
-6. Serve and enjoy!
+## What the Americano tastes like
 
-## Tips for how to make the perfect Americano
+The Americano is light in strength but layered in flavor: bitter orange peel, herbal spice, grape richness, and a refreshing sparkling finish. It drinks softer than a Negroni, with the soda water opening up the aromatics and making it especially suited to warm weather or a pre-dinner slot. If you enjoy bitter aperitifs but want something less dense and boozy, this is an ideal choice.
 
-- **Ingredients:** The key to a perfect Americano cocktail is using good quality ingredients. Use a high-quality vermouth and Campari to give the cocktail a rich and complex flavor.
-- **Ratio:** The classic Americano cocktail is made with equal parts Campari, sweet vermouth, and soda water. However, you can adjust the ratios to your personal preference. If you prefer a stronger cocktail, use more Campari and vermouth, and if you prefer a lighter cocktail, use more soda water.
-- **Garnish:** Add a lemon twist to the glass to give the cocktail a fresh and bright note. You can also add a sprig of fresh mint to complement the bitterness of the Campari.
-- **Ice:** Use large ice cubes to keep the cocktail cold without diluting it too quickly. You can also freeze some of the Campari mixture into ice cubes for an extra burst of flavor.
-- **Stir:** Stir the cocktail well with a long-handled spoon to ensure that all the ingredients are fully mixed and the flavors are well-blended.
-- **Glassware:** Serve the Americano cocktail in a large rocks glass or tumbler over ice.
+## Getting the balance right
 
-## Alcohol-free alternative to the Americano
+Because there are so few components, temperature matters. Use cold vermouth and cold soda if possible. A sweeter vermouth will make the drink rounder and more plush; a more herbal or wine-driven vermouth will sharpen the profile. If it tastes flat, the usual fix is fresher soda and more ice rather than extra bitterness.
 
-A possible alcohol free alternative to an Americano could be the Italian soda. The Italian soda is a refreshing and light drink that features sparkling water or soda water, flavored syrup, and fresh fruit. It can be made in a variety of flavors such as raspberry, blackberry, peach, vanilla, or lemon. To create a classic Italian soda, start by filling a tall glass with ice, adding 1-2 tablespoons of the chosen syrup, and then fill the glass with soda water. Stir gently and add fresh fruit slices on top. This beverage is a perfect option for those who want a flavorful and bubbly drink without the addition of alcohol.
+## From Milano-Torino to Americano
 
-## Americano fun facts
+The drink is widely believed to have evolved from the Milano-Torino, named for its two principal ingredients: bitter from Milan and vermouth from Turin. The name "Americano" likely appeared in the early 20th century, often explained by its popularity with American travelers in Italy. Exact origin details are a little murky, but that is the most commonly accepted story.
 
-1. The Americano cocktail was originally called the "Milano-Torino" because it was made of Campari from Milan and sweet vermouth from Turin.
-2. The Americano is believed to have been the first cocktail ordered by James Bond in the Ian Fleming novels.
-3. In Italy, it is common to order an "Americano sbagliato" which is made with Prosecco instead of soda water.
-4. Variations of the Americano include the Negroni, which adds gin to the mix, and the Vermouth Cassis, which substitutes cassis liqueur for soda water.
-5. The Americano gained popularity in the US during Prohibition, as it was one of the few legal cocktails that Americans could enjoy at the time.
+## A zero-proof Italian-style riff
+
+For a non-alcoholic version, combine a bitter red aperitif alternative with a dealcoholized sweet vermouth-style drink or spiced grape base, then top with soda over ice. Garnish the same way. Aim for a bittersweet, citrusy profile rather than trying to copy the original exactly.

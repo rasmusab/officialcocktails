@@ -21,31 +21,33 @@ Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strai
 
 ![](/cocktail-images/angel_face.jpeg)
 
+## Shake the Angel Face cold and clean
 
-## Directions for how to make the Angel face
+1. Chill a cocktail glass well in advance, either in the freezer for a few minutes or by filling it with ice water while you prepare the drink.
+2. Add equal measures of gin, apricot brandy, and Calvados to a cocktail shaker. Because the recipe is perfectly balanced by volume, careful measuring matters more than it might in a looser sour or highball.
+3. Fill the shaker generously with fresh ice cubes. Plenty of ice helps the drink reach the right temperature quickly without becoming flat or overly diluted.
+4. Shake hard for about 10 to 15 seconds, until the outside of the shaker feels very cold. This drink benefits from a brisk shake that slightly softens the spirit-forward edges.
+5. Empty the chilling ice from the glass if needed, then strain the mixture into the cold cocktail glass.
+6. Serve immediately, straight up and without ice. If you want a small aromatic lift, an orange twist works nicely, though the classic presentation is often left unadorned.
 
-To make an Angel face drink, follow these steps:
+## What Angel Face tastes like
 
-1. Prepare a cocktail shaker and fill it with ice cubes.
-2. Pour 3 cl of gin, 3 cl of Apricot brandy, and 3 cl of Calvados into the shaker.
-3. Shake the shaker for a few seconds until the ingredients are well mixed and chilled.
-4. Strain the mixture into a chilled cocktail glass.
-5. Serve and enjoy your Angel face drink!
+Angel Face is rich, fruity, and deceptively smooth. The gin gives structure and a dry herbal backbone, while apricot brandy adds lush stone-fruit sweetness. Calvados brings apple depth and a gently rustic orchard note that keeps the drink from becoming candy-like.
 
-## Tips for how to make the perfect Angel face
+The overall profile sits somewhere between elegant and indulgent: fragrant at first sip, then warming and quietly powerful.
 
-- Fill a shaker with ice and add 1 1/2 ounces of gin, 3/4 ounces of apricot brandy, 1/2 ounce of fresh lemon juice, and 1/2 ounce of triple sec.
-- Shake well and strain into a chilled cocktail glass.
-- Garnish with a lemon twist and a cherry for the perfect Angel Face cocktail.
+## Best way to present it
 
-## Alcohol-free alternative to the Angel face
+This cocktail shines when served very cold in a small cocktail glass. Because there is no citrus or sparkling component, temperature is a big part of the experience. A well-chilled glass keeps the texture silky and the fruit notes focused.
 
-One option for an alcohol-free alternative to the Angel Face cocktail could be a mocktail made with fruit juices and soda water. Mix together equal parts orange, pineapple, and cranberry juice in a shaker with ice. Shake well and strain into a glass over ice. Top with soda water and garnish with a slice of orange or a cherry. This drink has a fruity, refreshing flavor that is similar to the Angel Face cocktail but without the alcohol.
+It works best as an after-dinner cocktail or a slower pre-dinner sipper for guests who enjoy fruit-driven classic drinks.
 
-## Angel face fun facts
+## A little background and bar-room trivia
 
-* `1.` Angel face is a classic cocktail that dates back to the Prohibition Era in the United States.
-* `2.` The drink is made with equal parts of gin, apple brandy, and apricot brandy, making it a fruity yet booze-forward cocktail.
-* `3.` The name "Angel face" comes from the nickname given to actress Jean Harlow, who was known for her beautiful yet innocent-looking face.
-* `4.` The Angel face cocktail is mentioned in the 1962 James Bond novel "The Spy Who Loved Me" by Ian Fleming.
-* `5.` Some variations of the drink include adding a splash of lemon juice or garnishing with an orange peel twist.
+Angel Face appears in classic cocktail books from the early 20th century and is commonly associated with the Savoy tradition, though exact origin details are a bit murky. The most credible context places it among interwar European-style spirit cocktails that favored equal-parts simplicity.
+
+Its name is notably charming for a drink with real strength: equal parts of three full-bodied spirits make it far more potent than its soft fruit aroma suggests.
+
+## A zero-proof orchard version
+
+For a non-alcoholic riff, combine equal parts non-alcoholic gin alternative, apricot nectar or apricot cordial, and a good alcohol-free sparkling apple aperitif or still cloudy apple juice. Shake with ice, then strain into a chilled glass. It will be sweeter and softer than the original, but it keeps the drink’s signature orchard-and-botanical character.

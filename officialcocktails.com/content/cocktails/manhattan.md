@@ -21,35 +21,26 @@ Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a 
 
 ![](/cocktail-images/manhattan.jpeg)
 
+## How to mix a proper Manhattan
 
-## Directions for how to make the Manhattan
+1. Chill a cocktail glass first so the drink stays crisp when served straight up. A few minutes in the freezer works well, or fill the glass with ice water while you mix.
+2. Add rye, sweet vermouth, and a dash of aromatic bitters to a mixing glass filled with solid ice. Use plenty of ice so the drink chills quickly without over-diluting.
+3. Stir steadily for about 20 to 30 seconds. The goal is a silky, cold texture with just enough dilution to soften the whiskey and knit the flavors together.
+4. Empty the chilling ice or water from your serving glass, then strain the drink into it. A fine strain is optional if you want an especially polished finish.
+5. Garnish with a cocktail cherry. Drop it in for a slightly richer finish, or rest it on a pick for a cleaner presentation.
 
-1. Fill a mixing glass with ice cubes.
-2. Pour 50 ml of Rye whiskey into the mixing glass.
-3. Add 20 ml of sweet red vermouth to the mixing glass.
-4. Add a dash of Angostura bitters to the mixing glass.
-5. Stir the mixture in the mixing glass well using a bar spoon.
-6. Strain the mixture into a chilled cocktail glass.
-7. Consider adding a garnish of a cherry or twist of orange peel, if desired.
+## What the Manhattan tastes like
 
-## Tips for how to make the perfect Manhattan
+A Manhattan is spirit-forward, warming, and elegant. Rye gives it spice and structure, while sweet vermouth adds dark fruit, herbs, and a gentle roundness. The bitters bring the whole drink into focus with a dry, aromatic snap. Expect notes of baking spice, cherry, orange peel, and a lightly bitter finish.
 
-- Use high-quality liquor: A Manhattan is a simple cocktail made with just a few ingredients, so it's essential to use high-quality bourbon or rye whiskey. Don't skimp on the liquor—it's the star of the show.
+## Small details that improve the serve
 
-- Choose a good vermouth: Vermouth is the other main ingredient in a Manhattan, so it's important to choose a good one. Opt for a dry vermouth that isn't too sweet. The vermouth should enhance the flavor of the whiskey without overpowering it.
+Because this drink is served without ice, temperature matters. Stir until properly cold, and always use a chilled glass. If you want a softer, richer version, try it with bourbon instead of rye. For garnish, a good cherry makes a difference: choose one with deep flavor rather than a bright red candy-style version.
 
-- Don't forget the bitters: Bitters are an essential ingredient in a Manhattan, and they add depth and complexity to the cocktail. Use a couple of dashes of aromatic bitters, such as Angostura, to balance the sweetness of the vermouth.
+## Manhattan history and a few likely truths
 
-- Take your time when stirring: A Manhattan should be stirred, not shaken, to prevent the drink from becoming too diluted. Stir the cocktail gently for about 30 seconds, being careful not to overdo it. Strain the drink into a chilled glass and enjoy!
+The exact origin is debated. A popular story links the drink to New York’s Manhattan Club in the 1870s, but historians aren’t certain that tale is accurate. What is clear is that the Manhattan appeared in print by the late 19th century and became one of the defining American whiskey cocktails. Its staying power comes from balance: simple formula, strong identity, almost endlessly tweakable.
 
-## Alcohol-free alternative to the Manhattan
+## A zero-proof Manhattan-style riff
 
-One alcohol-free alternative to the Manhattan cocktail is the "Manhattan Mocktail." This mocktail is made with a combination of non-alcoholic ingredients, such as ginger beer, cranberry juice, and cherry syrup, and served with a garnish of maraschino cherries. Another option is the "Virgin Manhattan," which is made with non-alcoholic bourbon or whiskey substitutes, such as Seedlip Spice 94 or Ritual Zero Proof Whiskey Alternative, mixed with sweet vermouth and bitters. Both of these alternatives offer a similar taste and experience to the classic Manhattan cocktail without the alcohol.
-
-## Manhattan fun facts
-
-1. The Manhattan cocktail was created in the late 1800s in New York City, and it is believed that it was named after the borough of Manhattan.
-2. The classic recipe for a Manhattan includes rye or bourbon whiskey, sweet vermouth, and bitters, but there are many variations and interpretations.
-3. The Manhattan is a popular drink in pop culture and has been featured in movies like "The Big Lebowski" and "Mad Men."
-4. There is a theory that the Manhattan was originally created for a banquet in honor of presidential candidate Samuel Tilden in Manhattan's Manhattan Club, but this has been debunked by historians.
-5. The Manhattan is often served with a cherry, which is a modern addition to the recipe and was not included in the original.
+For a non-alcoholic version, stir a strong alcohol-free whiskey alternative with a red bittersweet aperitif substitute and a few dashes of non-alcoholic aromatic bitters over ice, then strain into a chilled glass. Garnish with a cherry. It will not taste identical, but it can echo the Manhattan’s spicy, herbal, slightly bitter character.

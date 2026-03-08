@@ -22,34 +22,27 @@ Pour all ingredients into shaker with ice cubes, shake, strain into chilled cock
 
 ![](/cocktail-images/between_the_sheets.jpeg)
 
+## How to shake a proper Between the Sheets
 
-## Directions for how to make the Between the sheets
+1. Chill a cocktail glass first so the drink stays brisk and elegant once poured. A few minutes in the freezer works well, or fill the glass with ice water while you prepare the mix.
+2. Add white rum, cognac, orange liqueur, and freshly squeezed lemon juice to a shaker. Fresh citrus matters here: bottled juice can make the drink taste flat and harsh.
+3. Fill the shaker generously with solid ice cubes. Plenty of ice helps the drink chill quickly while controlling dilution.
+4. Shake hard for about 10 to 15 seconds, until the outside of the shaker feels very cold. This cocktail benefits from a lively shake to soften the spirit-forward base and brighten the citrus.
+5. Empty the chilling ice from the glass if you used it, then fine-strain the drink into the cold cocktail glass for a smooth, polished texture.
+6. Serve immediately, optionally with a thin orange twist or a small lemon twist if you want a subtle aromatic lift without changing the classic build.
 
-To make a Between the sheets drink, follow these steps:
+## What Between the Sheets tastes like
 
-1. Prepare a Cocktail glass by chilling it in the freezer or filling it with ice to chill it.
-2. Add ice cubes to a shaker.
-3. Pour in 3 cl of white rum, 3 cl of cognac, 3 cl of triple sec, and 2 cl of fresh lemon juice.
-4. Shake the ingredients vigorously until the shaker feels cold in your hand.
-5. Strain the cocktail into the chilled cocktail glass, using a strainer to remove any ice or small pieces of fruit.
-6. Garnish with a lemon twist or orange peel, if desired. Enjoy!
+This is a bright, dry, old-school sour with a split-spirit backbone. The rum brings light sweetness, the cognac adds depth and warmth, and the orange liqueur ties them together with a perfumed citrus note. Lemon keeps the whole drink taut and brisk. Compared with a Sidecar, it feels a bit lighter and more playful, though still very much a classic cocktail.
 
-## Tips for how to make the perfect Between the sheets
+## A likely backstory, with a little uncertainty
 
-- Use a high-quality cognac and white rum to ensure a rich and smooth flavor.
-- Use fresh lemon juice to add a bright citrus note.
-- Adjust the sweetness to taste with simple syrup, adding more or less depending on personal preference. 
-- Shake all ingredients well with ice before straining into a chilled cocktail glass. 
-- Consider garnishing with a lemon twist for an extra touch of elegance.
+The exact origin is not fully settled, but the drink is usually linked to the early 20th century and often associated with Harry’s New York Bar in Paris. It is widely seen as a close relative of both the Sidecar and the rum-based Maiden’s Prayer family of drinks. Whatever its precise birthplace, it belongs to the era when simple, spirit-led shaken cocktails defined sophisticated bar culture.
 
-## Alcohol-free alternative to the Between the sheets
+## Best moment to serve it
 
-An alcohol-free alternative to the drink Between the Sheets could be a mocktail called "Between the Sheets Mocktail." It can be made by combining pineapple juice, cranberry juice, lemon juice, and a splash of grenadine syrup. The drink can be garnished with a lemon twist or a pineapple wedge to make it visually appealing. This mocktail will provide the tangy and fruity flavors of the alcoholic original cocktail without the effects of alcohol.
+Between the Sheets works especially well as a pre-dinner drink: cold, sharp, and appetite-whetting. Because it is served up and without ice, make it only when you are ready to drink it. If it tastes too sharp for your crowd, a tiny touch more orange liqueur can round it out; if it seems too soft, a little extra lemon will bring the snap back.
 
-## Between the sheets fun facts
+## A zero-proof nod to the original
 
-- The Between the sheets cocktail was created in the 1920s in Paris, France.
-- The original recipe for Between the sheets calls for cognac, white rum, lemon juice, and Cointreau.
-- The name “Between the sheets” is supposed to represent the fact that the drink is strong enough to make you forget your inhibitions.
-- There’s a variation of Between the sheets called the Maiden’s Prayer which adds grapefruit juice to the mix.
-- Between the sheets is considered a classic cocktail and has been featured in many movies and television shows over the years.
+For a non-alcoholic version, shake together chilled non-alcoholic brandy alternative, non-alcoholic white rum alternative, a spoonful of orange syrup or alcohol-free triple sec-style mixer, and fresh lemon juice. Strain into a chilled cocktail glass. It will not fully mimic the original’s depth, but it can echo the same citrusy, grown-up balance.
